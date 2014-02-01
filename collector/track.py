@@ -12,11 +12,6 @@ def streamToRedis(words=['twitter']):
 
 if __name__ == '__main__':
     track = [
-                ["peyton", "manning"],
-                ["russel", "wilson"],
-                ["russel,wilson", "peyton,manning"],
-                ["richard", "sherman"],
-                ["superbowl"],
                 ["seahawks"],
                 ["broncos"]
             ]
@@ -24,6 +19,6 @@ if __name__ == '__main__':
     procs = [Process(target=streamToRedis, args=(words,)) for words in track]
     for p in procs:
         p.start()
+
     for p in procs:
         p.join()
-

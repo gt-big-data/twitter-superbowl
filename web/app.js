@@ -1,10 +1,6 @@
 var redis = require("redis"),
     client = redis.createClient();
-client.select(1, function() {
-    client.get("track:peyton&manning:period", function(err, reply) {
-        console.log(reply); 
-    });
-});
+client.select(1);
 
 
 var express = require("express");
@@ -14,11 +10,14 @@ app.use(express.bodyParser());
 app.use(express.methodOverride());
 app.use(app.router);
 
-app.get("/", function(req, res) {
+app.get("/data", function(req, res) {
+  var phrase = req.query.phrase
+  console.log(phrase);
+     
   client.multi()
-    .get("track:peyton&manning:period")
-    .get("track:peyton&manning:start")
-    .lrange("track:peyton&manning:end", 0, -1)
+    .get("track:" + phrase + ":period")
+    .get("track:" + phrase + ":start")
+    .lrange("track:"+ phrase + ":end", 0, -1)
     .exec(function(err, replies) {
         if(err) throw err;
         res.send({

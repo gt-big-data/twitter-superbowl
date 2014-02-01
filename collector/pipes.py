@@ -23,11 +23,12 @@ class RedisPipe:
             self.prev = time.time()
             self.r.set(self.startKey(), self.prev)
             self.r.set(self.periodKey(), self.period)
-        if time.time() - self.prev > self.period:
+        timeElapsed = time.time() - self.prev 
+        if timeElapsed > self.period:
             self.onNextTime()
             self.prev = time.time() 
+        print self.ns, " time elapsed ", timeElapsed
         count = self.r.incr(self.curKey())
-        print "Got tweet", count
 
     def curKey(self):
         return self.ns + ":" + "cur"
@@ -42,6 +43,7 @@ class RedisPipe:
         return self.ns + ":period" 
 
     def onNextTime(self):
+        print "moving forward", self.ns
         curVal = self.r.getset(self.curKey(), 0)
         missed = int(math.floor((time.time() - self.prev) / self.period)) - 1
         for i in range(missed):
@@ -57,6 +59,8 @@ class MongoPipe:
     def autoparse(self): return True;
 
     def accept_tweet(self, tweet):
+        if u'text' not in tweet and 'text' not in tweet:
+            return
         try:
             parsed = { 
                       'text' : tweet[u'text'],
@@ -74,9 +78,11 @@ class MongoPipe:
                       'keywords' : self.keywords
                     }
             tweet_id = self.db.tweets.insert(parsed)
-            print "added tweet in mongodb!", tweet_id
         except KeyError as e:
-            print "Key error", e
-        except Exception as e:
-            print e
+            print self.keywords, "Key error", e
+            print tweet
+            pass
+        except:
+            print self.keywords, "Skip"
+            pass
 
