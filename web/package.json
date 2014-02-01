@@ -1,0 +1,16 @@
+{
+  "name": "web",
+  "version": "0.0.0",
+  "description": "web server side of the superbowl thing",
+  "scripts": {
+    "start" : "node app.js",
+    "test": "test"
+  },
+  "dependencies": {
+    "express" : "*",
+    "hiredis" : "*",
+    "redis" : "*"
+  },
+  "author": "",
+  "license": "BSD-2-Clause"
+}
