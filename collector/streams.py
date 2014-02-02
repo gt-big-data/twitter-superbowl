@@ -24,19 +24,24 @@ class TwitterFilterStream:
             stream=True
         )
         last = None
+        autoparse = any(pipe.autoparse() for pipe in self.pipes)
         for line in resp.iter_lines():
             last = line
+            parsed = None
+            if autoparse:
+              try:
+                parsed = json.loads(line)
+              except Exception as e:
+                #it wasn't meant to be..
+                print "Failed to parse tweet!", e
+                continue
             if line:
                 for pipe in self.pipes:
-                    parsed = line
                     if pipe.autoparse():
-                        try:
-                          parsed = json.loads(parsed)
-                        except Exception as e:
-                          #it wasn't meant to be..
-                          print "Failed to parse tweet!", e
-                          continue
-                    pipe.accept_tweet(parsed)
+                        pipe.accept_tweet(parsed)
+                    else:
+                        pipe.accept_tweet(line)
+
             if self.stop:
                 break
         print "Finished", self.filterValues, last

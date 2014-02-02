@@ -2,6 +2,7 @@ import math
 import pymongo
 import redis
 import time
+import re, string 
 
 class PrintPipe:
     def autoparse(self): return False;
@@ -10,13 +11,15 @@ class PrintPipe:
         print line
 
 class RedisPipe:
-    def __init__(self, host="localhost", port=6379, db=0, ns="", period=15.):
+    def __init__(self, word, host="localhost", port=6379, db=0, ns="", period=15.):
         self.r = redis.StrictRedis(host=host, port=port, db=db)
         self.ns = ns
+        self.word = word
+        self.pattern = re.compile(".*" + word + ".*", flags=re.I) 
         self.prev = 0
         self.period = period
 
-    def autoparse(self): return False;
+    def autoparse(self): return True;
 
     def accept_tweet(self, tweet):
         if self.prev == 0:
@@ -24,10 +27,11 @@ class RedisPipe:
             self.r.set(self.startKey(), self.prev)
             self.r.set(self.periodKey(), self.period)
         timeElapsed = time.time() - self.prev 
+        if u'text' in tweet and self.pattern.match(tweet[u'text']):
+            count = self.r.incr(self.curKey())
         if timeElapsed > self.period:
             self.onNextTime()
             self.prev = time.time() 
-        count = self.r.incr(self.curKey())
 
     def curKey(self):
         return self.ns + ":" + "cur"
@@ -50,10 +54,9 @@ class RedisPipe:
         self.r.rpush(self.endList(), curVal)
 
 class MongoPipe:
-    def __init__(self, host="localhost", port=27017, keywords=""):
+    def __init__(self, host="localhost", port=27017):
         self.m = pymongo.MongoClient(host, port)
         self.db = self.m.superbowl
-        self.keywords = keywords
 
     def autoparse(self): return True;
 
@@ -74,7 +77,6 @@ class MongoPipe:
                           'place' : tweet[u'place'],
                           'user_timezone' : tweet[u'user'][u'time_zone']
                        },
-                      'keywords' : self.keywords,
                       'hashtags' : tweet[u'entities'][u'hashtags'],
                       'urls' : tweet[u'entities'][u'urls']
                     }
