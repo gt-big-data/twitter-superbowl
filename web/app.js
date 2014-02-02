@@ -8,6 +8,7 @@ var app = express();
 
 app.use(express.bodyParser());
 app.use(express.methodOverride());
+app.use("/", express.static(__dirname + "/public"));
 app.use(app.router);
 
 app.get("/data", function(req, res) {
@@ -21,6 +22,7 @@ app.get("/data", function(req, res) {
     .exec(function(err, replies) {
         if(err) throw err;
         res.send({
+          phrase: phrase,
           period: replies[0],
           start: replies[1],
           frequencies: replies[2]
