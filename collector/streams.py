@@ -23,7 +23,9 @@ class TwitterFilterStream:
             data=data,
             stream=True
         )
+        last = None
         for line in resp.iter_lines():
+            last = line
             if line:
                 for pipe in self.pipes:
                     parsed = line
@@ -37,6 +39,7 @@ class TwitterFilterStream:
                     pipe.accept_tweet(parsed)
             if self.stop:
                 break
+        print "Finished", self.filterValues, last
 
     def stop(self):
         self.stop = True

@@ -27,7 +27,6 @@ class RedisPipe:
         if timeElapsed > self.period:
             self.onNextTime()
             self.prev = time.time() 
-        print self.ns, " time elapsed ", timeElapsed
         count = self.r.incr(self.curKey())
 
     def curKey(self):
@@ -75,14 +74,16 @@ class MongoPipe:
                           'place' : tweet[u'place'],
                           'user_timezone' : tweet[u'user'][u'time_zone']
                        },
-                      'keywords' : self.keywords
+                      'keywords' : self.keywords,
+                      'hashtags' : tweet[u'entities'][u'hashtags'],
+                      'urls' : tweet[u'entities'][u'urls']
                     }
             tweet_id = self.db.tweets.insert(parsed)
         except KeyError as e:
             print self.keywords, "Key error", e
             print tweet
             pass
-        except:
-            print self.keywords, "Skip"
+        except Exception as e:
+            print self.keywords, "Skip", e
             pass
 
