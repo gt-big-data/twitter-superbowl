@@ -33,7 +33,7 @@ class TwitterFilterStream:
                 parsed = json.loads(line)
               except Exception as e:
                 #it wasn't meant to be..
-                print "Failed to parse tweet!", e
+                print "Failed to parse tweet!", line 
                 continue
             if line:
                 for pipe in self.pipes:

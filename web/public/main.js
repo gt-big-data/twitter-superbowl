@@ -126,9 +126,3 @@ words = "seattle,seahawks,wilson,denver,broncos,manning,sb48,superbowl".split(",
 paths = words.map(function(word) {return "/data/?phrase=" + word});
 
 init(paths);
-setInterval(function() {
-	init(paths);
-	console.log("RELOAD");
-}, 5000);
-
-setInterval()

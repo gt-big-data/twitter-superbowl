@@ -24,7 +24,7 @@ class RedisPipe:
     def accept_tweet(self, tweet):
         if self.prev == 0:
             self.prev = time.time()
-            self.r.set(self.startKey(), self.prev)
+            self.r.setnx(self.startKey(), time.time());
             self.r.set(self.periodKey(), self.period)
         timeElapsed = time.time() - self.prev 
         if u'text' in tweet and self.pattern.match(tweet[u'text']):
@@ -46,7 +46,6 @@ class RedisPipe:
         return self.ns + ":period" 
 
     def onNextTime(self):
-        print "moving forward", self.ns
         curVal = self.r.getset(self.curKey(), 0)
         missed = int(math.floor((time.time() - self.prev) / self.period)) - 1
         for i in range(missed):
@@ -57,6 +56,7 @@ class MongoPipe:
     def __init__(self, host="localhost", port=27017):
         self.m = pymongo.MongoClient(host, port)
         self.db = self.m.superbowl
+        self.writeBuf = [] 
 
     def autoparse(self): return True;
 
@@ -80,12 +80,24 @@ class MongoPipe:
                       'hashtags' : tweet[u'entities'][u'hashtags'],
                       'urls' : tweet[u'entities'][u'urls']
                     }
-            tweet_id = self.db.tweets.insert(parsed)
+            self.writeBuf.append(parsed)
+            if len(self.writeBuf) > 1000:
+                tweet_id = self.db.tweets.insert(self.writeBuf)
+                del self.writeBuf[0:len(self.writeBuf)]
         except KeyError as e:
-            print self.keywords, "Key error", e
+            print "Key error", e
             print tweet
             pass
         except Exception as e:
             print self.keywords, "Skip", e
             pass
 
+class FilePipe:
+    def __init__(self, filename="tweets.json"):
+        self.filename = filename
+        self.f = open(filename, 'a')
+
+    def autoparse(self): return False;
+
+    def accept_tweet(self, tweet):
+        print >>self.f, tweet
