@@ -18,6 +18,9 @@ Qualitative events:
 * Seahawk victory shown by the spike at the end
 * People talking much more about broncos than seahawks, probably frustrated by the former's performance
 
+# Next Steps
+We have all the tweets in a json file. We can take a look at them and do sentiment analysis.
+
 # Install / run
 We used Redis to keep statistics, and dumped each tweet into a text file and mongodb. We used Node to connect to Redis
 and rendered the data in D3.js.
