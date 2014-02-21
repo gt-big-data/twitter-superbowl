@@ -3,3 +3,6 @@ env
 web/node_modules
 collector/api_keys.py
 tweets.json*
+*.json
+*.tsv
+*.swp

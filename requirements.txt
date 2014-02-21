@@ -1,5 +1,6 @@
 argparse==1.2.1
 distribute==0.6.34
+ipython==1.2.0
 oauthlib==0.6.1
 pymongo==2.6.3
 redis==2.9.1
