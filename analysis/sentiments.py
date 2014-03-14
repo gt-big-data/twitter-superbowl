@@ -4,10 +4,6 @@ import re
 
 
 class MRWordFrequencyCount(MRJob):
-    """
-    def configure_options(self):
-        super(MRWordFrequencyCount, self).configure_options()
-        self.add_file_option('--file')"""
 
     def mapper_init(self):
         self.weights = {}
