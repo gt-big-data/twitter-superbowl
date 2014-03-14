@@ -40,13 +40,13 @@ with open('geo-text-time.tsv', 'rt') as tsvin:
                     buckets[keyvalue]["counts"][word] += 1   
                 else:
                     buckets[keyvalue]["counts"][word] = 1
-
+"""
 for interval, tweets in buckets.items():
     length = len(tweets)
     thelength = str(length)
     theinterval = str(interval)
-    #print(theinterval + " " + thelength)
-
+    print(theinterval + " " + thelength)
+"""
 averages = {}
 
 for word in wordcount:
@@ -59,18 +59,48 @@ for interval, tweets in buckets.items():
     for word in wordcount:
         if word in buckets[interval]["counts"]:
             num = buckets[interval]["counts"][word]
-            if num > averages[word]:
+            if num > (2 * averages[word]):
                 if word in over:
                     over[word] += (interval,)
                 if word not in over:
                     over[word] = (interval,)
-            
 
-print(wordcount["seahawks"])
-print(wordcount["manning"])
-print(averages["seahawks"])
-print(averages["manning"])
+exactover = {}
+
+for keyword, tup in over.items():
+    for interval in tup:
+        if interval < 0:
+            interval = 240 - interval # ??????
+        """
+        if interval == 0:
+            exactover[keyword] = start
+        elif interval <= 60:
+            time = # add interval minutes to start
+            exactover[keyword] = time
+        elif interval <= 120:
+            time = # add 1 hour and interval - 60 minutes
+            exactover[keyword] = time
+        elif interval <= 180:
+            time = # add 2 hours and interval - 120 minutes
+            exactover[keyword] = time
+        else:
+            time = # add 3 hours and interval - 180 minutes
+            exactover[keyword] = time
+        """
+
+seahawkstot = wordcount["seahawks"]
+manningtot = wordcount["manning"]
+seahawksavg = averages["seahawks"]
+manningavg = averages["manning"]
+
+print("\nSeahawks was tweeted {} times".format(seahawkstot))
+print("\nManning was tweeted {} times".format(manningtot))
+print("\nSeahawks was tweeted {:2f} times per minutes".format(seahawksavg))
+print("\nManning was tweeted {:2f} times per minutes\n".fromat(manningavg))
 print(over["seahawks"])
+
+
+
 
 
 
