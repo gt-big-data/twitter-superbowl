@@ -3,7 +3,7 @@ import json
 import re
 
 
-class MRWordFrequencyCount(MRJob):
+class MRSentiment(MRJob):
 
     def mapper_init(self):
         self.weights = {}
@@ -19,6 +19,7 @@ class MRWordFrequencyCount(MRJob):
         tweet = json.loads(tweet)
         if tweet["text"]:
             ls = tweet["text"].lower().split()
+            ls = [word for word in ls if not word.startswith('@')]
             count = 0
             for word in ls:
                 if word in self.weights:
@@ -29,8 +30,8 @@ class MRWordFrequencyCount(MRJob):
 
     def reducer(self, key, values):
         values = list(values)
-        yield key, sum(values) / len(values)
-
+        values.extend([0] * 5)
+        yield key, (sum(values) / len(values), len(values))
 
 if __name__ == '__main__':
-    MRWordFrequencyCount.run()
+    MRSentiment.run()

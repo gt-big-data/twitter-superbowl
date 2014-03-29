@@ -40,13 +40,7 @@ with open('geo-text-time.tsv', 'rt') as tsvin:
                     buckets[keyvalue]["counts"][word] += 1   
                 else:
                     buckets[keyvalue]["counts"][word] = 1
-"""
-for interval, tweets in buckets.items():
-    length = len(tweets)
-    thelength = str(length)
-    theinterval = str(interval)
-    print(theinterval + " " + thelength)
-"""
+
 averages = {}
 
 for word in wordcount:
