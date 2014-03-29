@@ -59,29 +59,6 @@ for interval, tweets in buckets.items():
                 if word not in over:
                     over[word] = (interval,)
 
-exactover = {}
-
-for keyword, tup in over.items():
-    for interval in tup:
-        if interval < 0:
-            interval = 240 - interval # ??????
-        """
-        if interval == 0:
-            exactover[keyword] = start
-        elif interval <= 60:
-            time = # add interval minutes to start
-            exactover[keyword] = time
-        elif interval <= 120:
-            time = # add 1 hour and interval - 60 minutes
-            exactover[keyword] = time
-        elif interval <= 180:
-            time = # add 2 hours and interval - 120 minutes
-            exactover[keyword] = time
-        else:
-            time = # add 3 hours and interval - 180 minutes
-            exactover[keyword] = time
-        """
-
 seahawkstot = wordcount["seahawks"]
 manningtot = wordcount["manning"]
 seahawksavg = averages["seahawks"]
