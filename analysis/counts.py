@@ -41,12 +41,6 @@ with open('geo-text-time.tsv', 'rt') as tsvin:
                 else:
                     buckets[keyvalue]["counts"][word] = 1
 
-for interval, tweets in buckets.items():
-    length = len(tweets)
-    thelength = str(length)
-    theinterval = str(interval)
-    #print(theinterval + " " + thelength)
-
 averages = {}
 
 for word in wordcount:
@@ -59,18 +53,25 @@ for interval, tweets in buckets.items():
     for word in wordcount:
         if word in buckets[interval]["counts"]:
             num = buckets[interval]["counts"][word]
-            if num > averages[word]:
+            if num > (2 * averages[word]):
                 if word in over:
                     over[word] += (interval,)
                 if word not in over:
                     over[word] = (interval,)
-            
 
-print(wordcount["seahawks"])
-print(wordcount["manning"])
-print(averages["seahawks"])
-print(averages["manning"])
+seahawkstot = wordcount["seahawks"]
+manningtot = wordcount["manning"]
+seahawksavg = averages["seahawks"]
+manningavg = averages["manning"]
+
+print("\nSeahawks was tweeted {} times".format(seahawkstot))
+print("\nManning was tweeted {} times".format(manningtot))
+print("\nSeahawks was tweeted {:2f} times per minutes".format(seahawksavg))
+print("\nManning was tweeted {:2f} times per minutes\n".fromat(manningavg))
 print(over["seahawks"])
+
+
+
 
 
 

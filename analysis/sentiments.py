@@ -1,56 +1,37 @@
-import re
-import sys
+from mrjob.job import MRJob
 import json
+import re
 
-def get_tweet_sentiment(tweet_dict, weights):
-    score = 0.0
-    text = ""
-    if u'text' in tweet_dict:
-        utf8_text = tweet_dict[u'text']
-        text = utf8_text
-        toks = re.split('\s+', utf8_text.lower())
-        for word in toks:
-            word = re.sub('\W', '', word)
-            if word in weights:
-                score += weights[word]
-        score = min(6, score)
-        score = max(-6, score)
-        for word in toks:
-            word = re.sub('\W', '', word)
-            if word not in weights and len(word) > 3:
-                weights[word] = 0
 
-    return score, text
+class MRSentiment(MRJob):
 
-def readWeights():
-    weights = {}
-    with open('sentiments.txt') as f:
-        for line in f:
-            toks = re.split('\s+', line.strip().lower()) 
-            if len(toks) == 2:
-                word = toks[0]
-                word = re.sub('\W', '', word)
-                weights[word] = float(toks[1])
-    return weights
+    def mapper_init(self):
+        self.weights = {}
+        with open("sentiments.txt", "r") as f:
+            for line in f:
+                ls = re.split('\s+', line.strip().lower())
+                if len(ls) == 2:
+                    word = ls[0]
+                    word = re.sub('\W', '', word)
+                    self.weights[word] = float(ls[1])
 
-def main(tweet_file):
-    weights = readWeights()
-    sentiments = []
-    with open(tweet_file) as tf:
-        for line in tf:
-            if line:
-                tweet = json.loads(line)
-                score, tweet_text = get_tweet_sentiment(tweet, weights)
-                if abs(score) > 2:
-                    print tweet_text, " had score ", score
-                sentiments.append(score)
-    total = 0.0
-    for num in sentiments:
-        total += num
-    print total / len(sentiments)
+    def mapper(self, _, tweet):
+        tweet = json.loads(tweet)
+        if tweet["text"]:
+            ls = tweet["text"].lower().split()
+            ls = [word for word in ls if not word.startswith('@')]
+            count = 0
+            for word in ls:
+                if word in self.weights:
+                    count += self.weights[word]
+            for word in ls:
+                if word not in self.weights:
+                    yield word, count
+
+    def reducer(self, key, values):
+        values = list(values)
+        values.extend([0] * 5)
+        yield key, (sum(values) / len(values), len(values))
 
 if __name__ == '__main__':
-    f = sys.stdin
-    if len(sys.argv) > 1:
-        f = open(sys.argv[1])
-    main(sys.argv[1])
+    MRSentiment.run()
