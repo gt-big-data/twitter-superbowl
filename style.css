@@ -1,0 +1,91 @@
+#periodSel {
+    width: 80%;
+    margin: auto;
+}
+
+.time {
+    font-size: 120%;
+}
+
+.time b {
+    font-size: 200%;
+}
+
+.center-2 {
+    width: 500px;
+    margin:auto;
+}
+
+#heading {
+    font-size: 300%;
+    vertical-align: middle;
+
+}
+
+#heading img {
+    vertical-align: middle;
+}
+
+h1 {
+    display:block;
+    text-align: center;
+}
+
+.center {
+    width: 1000px;
+    margin: auto;
+}
+
+#main {
+    width = 80%;
+    margin: auto;
+}
+
+.sent--1 {
+   color: #400000;
+   font-size: 150%;
+}
+
+.sent--2 {
+   color: #900000;
+   font-size: 200%;
+}
+
+.sent--3 {
+   color: #A80000;
+   font-size: 250%;
+}
+
+.sent--4 {
+   color: #B80000;
+   font-size: 350%;
+}
+
+.sent--5 {
+   color: #EF0000;
+   font-size: 450%;
+}
+.sent-1 {
+   color: #004000;
+   font-size: 150%;
+}
+
+.sent-2 {
+   color: #009000;
+   font-size: 200%;
+}
+
+.sent-3 {
+   color: #00A800;
+   font-size: 250%;
+}
+
+.sent-4 {
+   color: #00B800;
+   font-size: 350%;
+}
+
+.sent-5 {
+   color: #00EF00;
+   font-size: 450%;
+}
