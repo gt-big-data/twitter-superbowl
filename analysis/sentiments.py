@@ -1,6 +1,8 @@
 from mrjob.job import MRJob
 import json
 import re
+from datetime import datetime
+import calendar
 
 
 class MRSentiment(MRJob):
@@ -18,6 +20,8 @@ class MRSentiment(MRJob):
     def mapper(self, _, tweet):
         tweet = json.loads(tweet)
         if tweet["text"]:
+            timedate = tweet["created_at"].split()
+            date = datetime.strptime(timedate, "%Y-%m-%d %H:%M:%S")
             ls = tweet["text"].lower().split()
             ls = [word for word in ls if not word.startswith('@')]
             count = 0
@@ -26,7 +30,7 @@ class MRSentiment(MRJob):
                     count += self.weights[word]
             for word in ls:
                 if word not in self.weights:
-                    yield word, count
+                    yield word, count, date
 
     def reducer(self, key, values):
         values = list(values)

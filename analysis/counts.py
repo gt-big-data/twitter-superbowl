@@ -58,21 +58,3 @@ for interval, tweets in buckets.items():
                     over[word] += (interval,)
                 if word not in over:
                     over[word] = (interval,)
-
-seahawkstot = wordcount["seahawks"]
-manningtot = wordcount["manning"]
-seahawksavg = averages["seahawks"]
-manningavg = averages["manning"]
-
-print("\nSeahawks was tweeted {} times".format(seahawkstot))
-print("\nManning was tweeted {} times".format(manningtot))
-print("\nSeahawks was tweeted {:2f} times per minutes".format(seahawksavg))
-print("\nManning was tweeted {:2f} times per minutes\n".fromat(manningavg))
-print(over["seahawks"])
-
-
-
-
-
-
-
