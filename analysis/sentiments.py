@@ -9,6 +9,9 @@ class MRSentiment(MRJob):
 
     def mapper_init(self):
         self.weights = {}
+        start = '2014-02-02 18:30:00'
+        startdate = datetime.strptime(start, "%Y-%m-%d %H:%M:%S")
+        millistart = calendar.timegm(startdate.utctimetuple())
         with open("sentiments.txt", "r") as f:
             for line in f:
                 ls = re.split('\s+', line.strip().lower())
@@ -22,6 +25,8 @@ class MRSentiment(MRJob):
         if tweet["text"]:
             timedate = tweet["created_at"].split()
             date = datetime.strptime(timedate, "%Y-%m-%d %H:%M:%S")
+            milli = calendar.timegm(date.utctimetuple());
+            minute = int((milli - millistart) / 60)
             ls = tweet["text"].lower().split()
             ls = [word for word in ls if not word.startswith('@')]
             count = 0
@@ -30,12 +35,11 @@ class MRSentiment(MRJob):
                     count += self.weights[word]
             for word in ls:
                 if word not in self.weights:
-                    yield word, count, date
+                    yield minute, count
 
     def reducer(self, key, values):
-        values = list(values)
-        values.extend([0] * 5)
-        yield key, (sum(values) / len(values), len(values))
+        for date in key:
+            yield date, (sum(values)/len(values), len(values))
 
 if __name__ == '__main__':
     MRSentiment.run()
