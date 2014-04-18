@@ -33,13 +33,14 @@ class MRSentiment(MRJob):
             for word in ls:
                 if word in self.weights:
                     count += self.weights[word]
-            for word in ls:
-                if word not in self.weights:
-                    yield minute, count
+            yield minute, count
 
     def reducer(self, key, values):
-        for date in key:
-            yield date, (sum(values)/len(values), len(values))
+        tot, n = 0.0, 0.0
+        for sent in values:
+            n += 1
+            tot += sent
+        yield (key, tot / n)
 
 if __name__ == '__main__':
     MRSentiment.run()
