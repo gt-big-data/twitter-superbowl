@@ -55,7 +55,7 @@ class RedisPipe:
 class MongoPipe:
     def __init__(self, host="localhost", port=27017):
         self.m = pymongo.MongoClient(host, port)
-        self.db = self.m.superbowlTest
+        self.db = self.m.superbowl
         self.writeBuf = [] 
 
     def autoparse(self): return True;
