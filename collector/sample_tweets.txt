@@ -1,0 +1,2947 @@
+{
+    "text": "\u201cRT for Seattle\nFav for New England\nIf u feel like ur team ain't playin... Don't trip, Jesus already won tha biggest game. Ur a winner!\u201d", 
+    "created_at": "Sun Feb 01 21:43:12 +0000 2015"
+}{
+    "text": "RT @11AliveNews: Are you ready for @katyperry at halftime? http://t.co/q1TA2mu9Fq #SB49 http://t.co/QBdYfm0ztL", 
+    "created_at": "Mon Feb 02 00:41:28 +0000 2015"
+}{
+    "text": "RT @IamEvilTebow: Gronk should bang Katy Perry at half-time", 
+    "created_at": "Mon Feb 02 00:54:22 +0000 2015"
+}{
+    "text": "Watching our #Seahawks. \ud83c\udfc8 http://t.co/vbVa7CZYba", 
+    "created_at": "Sun Feb 01 23:48:45 +0000 2015"
+}{
+    "text": "They keep saying Sherman, and I keep thinking Sharman. #superbowl #theoriginals", 
+    "created_at": "Mon Feb 02 00:44:45 +0000 2015"
+}{
+    "text": "@Calum5SOS just cheer on the Pats and enjoy the commercials \ud83c\udfc8\ud83d\ude1c", 
+    "created_at": "Sun Feb 01 23:42:13 +0000 2015"
+}{
+    "text": "Seahawks Offense Gotta Get Going", 
+    "created_at": "Mon Feb 02 00:03:48 +0000 2015"
+}{
+    "text": "RT @ddlovato: \"THE SUPERBOWL IS AWESOME BRO!!!! WHERE'S MY BEER?!!\" - awesome drunk guy across the room \ud83d\ude02\ud83c\udfc8\ud83c\udf7a", 
+    "created_at": "Mon Feb 02 01:00:52 +0000 2015"
+}{
+    "text": "Seattle got them suck ass WRs they only real option is Lynch", 
+    "created_at": "Mon Feb 02 00:28:15 +0000 2015"
+}{
+    "text": "RT @givemefriess: \u201c@PraiseEli: who yall think gone win the Super Bowl ?\u201dPats", 
+    "created_at": "Sun Feb 01 23:29:50 +0000 2015"
+}{
+    "text": "\u201c@ESPNNFL: It is time...#SB49 http://t.co/CINVYH6q6I\u201d OMG beauty", 
+    "created_at": "Sun Feb 01 23:28:56 +0000 2015"
+}{
+    "text": "Pats defense to dirty", 
+    "created_at": "Mon Feb 02 00:20:12 +0000 2015"
+}{
+    "text": "RT @BDCPatriots: 20 completions for Brady most in first half of any Super Bowl.", 
+    "created_at": "Mon Feb 02 00:53:31 +0000 2015"
+}{
+    "text": "Patriots pls, don't make this like the last two times you were in the Superbowl.", 
+    "created_at": "Sun Feb 01 23:38:37 +0000 2015"
+}{
+    "text": "@mishacollins GO PATS", 
+    "created_at": "Sun Feb 01 23:37:08 +0000 2015"
+}{
+    "text": "Fuckkkk... Get it back Seahawks!", 
+    "created_at": "Mon Feb 02 00:11:58 +0000 2015"
+}{
+    "text": "RT @NFL_Memes: Can't cover Gronk with a linebacker, silly Seahawks.", 
+    "created_at": "Mon Feb 02 00:57:15 +0000 2015"
+}{
+    "text": "RT @BleacherReport: VIDEO: @MoneyLynch snacks on Skittles before #SB49 http://t.co/8zgPwMcKrn http://t.co/6mwKGKpry1", 
+    "created_at": "Sun Feb 01 23:56:12 +0000 2015"
+}{
+    "text": "Yo del superbowl solo veo el halftime el resto me chupa bien un huevo", 
+    "created_at": "Sun Feb 01 23:38:52 +0000 2015"
+}{
+    "text": "RT @LOHANTHONY: i'm from boston home of the patriots but i'm more focused on the players butts than the players winning and that's how it'l\u2026", 
+    "created_at": "Mon Feb 02 00:24:26 +0000 2015"
+}{
+    "text": "Marshawn bad yf Seahawks just reach the stadium", 
+    "created_at": "Mon Feb 02 00:36:42 +0000 2015"
+}{
+    "text": "RT @iLGDaily: Retweet for Patriots\nFav for Seahawks http://t.co/wSh9UplHWh", 
+    "created_at": "Mon Feb 02 00:13:28 +0000 2015"
+}{
+    "text": "Now playing on Northern Soul Radio http://t.co/VM5Zmithji   \u266c Bob Wilson - Suzy's Serenade \u266c", 
+    "created_at": "Mon Feb 02 00:42:00 +0000 2015"
+}{
+    "text": "RT @NASA: Who are you rooting for this #SupernovaSunday? If @Seahawks, RT this nebula with their team colors. #SuperBowl #SB49 http://t.co/\u2026", 
+    "created_at": "Mon Feb 02 00:00:54 +0000 2015"
+}{
+    "text": "Ayyy Seattle enough joking around let's play some defense lmao", 
+    "created_at": "Mon Feb 02 00:11:10 +0000 2015"
+}{
+    "text": "Brady knows not to throw that ball #LOB gone make him pay", 
+    "created_at": "Sun Feb 01 23:47:53 +0000 2015"
+}{
+    "text": "@Adewalee_A Tom Brady is a cheater", 
+    "created_at": "Mon Feb 02 00:39:42 +0000 2015"
+}{
+    "text": "Touchdown Brady to Gronk !!!", 
+    "created_at": "Mon Feb 02 00:48:14 +0000 2015"
+}{
+    "text": "#SuperBowl #Relax despu\u00e9s de un domingo de trabajo y de cachifo jajaja.... @ Colonia Las Colinas http://t.co/MwezSI9c2j", 
+    "created_at": "Sun Feb 01 23:41:15 +0000 2015"
+}{
+    "text": "I've got the @Patriots winning #SB49! #PatriotsWIN @NFL http://t.co/ghdVORWF6F", 
+    "created_at": "Sun Feb 01 23:45:26 +0000 2015"
+}{
+    "text": "Trying to stream #SB49 but may just go back to reading Piketty because that would be less challenging. Der TV plz lern internetz.", 
+    "created_at": "Mon Feb 02 00:34:41 +0000 2015"
+}{
+    "text": "RT @loopy_montana: These SuperBowl Commercials Trash Right Now \ud83c\udfc8\ud83d\udcfa\ud83d\udeae", 
+    "created_at": "Mon Feb 02 00:27:03 +0000 2015"
+}{
+    "text": "Let's go Seahawks!!!!", 
+    "created_at": "Mon Feb 02 00:28:37 +0000 2015"
+}{
+    "text": "Look how bad Tom throws an inflated football...#SB49", 
+    "created_at": "Mon Feb 02 00:25:45 +0000 2015"
+}{
+    "text": "I've got the @Patriots winning #SB49! #PatriotsWIN @NFL http://t.co/btDSWhmxYU", 
+    "created_at": "Mon Feb 02 00:05:26 +0000 2015"
+}{
+    "text": "@totone44 c'est hyper interressant encore plis quand tu te met a supporter une \u00e9quipe ( comme moi les Patriots)", 
+    "created_at": "Mon Feb 02 00:37:34 +0000 2015"
+}{
+    "text": "RT @LizardLover42: I'll give everyone that RTs 50$ if the Seahawks win http://t.co/4e0wemJcbp", 
+    "created_at": "Mon Feb 02 00:05:21 +0000 2015"
+}{
+    "text": "First Down Seahawks.#superbowl. http://t.co/x6GLA8lY5p", 
+    "created_at": "Mon Feb 02 00:31:25 +0000 2015"
+}{
+    "text": "RT @ESPNNFL: It is time...#SB49 http://t.co/eY8HIQchWD", 
+    "created_at": "Sun Feb 01 23:26:25 +0000 2015"
+}{
+    "text": "RT @PitchPerfect: Don\u2019t mess with the best. #PitchPerfect2 #SB49 http://t.co/YG5foTtqRM", 
+    "created_at": "Sun Feb 01 23:38:29 +0000 2015"
+}{
+    "text": "RT @bradytoedelman: GRONK YESSSSSSSS", 
+    "created_at": "Mon Feb 02 00:51:49 +0000 2015"
+}{
+    "text": "\"@FresH_BoY_Will: R\nT\n\nI\nF\n\nU\n\nR\n\nN\nO\nT\n\nWATCHING\n\nTHE \n\nSUPERBOWL \ud83c\udfc8\ud83c\udfc8\ud83c\udfc8\ud83c\udfc8\"", 
+    "created_at": "Mon Feb 02 00:25:30 +0000 2015"
+}{
+    "text": "@VermontAttorney @CityOutlaw this is looking like Seahawks offence against Packers again. Poor performance", 
+    "created_at": "Mon Feb 02 00:22:08 +0000 2015"
+}{
+    "text": "Pinche Brady no la cagues ;u;", 
+    "created_at": "Mon Feb 02 00:06:51 +0000 2015"
+}{
+    "text": "TOUCHDOWN SEAHAWKS", 
+    "created_at": "Mon Feb 02 00:33:08 +0000 2015"
+}{
+    "text": "RT @mohitfreedom: #SuperBowl Who's gonna win? Patriots?", 
+    "created_at": "Sun Feb 01 23:47:23 +0000 2015"
+}{
+    "text": "I've got the @Seahawks winning #SB49! #SeahawksWIN @NFL http://t.co/9SqxPhXuVq", 
+    "created_at": "Sun Feb 01 23:29:42 +0000 2015"
+}{
+    "text": "@Nationwide WHAT THE FUCK WAS THAT!? ARE YOU PEOPLE FUCKING INSANE? #SuperBowl #SuperBowlXLIX #commercials", 
+    "created_at": "Mon Feb 02 00:27:06 +0000 2015"
+}{
+    "text": "RT @chucknicecomic: McDonald's is accepting love for payment? No wonder their global sales are down...I mean that and their food. #SuperBowl", 
+    "created_at": "Mon Feb 02 00:41:49 +0000 2015"
+}{
+    "text": "Let's hope that's the last Beast Mode TD today. #SB49", 
+    "created_at": "Mon Feb 02 00:35:50 +0000 2015"
+}{
+    "text": "Aciertan la patada y los @Patriots derrotan 14-7 a los @Seahawks.", 
+    "created_at": "Mon Feb 02 00:50:19 +0000 2015"
+}{
+    "text": "RT @xAUTO001x: Edelman will be the death of the Seahawks defense", 
+    "created_at": "Mon Feb 02 00:17:19 +0000 2015"
+}{
+    "text": "La lesi\u00f3n en la mu\u00f1eca de un jugador en el #SuperBowl. https://t.co/cqWuIXmV8A", 
+    "created_at": "Mon Feb 02 00:56:07 +0000 2015"
+}{
+    "text": "RT @nfl: Brady. Edelman. First Down. Easy. \n\n#SB49", 
+    "created_at": "Sun Feb 01 23:46:16 +0000 2015"
+}{
+    "text": "RT @Mo_ses_: If you doing emojis before the Superbowl over I'm unfollowing you", 
+    "created_at": "Mon Feb 02 00:08:45 +0000 2015"
+}{
+    "text": "And now I'm picturing @prattprattpratt going all starlord dancy next to @ChrisEvans. #SuperBowl #TeamChris #idontwatchfootball", 
+    "created_at": "Mon Feb 02 00:35:41 +0000 2015"
+}{
+    "text": "Ataque r\u00e1pido y fallido de Patriots, cambio de posesi\u00f3n de nuevo. #GoHawks", 
+    "created_at": "Mon Feb 02 00:25:10 +0000 2015"
+}{
+    "text": "RT @SNFonNBC: A line...for the guys bathroom? Must be a sweet @katyperry halftime show coming up. #SuperBowl #SB49 http://t.co/fVCCHeMiSz", 
+    "created_at": "Mon Feb 02 00:43:26 +0000 2015"
+}{
+    "text": "RT @Meich: \u00bfPara qu\u00e9 firmar el TLC si no podemos ver los comerciales del superbowl?", 
+    "created_at": "Mon Feb 02 00:42:04 +0000 2015"
+}{
+    "text": "Nissan doing their own homage to fathers. #SB49", 
+    "created_at": "Mon Feb 02 00:21:57 +0000 2015"
+}{
+    "text": "RT @LadHumour: Fancy Murray to serve a nine iron into the basket for a home run in the final period #SuperBowl", 
+    "created_at": "Mon Feb 02 00:09:57 +0000 2015"
+}{
+    "text": "RT @Football__Tweet: Superbowl viewers in 2014: 115 million.\n\nChelsea vs. Manchester City last night: 650 million. http://t.co/3gLol1Ipri", 
+    "created_at": "Mon Feb 02 00:24:56 +0000 2015"
+}{
+    "text": "Some tennis, an old firm game, The Jump and the Superbowl. What a day, sports fans!", 
+    "created_at": "Sun Feb 01 23:38:38 +0000 2015"
+}{
+    "text": "RT @NARAL: #NotBuyingIt: that #GameofWar ad. That outfit was NOT made for real warfare. #GetReal #SuperBowlXLIX #SuperBowl #SB49", 
+    "created_at": "Sun Feb 01 23:45:28 +0000 2015"
+}{
+    "text": "RT @SportsCenter: RT if the Patriots will win Super Bowl XLIX. http://t.co/EKCDPlPp0n", 
+    "created_at": "Mon Feb 02 00:06:20 +0000 2015"
+}{
+    "text": "RT @Nick_Arruda29: Ayyy pats", 
+    "created_at": "Mon Feb 02 00:21:00 +0000 2015"
+}{
+    "text": "I've got the @Patriots winning #SB49! #PatriotsWIN @NFL http://t.co/AyoKtZe4BC", 
+    "created_at": "Sun Feb 01 23:34:12 +0000 2015"
+}{
+    "text": "I've got the @Seahawks winning #SB49! #SeahawksWIN @NFL http://t.co/Gz9HMlDzEX", 
+    "created_at": "Sun Feb 01 23:34:28 +0000 2015"
+}{
+    "text": "RT @az3n3thbieber: Touchdown Patriots", 
+    "created_at": "Mon Feb 02 00:18:14 +0000 2015"
+}{
+    "text": "RT @iLGDaily: TOUCHDOWN PATRIOTS \ud83c\udfc8 http://t.co/tdypU0ripL", 
+    "created_at": "Mon Feb 02 00:15:44 +0000 2015"
+}{
+    "text": "So who won, cuz I know patriots will win \ud83d\ude4c", 
+    "created_at": "Mon Feb 02 00:23:36 +0000 2015"
+}{
+    "text": "RT @Doritos: RT if you think the @Seahawks are going to win #SB49! Make your #Doritos bold prediction now! http://t.co/v1K2T0npky", 
+    "created_at": "Mon Feb 02 00:21:04 +0000 2015"
+}{
+    "text": "RT @OnionSports: Final 30 Seconds Of Half Enters 18th Minute #SuperBowl", 
+    "created_at": "Mon Feb 02 00:54:42 +0000 2015"
+}{
+    "text": "Watching the #SB49 #withdad", 
+    "created_at": "Mon Feb 02 00:29:44 +0000 2015"
+}{
+    "text": "RT @DragonflyJonez: Wilson got allllll this time. \n\nTo do nothing.", 
+    "created_at": "Mon Feb 02 00:04:25 +0000 2015"
+}{
+    "text": "RT @nfl: Took about 10 different @Patriots players to take down #BeastMode on a 3-yard run. #SB49", 
+    "created_at": "Sun Feb 01 23:40:45 +0000 2015"
+}{
+    "text": "WHY ARE THERE INDIAN COMMERCIALS DURING THE SUPERBOWL RIGHT NOW WHAT THE HELL IS THIS", 
+    "created_at": "Mon Feb 02 00:00:38 +0000 2015"
+}{}{
+    "text": "Brady getting the ball out of his hands quickly. Yards won't come easy but they're getting enough to move the chains.", 
+    "created_at": "Sun Feb 01 23:47:00 +0000 2015"
+}{
+    "text": "RT @Seahawks: Jeremy Lane has an arm injury and his return is doubtful.\n\n#NEvsSEA #SB49", 
+    "created_at": "Sun Feb 01 23:59:32 +0000 2015"
+}{
+    "text": "Not used to seeing a @GoDaddy ad without breasts all over the place. #SuperBowl", 
+    "created_at": "Mon Feb 02 00:45:23 +0000 2015"
+}{
+    "text": "Arrington killing the Pats right now", 
+    "created_at": "Mon Feb 02 00:56:11 +0000 2015"
+}{}{
+    "text": "@zaynmalik PATRIOTS OR SEAHAWKS? \ud83c\udfc8\u2764\ufe0f", 
+    "created_at": "Mon Feb 02 00:26:23 +0000 2015"
+}{
+    "text": "RT @GoT_Tyrion: Gametime! Which House will be victorious? #SuperBowl http://t.co/KNcI6bRzr6", 
+    "created_at": "Mon Feb 02 00:23:36 +0000 2015"
+}{
+    "text": "@xdolumba @Seahawks @nfl lol #seattleseahawks #seahawks #SEAvsNE #SeahawksNation", 
+    "created_at": "Sun Feb 01 23:39:46 +0000 2015"
+}{
+    "text": "RT @Lurk_God: Let's go, where my Seattle bandwagon nation at???", 
+    "created_at": "Sun Feb 01 23:33:44 +0000 2015"
+}{
+    "text": "@HoMoWorldd - im not a seahawks fan , buh thats who im going for \ud83d\ude4c\ud83d\udc83. #Seahawks", 
+    "created_at": "Sun Feb 01 23:41:13 +0000 2015"
+}{
+    "text": "RT @CrownTheEmpire: What if the half-time show came on and instead of Katy Perry, we walked out...\ud83d\ude08 #SuperBowl", 
+    "created_at": "Mon Feb 02 00:39:37 +0000 2015"
+}{
+    "text": "@dashopper49 if you're going for the patriots we are even more of besties.", 
+    "created_at": "Mon Feb 02 00:17:20 +0000 2015"
+}{
+    "text": "RT @Nashgrier: Seahawks: 28\n\nPatriots: 31 \n\nif this is right someone has to make me breakfast", 
+    "created_at": "Sun Feb 01 23:33:45 +0000 2015"
+}{
+    "text": "RT @JCrossover: That was BIG!! No guts, no glory!! Touchdown @Seahawks", 
+    "created_at": "Mon Feb 02 00:58:58 +0000 2015"
+}{
+    "text": "Chavez get off my Twitter tweeting bout the Seahawks\ud83d\ude12 Go Pats Go", 
+    "created_at": "Sun Feb 01 23:44:37 +0000 2015"
+}{
+    "text": "they played 5sos on the superbowl KJFN", 
+    "created_at": "Sun Feb 01 23:43:12 +0000 2015"
+}{
+    "text": "seahawks entire defense is black", 
+    "created_at": "Sun Feb 01 23:35:22 +0000 2015"
+}{
+    "text": "#SB49", 
+    "created_at": "Sun Feb 01 23:28:48 +0000 2015"
+}{
+    "text": "#PaulMcCartney at the #Superbowl. http://t.co/z7vQ4ZHezm", 
+    "created_at": "Mon Feb 02 00:31:08 +0000 2015"
+}{
+    "text": "Patriots!!! #ESPNtemSuperBowl49", 
+    "created_at": "Sun Feb 01 23:44:30 +0000 2015"
+}{
+    "text": "RT @d_eeb: Staying hydrated for the game. #12thCat #GoHawks #SuperBowl @Meowshawn_Lynch http://t.co/m6TPTmlpPb", 
+    "created_at": "Mon Feb 02 00:18:36 +0000 2015"
+}{
+    "text": "RT @nfl: TIE BALLGAME. \n\n7-7, 2:16 left in the first half.\n\nWhat a game! #SB49", 
+    "created_at": "Mon Feb 02 00:35:47 +0000 2015"
+}{
+    "text": "RT @uncletizzy: Seattle man get it together", 
+    "created_at": "Mon Feb 02 00:24:06 +0000 2015"
+}{
+    "text": "RT @kaitsmo_: Brady\ud83d\ude0d", 
+    "created_at": "Sun Feb 01 23:41:30 +0000 2015"
+}{
+    "text": "Got $100 and a a King size RAW on the Seahawks \ud83d\ude24", 
+    "created_at": "Sun Feb 01 23:43:45 +0000 2015"
+}{
+    "text": "RT @ESPNNFL: Marshawn Lynch took OFF the gold cleats between warmups and game time. \n\nWhat could have been... http://t.co/mZiNRreeRw", 
+    "created_at": "Sun Feb 01 23:43:16 +0000 2015"
+}{
+    "text": "RT @soyanimal: \u2014Amor, \u00bfestar\u00e1n jugando Cristiano Ronaldo y Messi en el #SuperBowl?\n\n\u2014 http://t.co/EU17HE7Wgj", 
+    "created_at": "Sun Feb 01 23:45:07 +0000 2015"
+}{
+    "text": "RT @mindykaling: \u201c@EW: The #SuperBowl ads of 2015: Watch them here: http://t.co/OLKnZd3hMP #SB49 http://t.co/e4X0xo2jQs\u201d \ud83c\udf89\ud83c\udfc8", 
+    "created_at": "Mon Feb 02 00:28:04 +0000 2015"
+}{
+    "text": "RT @mariobautista_: Fav si estas emocionado por el #SuperBowl \ud83d\udca5", 
+    "created_at": "Mon Feb 02 00:37:59 +0000 2015"
+}{
+    "text": "#leggo!! #SuperBowl #XLIX #seahawks#patriots who you routing for? \ud83c\udf39#reinaroyale http://t.co/Cg3gsXVFm1 http://t.co/ScXBASnBer", 
+    "created_at": "Sun Feb 01 23:58:51 +0000 2015"
+}{
+    "text": "C'mon Pats", 
+    "created_at": "Sun Feb 01 23:32:09 +0000 2015"
+}{
+    "text": "RT @Minions: The #Minions are ready for Sunday. Are you? #SB49 #TeamMinions\nhttps://t.co/6mnY90gDFV", 
+    "created_at": "Mon Feb 02 00:01:39 +0000 2015"
+}{
+    "text": "Watch NFL Super Bowl XLIX Patriots vs Seahawks Live Stream =&gt; http://t.co/xzinQHFbEY #SB49 tv519 ch97", 
+    "created_at": "Mon Feb 02 00:27:56 +0000 2015"
+}{
+    "text": "Let's go Patriots \u2764\ufe0f\ud83d\udc99\ud83c\udfc8", 
+    "created_at": "Sun Feb 01 23:59:00 +0000 2015"
+}{
+    "text": "RT @juliancamarena: If you're a Patriots fan I'm sure you're super happy right now! #SuperBowlXLIX \ud83c\udfc8", 
+    "created_at": "Mon Feb 02 00:32:31 +0000 2015"
+}{
+    "text": "Recording the superbowl... #ukproblems #nfl #LetsGoHawks", 
+    "created_at": "Sun Feb 01 23:34:06 +0000 2015"
+}{
+    "text": "Watching the Super Bowl aye #SuperBowl #SuperBowlSunday #SuperBowlWithSuperwoman", 
+    "created_at": "Sun Feb 01 23:50:48 +0000 2015"
+}{
+    "text": "RT @WVUSports: Bruce Irvin. Almost Heaven, @WestVirginiaU #HailWV #SB49 https://t.co/SYfDHpuRpk", 
+    "created_at": "Mon Feb 02 00:46:05 +0000 2015"
+}{
+    "text": "RT @Patriots: Tom Brady  just tied Joe Montana for the most Super Bowl TD  passes in @NFL history with his 11th. http://t.co/7htR2YkIWJ", 
+    "created_at": "Mon Feb 02 00:53:42 +0000 2015"
+}{
+    "text": "YESS 14 - 14 CMON #SEAHAWKS", 
+    "created_at": "Mon Feb 02 00:59:30 +0000 2015"
+}{
+    "text": "Pats doing a good job shutting down Lynch and Wilson so far", 
+    "created_at": "Mon Feb 02 00:03:48 +0000 2015"
+}{
+    "text": "RT @Patriots: Wilson's 1st pass attempt of the day comes early in the 2nd quarter &amp; falls incomplete. Seahawks punt &amp; Pats will start at th\u2026", 
+    "created_at": "Mon Feb 02 00:04:45 +0000 2015"
+}{
+    "text": "Brady is badass on passing... \ud83c\udfc8\ud83d\udcaa #SuperBowlXLIX", 
+    "created_at": "Mon Feb 02 00:19:10 +0000 2015"
+}{
+    "text": "#SuperBowlXLIX #GameOn! #commercials #SB49 \ud83c\udfc8\ud83d\udcaf http://t.co/d0wOK7CSey", 
+    "created_at": "Sun Feb 01 23:48:18 +0000 2015"
+}{
+    "text": "RT @carolinaware: #MuteCrisCollinsworth #SuperBowl #SuperBowlXLIX", 
+    "created_at": "Mon Feb 02 00:54:58 +0000 2015"
+}{
+    "text": "Did Gronk make a football move in clearly catching that ball and then spiking it after scoring the TD, tho?", 
+    "created_at": "Mon Feb 02 00:49:58 +0000 2015"
+}{
+    "text": "@asvpxrocky PATS!!!!!! And you, baby?", 
+    "created_at": "Mon Feb 02 00:13:58 +0000 2015"
+}{
+    "text": "@Josh4Miller Brady is still getting used to throwing a regulation ball #BabySteps", 
+    "created_at": "Sun Feb 01 23:51:22 +0000 2015"
+}{
+    "text": "RT @roquecasciero: Superbowl y buffalo wings. #AhListoQueCipayo http://t.co/p8HSmL1Rxi", 
+    "created_at": "Mon Feb 02 00:29:36 +0000 2015"
+}{
+    "text": "just like that #SB49", 
+    "created_at": "Sun Feb 01 23:50:26 +0000 2015"
+}{
+    "text": "RT @NOTSportsCenter: Did You Know: If you've passed someone a bowl of chips or a drink, you've completed more passes than Russell Wilson to\u2026", 
+    "created_at": "Mon Feb 02 00:30:53 +0000 2015"
+}{
+    "text": "golden tate and percy harvin not walking through them doors fam @Seahawks", 
+    "created_at": "Mon Feb 02 00:28:56 +0000 2015"
+}{
+    "text": "\u201c@libbystahly: Russell wilson is sexy\ud83d\udc45\u201d", 
+    "created_at": "Mon Feb 02 00:55:26 +0000 2015"
+}{
+    "text": "RT @harto: Anyone see @cocacola ad during #superbowl? If there's negativity on your feed, go to http://t.co/lLVHz4UUwD and reply with #Make\u2026", 
+    "created_at": "Mon Feb 02 00:18:08 +0000 2015"
+}{
+    "text": "RT @YoungCons: If you don't know who to root for, Sherman and Wilson both made commercials for Obamacare. #JustSayin", 
+    "created_at": "Mon Feb 02 00:41:55 +0000 2015"
+}{
+    "text": "Watch Patriots, Seahawks clash in Super Bowl XLIX Live Here - \nhttp://t.co/pkoiODjMJH", 
+    "created_at": "Mon Feb 02 00:06:50 +0000 2015"
+}{
+    "text": "RT @OnlyInBOS: Patriots undefeated when Bruschi's honorary captain. Let's not forget that. #SB49 http://t.co/s7AEq5sPyR", 
+    "created_at": "Sun Feb 01 23:27:34 +0000 2015"
+}{
+    "text": "Sigo despierto. Vamos Seahawks que remontamos!!!! http://t.co/0YJec0s2KQ", 
+    "created_at": "Mon Feb 02 00:19:56 +0000 2015"
+}{
+    "text": "@tejuhmohlah Russell Wilson is hotter, he gets my support", 
+    "created_at": "Sun Feb 01 23:30:10 +0000 2015"
+}{
+    "text": "the only time i watched the SuperBowl was when Beyonce was performing lol bye", 
+    "created_at": "Mon Feb 02 00:43:46 +0000 2015"
+}{
+    "text": "I love gronk lowkey", 
+    "created_at": "Sun Feb 01 23:58:00 +0000 2015"
+}{
+    "text": "RT @yonceezus: LMAOOOOO\"@kaegann: Tom Brady? MORE LIKE TOM GAYDY! http://t.co/n7JKzUSJWB\"", 
+    "created_at": "Sun Feb 01 23:56:19 +0000 2015"
+}{
+    "text": "So Tom Brady threw an interception.. Okay.. Step it up.", 
+    "created_at": "Mon Feb 02 00:04:54 +0000 2015"
+}{
+    "text": "RT @VibeOregon: Rt for Patriots Fav for Seahawks http://t.co/jZqtuK9qPi", 
+    "created_at": "Mon Feb 02 00:07:18 +0000 2015"
+}{
+    "text": "I'm Probably The Worst One Here. Cheering For Both Sides. \ud83d\ude02 #Kaaam #BeastMode #Edelman #Gronk \ud83d\ude02\ud83d\udc81", 
+    "created_at": "Mon Feb 02 00:01:02 +0000 2015"
+}{
+    "text": "LMFAO!! #lipsync #rupaul #katyperry #superbowl #gay #gayboy http://t.co/GzWhPVM9Y1", 
+    "created_at": "Mon Feb 02 00:21:57 +0000 2015"
+}{
+    "text": "RT @WalkerRogers: The pumped ball messed Brady's throw and caused an interception. He's not used to the real size of it.", 
+    "created_at": "Sun Feb 01 23:54:25 +0000 2015"
+}{
+    "text": "RT @__CHEEZY__: Let's go #SuperBowl", 
+    "created_at": "Sun Feb 01 23:30:15 +0000 2015"
+}{
+    "text": "I've got the @Patriots winning #SB49! #PatriotsWIN @NFL http://t.co/Ps3ehl8Kv5", 
+    "created_at": "Sun Feb 01 23:45:19 +0000 2015"
+}{
+    "text": "RT @Seahawks: I'm just here so I can help win the @SuperBowl. \n\n@MoneyLynch #BeastMode #SB49 http://t.co/GNjwfNhJdx", 
+    "created_at": "Sun Feb 01 21:43:14 +0000 2015"
+}{
+    "text": "@AnnaKendrick47 Anna..what the heck?!\nGo watch the game!\nThat's what rooting for the patriots does..", 
+    "created_at": "Sun Feb 01 23:43:50 +0000 2015"
+}{
+    "text": "They're not trying to let Seattle get the ball", 
+    "created_at": "Sun Feb 01 23:52:05 +0000 2015"
+}{
+    "text": "@pousseyhoran seahawks. if this friendship is to last you root for the seahawks. never the patriots.", 
+    "created_at": "Sun Feb 01 23:41:59 +0000 2015"
+}{
+    "text": "RT @MsJamilaAisha: Roster full of bae RT @youngsinick: #Baehawks. RT @Ashley_Reynolds: The Seahawks have some gorgeous players...yessssss", 
+    "created_at": "Mon Feb 02 00:20:57 +0000 2015"
+}{
+    "text": "RT @ChurchOfFutbol: Lynch grabbed his crotch (again) after he scored that TD. The FA will charge him again. #CampaignAgainstLynch", 
+    "created_at": "Mon Feb 02 00:45:12 +0000 2015"
+}{
+    "text": "I think Tom Brady and Giselle look alike", 
+    "created_at": "Sun Feb 01 23:40:40 +0000 2015"
+}{
+    "text": "RT @nascarcasm: Old Terminator = \"I'll be back.\" New Terminator = \"Ow, my back.\" #SuperBowl", 
+    "created_at": "Mon Feb 02 00:41:58 +0000 2015"
+}{
+    "text": "Shampoo making you a better father? I think that's a stretch. #SB49", 
+    "created_at": "Mon Feb 02 00:18:36 +0000 2015"
+}{
+    "text": "RT @nfl: Brady. Edelman. First Down. Easy. \n\n#SB49", 
+    "created_at": "Sun Feb 01 23:45:44 +0000 2015"
+}{
+    "text": "@Ronnie_Franz Revis Sherman gotta do his thing for a few more years before we start throwin greatness out there", 
+    "created_at": "Sun Feb 01 23:28:09 +0000 2015"
+}{
+    "text": "Al rato y ganan los @Seahawks", 
+    "created_at": "Mon Feb 02 00:18:03 +0000 2015"
+}{
+    "text": "RT @TheFBBible: Super Bowl Vote\nRT for Seahawks\nFAV for Patriots", 
+    "created_at": "Mon Feb 02 00:50:58 +0000 2015"
+}{
+    "text": "Who will be the Winner - Best Female Solo Artist - BE THERE at the BRITs #SuperBowl   @YBGOffMarket", 
+    "created_at": "Mon Feb 02 00:25:12 +0000 2015"
+}{
+    "text": "RT @vincestaples: Fuck Tom Brady win lose or draw.", 
+    "created_at": "Mon Feb 02 01:00:30 +0000 2015"
+}{
+    "text": "@awesterfield5 @kedcobo I was saying tht Seattle was his fav team, implying tht he sucks balls. Hypocritical would mean he didn't suck balls", 
+    "created_at": "Mon Feb 02 00:25:50 +0000 2015"
+}{
+    "text": "RT @PlanetTyler: Not exactly hard to lock down Pop Warner receivers \"@AcrossTheLeague: Patriots Man to Man LOCKING the Seahawks receivers d\u2026", 
+    "created_at": "Mon Feb 02 00:23:03 +0000 2015"
+}{
+    "text": "RT @ElGranLuiyo: El SuperBowl es el \u00fanico juego en donde la gente va al ba\u00f1o durante la acci\u00f3n en vez de los anuncios", 
+    "created_at": "Mon Feb 02 00:27:15 +0000 2015"
+}{
+    "text": "RT @BaconCountryYT: I gotta go with the Seahawks", 
+    "created_at": "Mon Feb 02 00:07:31 +0000 2015"
+}{
+    "text": "RT @celinav98: Food and funny commercials are why I look forward to the superbowl.", 
+    "created_at": "Sun Feb 01 23:51:36 +0000 2015"
+}{
+    "text": "RT @joshturnsyouon: im surprised snapchat hasnt made a superbowl story yet", 
+    "created_at": "Mon Feb 02 00:57:21 +0000 2015"
+}{
+    "text": "Yep. RT @ejc: Nationwide wins most depressing commercial. Way to ruin the day. #SuperBowl", 
+    "created_at": "Mon Feb 02 00:27:02 +0000 2015"
+}{
+    "text": "RT @LEGIQN: The Seattle Patriots are destroying the Hogwarts humpbacks.", 
+    "created_at": "Mon Feb 02 00:37:47 +0000 2015"
+}{
+    "text": "@CollinKrach they played em for the patriots last game too. Showin love", 
+    "created_at": "Mon Feb 02 00:06:48 +0000 2015"
+}{
+    "text": "Nice throw Brady \ud83d\ude02", 
+    "created_at": "Mon Feb 02 00:25:27 +0000 2015"
+}{
+    "text": "RT @sparklybambi: My timeline right now:\n\nSuperbowl\nSeahawks\nSuperbowl\nSuperbowl\nSeahawks\n&amp; some random hoe talking about how she need a va\u2026", 
+    "created_at": "Sun Feb 01 23:52:13 +0000 2015"
+}{
+    "text": "@Calum5SOS just say you want the seahawks to win ok", 
+    "created_at": "Sun Feb 01 23:40:10 +0000 2015"
+}{
+    "text": "@daveperry62 Then you missed the whole discussion. I pretty much said Brady's losses in The SB pretty much remove him from GOAT status.", 
+    "created_at": "Mon Feb 02 00:40:49 +0000 2015"
+}{
+    "text": "RT @OnlyInBOS: Me watching the last 2 minutes...#SB49 http://t.co/uIHNb3ngux", 
+    "created_at": "Mon Feb 02 00:44:12 +0000 2015"
+}{
+    "text": "\u201c@emilyyy_O3: When you're Seahawks af \ud83d\udc9a\ud83d\udc99 http://t.co/ui0sWDa4DS\u201d when you're hot af*!\ud83d\ude18\ud83d\ude07", 
+    "created_at": "Sun Feb 01 23:45:44 +0000 2015"
+}{
+    "text": "my father is rooting for the patriots bc Tom Brady went to University of Michigan (my dad is only from Michigan)", 
+    "created_at": "Sun Feb 01 23:31:43 +0000 2015"
+}{
+    "text": "177 on LOB in the 1st half, these injuries deff playing in favor of the pats", 
+    "created_at": "Mon Feb 02 00:52:19 +0000 2015"
+}{
+    "text": "seahawks and patriots? there's a bird olympics? \ud83d\ude33\ud83d\ude33\ud83d\ude33", 
+    "created_at": "Sun Feb 01 23:52:18 +0000 2015"
+}{
+    "text": "RT @lGotAQuestion: I got a question\n\nWhere is this Superb Owl everyone is talking about? Hmm? #SuperbOwl", 
+    "created_at": "Mon Feb 02 00:29:00 +0000 2015"
+}{}{
+    "text": "RT @AthleteDestiny: Marshawn Lynch's reasoning behind not talking to the media \ud83d\udc4c http://t.co/fhegrYKIHW", 
+    "created_at": "Mon Feb 02 00:28:55 +0000 2015"
+}{
+    "text": "Pats", 
+    "created_at": "Sun Feb 01 23:52:08 +0000 2015"
+}{
+    "text": "@bluejaquee Best link #SuperBowl -&gt; http://t.co/6r6C3vJyVJ", 
+    "created_at": "Mon Feb 02 00:07:51 +0000 2015"
+}{
+    "text": "RT @YungPineapple_: Better QB then Russell Wilson http://t.co/mhmVZiFNdM", 
+    "created_at": "Mon Feb 02 00:38:48 +0000 2015"
+}{
+    "text": "uumm..so..not that I care if I miss it but what time does Katy perform? I like her.Back to #XFiles&amp; ITS #DowntonAbbey DAY! Yayy! #SuperBowl", 
+    "created_at": "Mon Feb 02 00:15:57 +0000 2015"
+}{
+    "text": "RT @officialpage3: Watching the #Superbowl? Still not sure how it works? Let us explain: http://t.co/3w7KLOWsA2 \nHere's a cheeky taster: ht\u2026", 
+    "created_at": "Sun Feb 01 23:39:32 +0000 2015"
+}{
+    "text": "Brady is the bestest", 
+    "created_at": "Mon Feb 02 00:12:02 +0000 2015"
+}{
+    "text": "@MekkaDonMusic  Pats as well, and projected at end of first. Worst WRs in super bowl history.", 
+    "created_at": "Mon Feb 02 00:09:08 +0000 2015"
+}{
+    "text": "I've got the @Seahawks winning #SB49! #SeahawksWIN @NFL http://t.co/e4tLr3nL63", 
+    "created_at": "Sun Feb 01 23:25:19 +0000 2015"
+}{
+    "text": "RT @NFL_Memes: Russell Wilson checking the Patriots footballs.. http://t.co/8XJfgLixZr", 
+    "created_at": "Sun Feb 01 23:32:48 +0000 2015"
+}{
+    "text": "RT @seanmchale00: About four hours until Russel Wilson is gonna be holding the super bowl trophy\ud83d\ude4c", 
+    "created_at": "Sun Feb 01 23:36:49 +0000 2015"
+}{
+    "text": "You know what day today is?\nSunday.\nThat is all.\n#SuperBowl #SuperBowlXLIX #SuperBowlSunday #SuperNo #SuperBowlXLIXNo #SuperBowlSundayNo #No", 
+    "created_at": "Sun Feb 01 23:25:35 +0000 2015"
+}{
+    "text": "You can just see that look in Tom Brady's eyes.", 
+    "created_at": "Mon Feb 02 00:20:39 +0000 2015"
+}{
+    "text": "#BeastMode Lynch \ud83d\udc4a\ud83d\udc4a\ud83d\udc4a\ud83c\udfc8\ud83c\udfc8\ud83c\udfc8 http://t.co/7d273UBVmi", 
+    "created_at": "Mon Feb 02 00:40:40 +0000 2015"
+}{
+    "text": "Nice throw Brady", 
+    "created_at": "Sun Feb 01 23:53:14 +0000 2015"
+}{
+    "text": "Pats are dominating every category and are the better team right now", 
+    "created_at": "Mon Feb 02 00:24:05 +0000 2015"
+}{
+    "text": "RT @bdbristow: Tom Brady a cute dude no homo", 
+    "created_at": "Sun Feb 01 23:30:33 +0000 2015"
+}{
+    "text": "Jajajaja q risa.. c\u00f3mo me encantar\u00eda preguntarles a los del face acerca de la historia de los equipos que juegan hoy en el #SuperBowl ...", 
+    "created_at": "Mon Feb 02 00:42:48 +0000 2015"
+}{
+    "text": "Some news outlets are already tweeting out \"best\" pics from #SB49 and it's not even halftime yet!", 
+    "created_at": "Mon Feb 02 00:53:01 +0000 2015"
+}{
+    "text": "These superbowl commercials are spot on this year. \ud83d\udc4c", 
+    "created_at": "Mon Feb 02 00:54:59 +0000 2015"
+}{
+    "text": "RT @OwenBenjamin: If Lynch gets diabetes it will be really bad for skittles.", 
+    "created_at": "Sun Feb 01 23:44:36 +0000 2015"
+}{
+    "text": "RT @girlposts: win or lose tonight, Tom Brady is still winning http://t.co/scBQ11Mu7w", 
+    "created_at": "Mon Feb 02 00:40:30 +0000 2015"
+}{
+    "text": "RT @AllYouNeedisEC: All you need is inspiration #SB49 #AllYouNeedIsEcuador http://t.co/jOjDgR3td1", 
+    "created_at": "Sun Feb 01 23:47:21 +0000 2015"
+}{
+    "text": "Why was Lynch smuggling those skittles in his mouth like that?", 
+    "created_at": "Sun Feb 01 23:37:58 +0000 2015"
+}{
+    "text": "RT @BuzzFeedSports: Marshawn Lynch snacking on what appears to be @Skittles during kick-off. #SB49 http://t.co/qy3UP82SKT", 
+    "created_at": "Sun Feb 01 23:50:55 +0000 2015"
+}{
+    "text": "RT @KGWNews: Miss any of the commercials? Watch them here: http://t.co/kMI7N91hA3 #SB49", 
+    "created_at": "Mon Feb 02 00:30:13 +0000 2015"
+}{
+    "text": "RT @brady_ryan_: Marshawn Lynch running over people like it's Chippewa", 
+    "created_at": "Mon Feb 02 00:19:27 +0000 2015"
+}{
+    "text": "RT @andreakaye5: Go Russell Wilson!  Win the game. But shave the beard", 
+    "created_at": "Sun Feb 01 23:42:05 +0000 2015"
+}{
+    "text": "RT @CTV_Television: RT if you\u2019re cheering for the New England @Patriots to win the #SuperBowl! #SB49 #SuperBowlSunday http://t.co/eSENSAJnyl", 
+    "created_at": "Sun Feb 01 23:36:24 +0000 2015"
+}{
+    "text": "RT @nfl: Tom Brady. Brandon LaFell. \n\nTOUCHDOWN!! #SB49 http://t.co/CEBTzGbacS", 
+    "created_at": "Mon Feb 02 00:12:35 +0000 2015"
+}{
+    "text": "RT @noelle_lewis: Well Nationwide wins for most depressing tweet of the Superbowl", 
+    "created_at": "Mon Feb 02 00:29:31 +0000 2015"
+}{
+    "text": "La defensa de @Seahawks interrumpe la ofensiva de @Patriots evitando un 3er down y se viene la patada de despeje.", 
+    "created_at": "Sun Feb 01 23:36:41 +0000 2015"
+}{
+    "text": "RT @RELATlONSHlP: win or lose tonight, Tom Brady is still winning http://t.co/TxiY7K6Mgk", 
+    "created_at": "Mon Feb 02 00:43:14 +0000 2015"
+}{
+    "text": "RT @jordanbrak: Wow Seahawks", 
+    "created_at": "Mon Feb 02 00:13:36 +0000 2015"
+}{
+    "text": "let's go pats \u270a\ud83c\udfc8 #SuperBowl", 
+    "created_at": "Mon Feb 02 00:16:49 +0000 2015"
+}{
+    "text": "RT @mikeybolts: Not used to seeing Kim K. fully clothed and using her big girl words... looks like someone could use a Snickers. #Superbowl", 
+    "created_at": "Mon Feb 02 00:17:29 +0000 2015"
+}{
+    "text": "Budweiser SIEMPRE me hace llorar con sus anuncios del #SuperBowl. \ud83d\ude22", 
+    "created_at": "Mon Feb 02 00:05:03 +0000 2015"
+}{
+    "text": "Lets Go Pats #Pats #SuperBowl", 
+    "created_at": "Mon Feb 02 00:27:16 +0000 2015"
+}{
+    "text": "that's right boys!!! @Patriots TOUCHDOWN!!!", 
+    "created_at": "Mon Feb 02 00:12:16 +0000 2015"
+}{
+    "text": "RT @mindykaling: Proof I\u2019m not invisible. Just look at how into me he is! @Nationwide #InvisibleMindy #SuperBowl http://t.co/94IdS4PWdY", 
+    "created_at": "Mon Feb 02 00:22:23 +0000 2015"
+}{
+    "text": "Cmon Seahawks \ud83d\ude4f", 
+    "created_at": "Sun Feb 01 23:36:33 +0000 2015"
+}{
+    "text": "Patriots making this drive look easy", 
+    "created_at": "Sun Feb 01 23:51:18 +0000 2015"
+}{
+    "text": "RT @WNSource: Just remember, Triple H is at the #SuperBowl ready to deflate any balls needed.\n\nBest for business. And the shovel.", 
+    "created_at": "Mon Feb 02 00:59:19 +0000 2015"
+}{
+    "text": "RT @LENSOED: Patriots 69\nSeahawks 0", 
+    "created_at": "Sun Feb 01 23:29:24 +0000 2015"
+}{
+    "text": "Every time RT @FauxJohnMadden If you leave a linebacker on Gronk, you're gonna have a bad time.", 
+    "created_at": "Mon Feb 02 01:00:12 +0000 2015"
+}{
+    "text": "TurnUP #Pats", 
+    "created_at": "Mon Feb 02 00:12:18 +0000 2015"
+}{
+    "text": "That FIAT Commercial.. AWESOME #SuperBowl", 
+    "created_at": "Mon Feb 02 00:40:15 +0000 2015"
+}{
+    "text": "RT @WorldStarFunny: Bill Belichick's back up plan to deflate balls http://t.co/qnserrnPZa", 
+    "created_at": "Sun Feb 01 23:55:18 +0000 2015"
+}{
+    "text": "Saludos desde Acapulco!! Esperando ver ganar a los Pats  #SB49EnTD http://t.co/FuZFkEr3sD", 
+    "created_at": "Sun Feb 01 23:48:20 +0000 2015"
+}{
+    "text": "yes INTERCEPTION by the #Seahawks #SuperBowl #ranSB49", 
+    "created_at": "Sun Feb 01 23:54:12 +0000 2015"
+}{
+    "text": "Got Tom Brady to come to my super bowl party #nobigdeal http://t.co/1NGOkUGVx9", 
+    "created_at": "Mon Feb 02 00:37:02 +0000 2015"
+}{
+    "text": "thank you satellite TV for all the American #SuperBowl commercials! #SuperBowlSunday #SB49", 
+    "created_at": "Mon Feb 02 00:52:23 +0000 2015"
+}{
+    "text": "I'm on the edge of my seat with this game. I don't have a seat. Im standing. #SuperBowl #SuperBowlXLIX #superbowllivetweet", 
+    "created_at": "Mon Feb 02 00:28:28 +0000 2015"
+}{
+    "text": "RT @UofA: #BearDown, Gronk! #SB49 RT: @AZATHLETICS: \"@RobGronkowski, Arizona...\nhttps://t.co/i7zrx3txTb\u201d", 
+    "created_at": "Sun Feb 01 23:49:29 +0000 2015"
+}{
+    "text": "Mas que passe, ta doido. Brady para rob. Touchdown", 
+    "created_at": "Mon Feb 02 00:49:06 +0000 2015"
+}{
+    "text": "Ruben Lynch", 
+    "created_at": "Mon Feb 02 00:33:51 +0000 2015"
+}{
+    "text": "RT @WifiOverHoes: it's Super Bowl Sunday \ud83c\udfc9\ud83c\udfc6\n\n#RT for Seahawks\ud83d\udc26\n#FAV for Patriots\ud83d\udd34\ud83d\udd35 http://t.co/340y0maiy7", 
+    "created_at": "Mon Feb 02 00:07:44 +0000 2015"
+}{
+    "text": "Touchdownnnn Bitchhhh #SEAHAWKS!!!!", 
+    "created_at": "Mon Feb 02 00:58:50 +0000 2015"
+}{
+    "text": "RT @espn: The Seahawks' Jeremy Lane hurt his arm on his first-quarter interception of Tom Brady. Here's the report: http://t.co/ysRkbcaWIf", 
+    "created_at": "Mon Feb 02 00:38:25 +0000 2015"
+}{
+    "text": "@smilingsandra @paigeeradbruch I went to high school with Jon. So for sure I am rooting for him. That being said, does it make me a Seahawks", 
+    "created_at": "Mon Feb 02 00:43:11 +0000 2015"
+}{
+    "text": "We need a good #badLipReading ad now. Just to lighten the mood...unless #Seahawks score again. #SuperBowl2015", 
+    "created_at": "Mon Feb 02 00:55:17 +0000 2015"
+}{
+    "text": "I'm convinced Belichick's face is permanently that way.", 
+    "created_at": "Sun Feb 01 23:25:38 +0000 2015"
+}{
+    "text": "RT @jlg182: Superbowl commercial panel: \"alright everyone, what's our theme this year?\"\n\n\"How bout we fuck everyone up emotionally!\"", 
+    "created_at": "Mon Feb 02 00:22:14 +0000 2015"
+}{
+    "text": "Man this a Chris Smoove quote RT\"@BasedPaco: \ud83d\ude10\ud83d\ude10\ud83d\ude10 RT @BasedChasen: Lynch getting every inch\"", 
+    "created_at": "Mon Feb 02 00:35:50 +0000 2015"
+}{
+    "text": "RT @NASA_Orion: At 20,000 mph, how long would it take #Orion to go from Boston to Seattle? #SuperBowlSunday http://t.co/boO1P5B0ql", 
+    "created_at": "Sun Feb 01 23:46:42 +0000 2015"
+}{
+    "text": "RT @hablapichincha: #AllYouNeedIsEcuador  New England vs. Seatle  #SB49 http://t.co/nxzgIWOfQq", 
+    "created_at": "Mon Feb 02 00:44:06 +0000 2015"
+}{
+    "text": "RT @whoisMGMT: MGMT superbowl halftime show 2016", 
+    "created_at": "Mon Feb 02 00:42:43 +0000 2015"
+}{
+    "text": "Com'on Now .. Sherman Would Of Had That", 
+    "created_at": "Mon Feb 02 00:13:03 +0000 2015"
+}{
+    "text": "GOATS! Always choose goats! #SuperBowl", 
+    "created_at": "Mon Feb 02 00:41:13 +0000 2015"
+}{
+    "text": "Go @Patriots #SuperBowlXLIX", 
+    "created_at": "Mon Feb 02 00:50:57 +0000 2015"
+}{}{
+    "text": "RT @haroldazuara: Ya perd\u00ed mis ahorros por apostar en este #SuperBowl \ud83d\ude30\ud83d\ude2d Vamos @katyperry dile a los de Seattle que anoten por fita please \u2026", 
+    "created_at": "Mon Feb 02 00:37:35 +0000 2015"
+}{
+    "text": "KICK THAT MOFO!!! #SB49", 
+    "created_at": "Sun Feb 01 23:35:50 +0000 2015"
+}{
+    "text": "@TWERKlNTOMMO PATRIOTS ARE GETTING DRAGGED", 
+    "created_at": "Sun Feb 01 23:49:46 +0000 2015"
+}{
+    "text": "RT @sammywatkins: I\u2019m taking over the @Bose handle for the 2nd\u00a0half of #SuperBowl! Follow #TeamBose http://t.co/LAT93XL8Wv", 
+    "created_at": "Sun Feb 01 23:31:14 +0000 2015"
+}{
+    "text": "Amendola is literally identical to Wes Welker #Patriots", 
+    "created_at": "Mon Feb 02 00:40:16 +0000 2015"
+}{
+    "text": "5 must-do's to play-it-safe with kids sports: http://t.co/PZmAmrZHm6 #tweetiatricians #SB49 #SuperBowl #Halftime", 
+    "created_at": "Mon Feb 02 00:30:06 +0000 2015"
+}{
+    "text": "@lindsaylohan has best commercial so far #SB49", 
+    "created_at": "Sun Feb 01 23:43:09 +0000 2015"
+}{
+    "text": "#SB49's #AllYouNeedIsEcuador : #Ecuador's @MashiRafael soon may OUTLAW #socialmedia #memes http://t.co/9ZKOs1BJeE http://t.co/kH6hoEtFFG", 
+    "created_at": "Mon Feb 02 00:41:54 +0000 2015"
+}{
+    "text": "I've got the @Patriots winning #SB49! #PatriotsWIN @NFL http://t.co/0BD7J57TRl", 
+    "created_at": "Mon Feb 02 00:01:43 +0000 2015"
+}{
+    "text": "RT @Bluntsovahoess: Touchdown baby \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f Seahawks \ud83c\udfc6\ud83c\udfc8", 
+    "created_at": "Mon Feb 02 00:41:50 +0000 2015"
+}{
+    "text": "@MzKatieCassidy @Seahawks @SeahawksCanada if I start being for them (though idk shit about Super Bowl) will you send me some love \u263a\ufe0f?", 
+    "created_at": "Sun Feb 01 23:58:43 +0000 2015"
+}{
+    "text": "RT @aldotcom: That green grass on the field was grown in Alabama http://t.co/a4z0nMBfJC #SB49 http://t.co/9BmAEZXVTQ", 
+    "created_at": "Sun Feb 01 23:45:49 +0000 2015"
+}{
+    "text": "RT @Patriots: Patriots D with a big stop to force a 3 &amp; out on the Seahawks' first drive. Seattle to punt. #NEvsSEA #SB49", 
+    "created_at": "Sun Feb 01 23:41:56 +0000 2015"
+}{
+    "text": "RT @TriceLeDon: #McDonaldsPayment be like \"Tell your side chick she is about to get a promotion  \"\" #SuperBowl", 
+    "created_at": "Mon Feb 02 00:43:04 +0000 2015"
+}{
+    "text": "I swear I did not shed a tear during that lost dog commercial. #SuperBowl", 
+    "created_at": "Mon Feb 02 00:06:03 +0000 2015"
+}{
+    "text": "Damn Wilson \ud83d\udc40", 
+    "created_at": "Mon Feb 02 00:02:28 +0000 2015"
+}{
+    "text": "RT @TSBible: Superbowl viewers in 2014: 115 million.\n\nChelsea vs. Manchester City last night: 650 million. http://t.co/PcWSnjHxRn", 
+    "created_at": "Sun Feb 01 23:31:59 +0000 2015"
+}{
+    "text": "RT @LukeKorns: Go Seahawks.", 
+    "created_at": "Mon Feb 02 00:01:50 +0000 2015"
+}{
+    "text": "RT @BigAssAddicts: Touchdown Seahawks #BeastMode http://t.co/ACTpC3LezP", 
+    "created_at": "Mon Feb 02 00:35:57 +0000 2015"
+}{
+    "text": "RT @markjburns88: NBC estimates that 70+ brands bought ads for #SB49, including 15 rookie sponsors #SportsBiz", 
+    "created_at": "Sun Feb 01 23:49:53 +0000 2015"
+}{
+    "text": "@JuslinSven Enhanced Odds!!! 4/1 Seahawks to Win Super Bowl XLIX http://t.co/UF2g9cgxXy", 
+    "created_at": "Sun Feb 01 23:46:44 +0000 2015"
+}{
+    "text": "Gronk finally playing a superbowl", 
+    "created_at": "Sun Feb 01 23:47:50 +0000 2015"
+}{
+    "text": "people keep mentioning MGR2 today and i sitting here like THERE'S NO FUCKING WAY THEY'D PREMIERE MGR2 AT THE FUCKING SUPERBOWL", 
+    "created_at": "Mon Feb 02 00:31:23 +0000 2015"
+}{
+    "text": "RT @profkrg: @OliviaAdamsPR Puppies and babies are always wins, unless you kill them in your ads. That\u2019s not ok. #SuperBowl", 
+    "created_at": "Mon Feb 02 00:39:07 +0000 2015"
+}{
+    "text": "#SuperBowl is akin to a corporate twitterstorm,fuck thats why i stopped watching tv.", 
+    "created_at": "Mon Feb 02 00:22:10 +0000 2015"
+}{
+    "text": "I seriously want the Seahawks to win #SuperBowI", 
+    "created_at": "Mon Feb 02 00:58:38 +0000 2015"
+}{
+    "text": "Brady trippin", 
+    "created_at": "Sun Feb 01 23:54:58 +0000 2015"
+}{
+    "text": "I got the Seahawks! #WestCoast", 
+    "created_at": "Sun Feb 01 23:25:20 +0000 2015"
+}{
+    "text": "RT @RiggedNFL: Patriots will win by 6, in OT.\n\nBrady will be Super Bowl MVP.", 
+    "created_at": "Mon Feb 02 00:57:01 +0000 2015"
+}{
+    "text": "RT @RealSkipBayless: If the Cowboys hadn't suffered the Crime of the Century, they'd be playing the Patriots right now. That was a CATCH.", 
+    "created_at": "Sun Feb 01 23:25:43 +0000 2015"
+}{
+    "text": "fuck the superbowl", 
+    "created_at": "Sun Feb 01 23:44:42 +0000 2015"
+}{
+    "text": "RT @desusnice: If Sarah McLachlan emptied a full clip at point blank range into a sick puppy it would be the most lighthearted superbowl ad\u2026", 
+    "created_at": "Mon Feb 02 00:57:59 +0000 2015"
+}{
+    "text": "TD. Pats. Classic Brady #SuperBowlXLIX", 
+    "created_at": "Mon Feb 02 00:12:44 +0000 2015"
+}{
+    "text": "Now THAT throw looked like Brady can't handle a fully inflated football. #carefulwording", 
+    "created_at": "Mon Feb 02 00:25:30 +0000 2015"
+}{
+    "text": "Guts. #SuperbOwl", 
+    "created_at": "Mon Feb 02 00:58:28 +0000 2015"
+}{
+    "text": "Patriots \ud83d\udc4c", 
+    "created_at": "Mon Feb 02 00:08:33 +0000 2015"
+}{
+    "text": "RT @OtterBox: The spike - a drop with authority. We approve. #CelebrateDrops RT to win $500 + an #OtterBox pack! #SB49 https://t.co/XvW2rRW\u2026", 
+    "created_at": "Mon Feb 02 00:54:42 +0000 2015"
+}{
+    "text": "RT @NotBillWalton: Bill Belichick's back up plan to deflate balls #Superbowl http://t.co/W3FKCIUOk3", 
+    "created_at": "Sun Feb 01 23:44:30 +0000 2015"
+}{
+    "text": "RT @SportsCenter: Marshawn Lynch is wearing gold cleats for Super Bowl XLIX. http://t.co/b8St3VRexu", 
+    "created_at": "Sun Feb 01 23:29:55 +0000 2015"
+}{
+    "text": "RT @ladygemini__: RT For Steelers \nFAV For Patriots \nGet Both At   \ud83d\udc49http://t.co/8FwScFT16d\ud83d\udc48             Use Promo Code \"cash\"\ud83d\ude0a http://t.co/\u2026", 
+    "created_at": "Mon Feb 02 01:00:17 +0000 2015"
+}{
+    "text": "RT @MRiemen: What I learned watching the #SB49 : @Nationwide wants to kill our children", 
+    "created_at": "Mon Feb 02 00:34:41 +0000 2015"
+}{
+    "text": "That's 1 Marshawn Lynch touchdown.... I'm still waiting for one Richard Sherman \"best in the league speech.\" #msuno", 
+    "created_at": "Mon Feb 02 00:35:22 +0000 2015"
+}{
+    "text": "RT @Site5SOSBR: [VINE] WILAY tocando no Superbowl https://t.co/2KzFvNKCMA", 
+    "created_at": "Sun Feb 01 23:52:14 +0000 2015"
+}{
+    "text": "Marshawn Lynch is a fucking thug.", 
+    "created_at": "Sun Feb 01 23:40:49 +0000 2015"
+}{
+    "text": "i hate the pats.", 
+    "created_at": "Sun Feb 01 23:41:38 +0000 2015"
+}{
+    "text": "RT @Auto_Porn: Retweet if you think the Patriots are going to win the Super Bowl", 
+    "created_at": "Sun Feb 01 23:25:38 +0000 2015"
+}{
+    "text": "C'\u00e9tait beau \u00e7a #SuperBowl", 
+    "created_at": "Mon Feb 02 00:12:37 +0000 2015"
+}{
+    "text": "RT @brunorealworld: If patriots don't win I'll take a picture in booty shorts . #patriots", 
+    "created_at": "Mon Feb 02 00:40:25 +0000 2015"
+}{
+    "text": "I am loving how all these women in #SuperBowl commer.s can make fun of themselves.", 
+    "created_at": "Mon Feb 02 00:02:10 +0000 2015"
+}{
+    "text": "Quiero una org\u00eda con todos los jugadores de #Patriots&amp;SeaHawks. \ud83d\udca6#SuperBowl", 
+    "created_at": "Mon Feb 02 00:18:40 +0000 2015"
+}{
+    "text": "\"@Sa_Bynum: @iNoah_fewthings naw you are it's more black men on the Seahawks\" lmfao", 
+    "created_at": "Mon Feb 02 00:54:59 +0000 2015"
+}{
+    "text": "Those pats are focused", 
+    "created_at": "Mon Feb 02 00:51:26 +0000 2015"
+}{
+    "text": "Yeah Gronk! #firstdown #SuperBowlXLIX", 
+    "created_at": "Sun Feb 01 23:47:57 +0000 2015"
+}{
+    "text": "RT @Patriots: Seahawks win the coin toss &amp; elect to defer. Pats will receive the ball to open #SB49. #FinishTheJob", 
+    "created_at": "Sun Feb 01 23:27:07 +0000 2015"
+}{
+    "text": "RT @DevyTheKid: 500 RETWEETS AND ILL GO ON THE FIELD AND SACK TOM BRADY! http://t.co/CqzZC7duTt", 
+    "created_at": "Mon Feb 02 00:49:35 +0000 2015"
+}{
+    "text": "RT @KLM: On Air! #NFL #SuperBowl http://t.co/hx68xYOA1X", 
+    "created_at": "Mon Feb 02 00:37:07 +0000 2015"
+}{
+    "text": "@DeLanaHarvick @seahawks", 
+    "created_at": "Mon Feb 02 00:22:16 +0000 2015"
+}{
+    "text": "RT @SportsBracket: \ud83c\udfc8 SB49 Prop Bets \ud83c\udfc8\n\nMarshawn Lynch's Rushing Yards\n[Over/Under] 92.5 yards\n\nRT ~ Over\nFAV ~ Under http://t.co/UHKabuMjV7", 
+    "created_at": "Sun Feb 01 23:59:37 +0000 2015"
+}{
+    "text": "RT @RobertoFumafont: Arranca el SuperBowl 677, ya entran en las posiciones correspondientes #shuuuuuuuuuuuuuuuuuuuuuuuc http://t.co/Nvn0i9X\u2026", 
+    "created_at": "Sun Feb 01 23:41:01 +0000 2015"
+}{
+    "text": "LETS GO PATRIOTS \ud83d\udd34\u26aa\ud83d\udd35\ud83c\udfc8\ud83c\udfc6\ud83d\ude4c", 
+    "created_at": "Mon Feb 02 00:36:31 +0000 2015"
+}{
+    "text": "RT @SMACKHighNJ: ANOTHER TOUCHDOWN FOR THE PATRIOTS!!!!", 
+    "created_at": "Mon Feb 02 00:56:44 +0000 2015"
+}{
+    "text": "RT @WorldStarFunny: richard sherman picking 6s on and off the field http://t.co/NdssDKH8ld", 
+    "created_at": "Mon Feb 02 00:46:57 +0000 2015"
+}{
+    "text": "Let's go Seahawks #SuperBowl #SeattleSeahawks #SuperBowlXLIX", 
+    "created_at": "Sun Feb 01 23:38:48 +0000 2015"
+}{
+    "text": "RT @BonzoChill: when girls tweet \"go New England Seahawks\" http://t.co/ACCzSxJ47O", 
+    "created_at": "Mon Feb 02 00:56:46 +0000 2015"
+}{
+    "text": "Go @Seahawks #SuperBowl #SuperBowlNoEsporteInterativo", 
+    "created_at": "Mon Feb 02 00:07:45 +0000 2015"
+}{}{
+    "text": "RT @RMHSMUSTANGS: Less than 1 hour away to Super Bowl Kickoff!  @JimmyG_10 Savor every moment!!!! #214spiritRM  Go Patriots! http://t.co/Xd\u2026", 
+    "created_at": "Sun Feb 01 23:33:22 +0000 2015"
+}{
+    "text": "I've got the @Patriots winning #SB49! #PatriotsWIN @NFL http://t.co/7sOH5ikQxG", 
+    "created_at": "Sun Feb 01 23:42:05 +0000 2015"
+}{
+    "text": "RT @GMA: Retweet if you've got the Seattle @Seahawks and Star-Lord in @SuperBowl XLIX! #GMASuperBowl #SB49 http://t.co/g8CJgnRsfd", 
+    "created_at": "Sun Feb 01 23:46:47 +0000 2015"
+}{
+    "text": "RT @sallyjenx: Belichick booed in middle of national anthem. #SuperBowlXLIX", 
+    "created_at": "Sun Feb 01 23:25:44 +0000 2015"
+}{
+    "text": "RT @SFSNTV: \"Say my name.\" Best commercial of #SB49? http://t.co/d9eYPB8osa", 
+    "created_at": "Mon Feb 02 00:41:12 +0000 2015"
+}{
+    "text": "Gronk!!", 
+    "created_at": "Mon Feb 02 00:48:23 +0000 2015"
+}{
+    "text": "Touchdown Seahawks\ud83d\ude4c", 
+    "created_at": "Mon Feb 02 00:33:49 +0000 2015"
+}{
+    "text": "RT @backstreetboys: Countdown to #BSBTheMovie\nSinging the National Anthem at #SuperBowlXXXV. \nWho's tuning in to #SuperBowlXLIX? #SB49\nhttp\u2026", 
+    "created_at": "Mon Feb 02 00:49:45 +0000 2015"
+}{
+    "text": "RT @iLGDaily: TOUCHDOWN SEAHAWKS \ud83c\udfc8 http://t.co/cTtOqml8HI", 
+    "created_at": "Mon Feb 02 00:34:55 +0000 2015"
+}{
+    "text": "Let's spice things up #Pats Hail Mary. Long ball!", 
+    "created_at": "Sun Feb 01 23:50:51 +0000 2015"
+}{
+    "text": "RT @Patriots: Patriots drive the ball 80 yards in under 2 minutes to take a 14-7 lead 30 seconds before halftime. #NEvsSEA http://t.co/bbjS\u2026", 
+    "created_at": "Mon Feb 02 00:53:33 +0000 2015"
+}{
+    "text": "RT @kate_allison92: Oh you're a Seahawks fan? Okay then name 3 of their albums. Yeah. That's what I thought.", 
+    "created_at": "Mon Feb 02 00:28:08 +0000 2015"
+}{
+    "text": "\" marshawn lynch makes it to the 40 before being tackled by half of Massachusetts \" \ud83d\ude02\ud83d\ude02\ud83d\ude02", 
+    "created_at": "Sun Feb 01 23:40:38 +0000 2015"
+}{
+    "text": "que espero de este #SuperBowl que quien gane, no gane por la diferencia de los #Seahawks del 2014, eso", 
+    "created_at": "Sun Feb 01 23:38:35 +0000 2015"
+}{
+    "text": "RT @riley_bryan11: Wow is that ball deflated? Or maybe Patriots are just good", 
+    "created_at": "Mon Feb 02 00:12:20 +0000 2015"
+}{
+    "text": "RT @juliancamarena: If you're a Patriots fan I'm sure you're super happy right now! #SuperBowlXLIX \ud83c\udfc8", 
+    "created_at": "Mon Feb 02 00:29:49 +0000 2015"
+}{
+    "text": "RT @Abel_Kills: Im\u00e1genes de Katy Perry en el backstage de la #SuperBowl. http://t.co/t0xxCsJe9k", 
+    "created_at": "Mon Feb 02 00:35:38 +0000 2015"
+}{
+    "text": "RT @BantuKnotGoddes: TOUCHDOWN SEAHAWKS \ud83d\ude1c", 
+    "created_at": "Mon Feb 02 00:42:14 +0000 2015"
+}{
+    "text": "Ok I'm ready, let's go Patriots #SB49 #FinishTheJob !!!!! http://t.co/Uh565bOgRU", 
+    "created_at": "Sun Feb 01 23:30:01 +0000 2015"
+}{
+    "text": "RT @sims: The bar I\u2019m at just broke into applause when the dog found his way home. #superbowl", 
+    "created_at": "Mon Feb 02 00:05:30 +0000 2015"
+}{
+    "text": "Wilson GOAT", 
+    "created_at": "Mon Feb 02 00:31:21 +0000 2015"
+}{
+    "text": "RT @mindykaling: Proof I\u2019m not invisible. Just look at how into me he is! @Nationwide #InvisibleMindy #SuperBowl http://t.co/94IdS4PWdY", 
+    "created_at": "Mon Feb 02 00:06:48 +0000 2015"
+}{
+    "text": "RT @_Snape_: Apparently \"Idina Menzel\" isn\u2019t a proper answer to \"Who do you think is going to win the SuperBowl?\"", 
+    "created_at": "Sun Feb 01 23:28:33 +0000 2015"
+}{
+    "text": "RT @DonnieWahlberg: As 1 of 9 kids from Dorchester. Had no TV to watch #SuperBowl. Now I'm at game with the love of my life &amp; my boss Les M\u2026", 
+    "created_at": "Mon Feb 02 00:11:39 +0000 2015"
+}{
+    "text": "Patriots so white", 
+    "created_at": "Mon Feb 02 00:08:00 +0000 2015"
+}{
+    "text": "RT @FreeTopher: Seahawks offense puts a bad taste in my mouth ...like nigga Marshawn cant run the whole fuckin game", 
+    "created_at": "Sun Feb 01 23:43:06 +0000 2015"
+}{
+    "text": "RT @Daniel_Talley32: Super bowl rule #1:\n\nIf the Patriots are playing, you automatically root for the other team", 
+    "created_at": "Sun Feb 01 23:25:32 +0000 2015"
+}{
+    "text": "Seattle 'Illuminati' Seahawks", 
+    "created_at": "Sun Feb 01 23:37:39 +0000 2015"
+}{
+    "text": "RT @mashable: Chevy just trolled the entire country with its genius Super Bowl ad http://t.co/xzBhnJEejq #SB49 http://t.co/VTRwTyrGOW", 
+    "created_at": "Mon Feb 02 00:21:07 +0000 2015"
+}{
+    "text": "I'm routing for the Patriots since we lost to the Seahawks! \ud83d\ude1d", 
+    "created_at": "Mon Feb 02 00:25:21 +0000 2015"
+}{
+    "text": "#ESPNtemSuperBowl49 AQUI N\u00c3O QUERIDINHO, GO SEAHAWKS...", 
+    "created_at": "Sun Feb 01 23:58:08 +0000 2015"
+}{
+    "text": "RT @5SOSUpdatesWW: They keep playing 5SOS music at the Superbowl! #TheyAre5SOSAF.", 
+    "created_at": "Mon Feb 02 00:57:09 +0000 2015"
+}{
+    "text": "RT @WeLoveRobDyrdek: Marshawn Lynch Super Bowl Skittles https://t.co/Lx9WGdyOtm", 
+    "created_at": "Sun Feb 01 23:43:06 +0000 2015"
+}{
+    "text": "RT @joshgroban: Btw, GO SEAHAWKS", 
+    "created_at": "Mon Feb 02 00:30:31 +0000 2015"
+}{
+    "text": "RT @Seahawks: TOUCHDOWN SEAHAWKS! @MoneyLynch doing what #BeastMode do. Tied ballgame.\n\n#NEvsSEA #SB49 http://t.co/aDYquUVWCA", 
+    "created_at": "Mon Feb 02 00:40:46 +0000 2015"
+}{
+    "text": "You get your first amazing interception\u2026and then you get hurt. #sucks #sb49", 
+    "created_at": "Sun Feb 01 23:57:32 +0000 2015"
+}{
+    "text": "RT @DonJulioCesarC: \"I've got the Patriots.....\" -@Remmgod http://t.co/joDfeMimHb", 
+    "created_at": "Sun Feb 01 23:56:09 +0000 2015"
+}{
+    "text": "RT @chriscornell: Belichick and Brady secretly swapped out the Seahawks walk on music. It was supposed to be Jesus Christ Pose.", 
+    "created_at": "Sun Feb 01 23:50:17 +0000 2015"
+}{
+    "text": "Wilson just needs to channel his inner Vick and run all game", 
+    "created_at": "Mon Feb 02 00:53:55 +0000 2015"
+}{
+    "text": "RT @oldmanebro: Pats on clock control... Fuck", 
+    "created_at": "Sun Feb 01 23:35:40 +0000 2015"
+}{
+    "text": "Tackling has been awful today. #Seahawks", 
+    "created_at": "Mon Feb 02 00:42:24 +0000 2015"
+}{
+    "text": "#Patriots jug\u00f3n jug\u00f3n!! NE 14-7 SEA 83 yardas en un minuto y poco....bestial #SuperBowl @azanoniplus", 
+    "created_at": "Mon Feb 02 00:52:34 +0000 2015"
+}{
+    "text": "#GoHawks #SB49 Woohoo patriots lost the coin toss!", 
+    "created_at": "Sun Feb 01 23:31:15 +0000 2015"
+}{
+    "text": "Let's go seahawks let's gooooo", 
+    "created_at": "Mon Feb 02 00:24:41 +0000 2015"
+}{
+    "text": "@tiki1833 It would really annoy Tom Brady... Which as i've been told... Would be just awesome :P", 
+    "created_at": "Sun Feb 01 23:35:21 +0000 2015"
+}{}{
+    "text": "RT @KardashianReact: win or lose tonight, Tom Brady is still winning http://t.co/YVPOIVhdef", 
+    "created_at": "Mon Feb 02 00:44:03 +0000 2015"
+}{
+    "text": "Bruh I Never Win Sport Bets. If Seahawks Lose. I'm Just Done Bruh \ud83d\ude14", 
+    "created_at": "Mon Feb 02 00:24:17 +0000 2015"
+}{
+    "text": "Seahawks bout to grab this dub\ud83d\ude02\ud83c\udfc8", 
+    "created_at": "Sun Feb 01 23:45:49 +0000 2015"
+}{
+    "text": "RT @pattonoswalt: So the old guy didn't get to fuck? Good one, Fiat. #SuperBowl", 
+    "created_at": "Mon Feb 02 00:51:02 +0000 2015"
+}{
+    "text": "Wilson is out of game tonight #SuperBowl", 
+    "created_at": "Sun Feb 01 23:43:12 +0000 2015"
+}{
+    "text": "M\u00e9chante colle \u00e0 poser RT\"@mental_floss: Tom Brady was drafted as a catcher by the Montreal Expos in 1995. http://t.co/KHH9yodNmP\"", 
+    "created_at": "Mon Feb 02 00:56:20 +0000 2015"
+}{
+    "text": "RT @DC101: Katy Perry and her #SuperBowl halftime boobs are coming soon. Got money on her cleavage? http://t.co/npMHcLyFA2 http://t.co/qb9R\u2026", 
+    "created_at": "Mon Feb 02 00:56:45 +0000 2015"
+}{
+    "text": "@NinersNation hard to believe if Seahawks don't capitalise on it", 
+    "created_at": "Sun Feb 01 23:59:54 +0000 2015"
+}{
+    "text": "@Joe_Sugg SEAHAWKS!", 
+    "created_at": "Mon Feb 02 00:55:00 +0000 2015"
+}{
+    "text": "Why don't you just say you're for the Patriots @CollinsworthNBC", 
+    "created_at": "Mon Feb 02 00:43:17 +0000 2015"
+}{
+    "text": "I'm already having a hard time handling this game. \ud83d\ude13 #Seahawks", 
+    "created_at": "Mon Feb 02 00:13:48 +0000 2015"
+}{
+    "text": "RT @MorenoBID: Vean este maravilloso video sobre #Ecuador que se pasar\u00e1 durante el Superbowl\nhttps://t.co/BqdUQorjQm", 
+    "created_at": "Sun Feb 01 23:57:12 +0000 2015"
+}{
+    "text": "Great family day.  I am Watching  the SuperBowl with family!! #nfl #SuperBowlSunday #moods  #hardworkpaysoff  #familytime #Therapy", 
+    "created_at": "Sun Feb 01 23:37:53 +0000 2015"
+}{
+    "text": "RT @AdrianDorado14: Espero salga el helado perreador del v\u00eddeo de \"This is how we do\" junto con katy perry en el #SuperBowl", 
+    "created_at": "Mon Feb 02 00:38:47 +0000 2015"
+}{
+    "text": "Las pel\u00edculas piratas se ven mal, pero tu publicando que ves el SuperBowl cuando no sabes absolutamente nada de Football, te ves mucho peor.", 
+    "created_at": "Mon Feb 02 00:18:13 +0000 2015"
+}{
+    "text": "RT @iSteelersNation: BIG GAIN by The #Seahawks. They are now in the RedZone. #SuperBowlXLIX", 
+    "created_at": "Mon Feb 02 00:37:35 +0000 2015"
+}{
+    "text": "RT @LScola4: Miro la superbowl con mi hijo.\nLlora porque metieron un touchdown los Patriots. \nLo contengo. \nFinjo que me importa. \n#hijosam\u2026", 
+    "created_at": "Mon Feb 02 00:41:28 +0000 2015"
+}{
+    "text": "Seattle by 6", 
+    "created_at": "Sun Feb 01 23:31:49 +0000 2015"
+}{
+    "text": "Quien apuestaa voy por seattle", 
+    "created_at": "Mon Feb 02 00:54:19 +0000 2015"
+}{
+    "text": "RT @BuzzFeedSports: Tails! @Seahawks choose to defer. #SB49 http://t.co/Yequnukgq8", 
+    "created_at": "Sun Feb 01 23:31:43 +0000 2015"
+}{
+    "text": "Patriots coming in hot!", 
+    "created_at": "Sun Feb 01 23:50:01 +0000 2015"
+}{
+    "text": "RT @GavinBecker3: RT for Seahawks", 
+    "created_at": "Mon Feb 02 00:31:35 +0000 2015"
+}{
+    "text": "RT @fiftyxxshades: The Fifty Shades trailer will be available here after it airs! http://t.co/kCLbSRsGlm #FiftyShades", 
+    "created_at": "Mon Feb 02 00:35:34 +0000 2015"
+}{
+    "text": "RT @liIdurk__: I got #Seahawks who yal got????", 
+    "created_at": "Sun Feb 01 23:31:10 +0000 2015"
+}{
+    "text": "Ohhh sht they might comeback #SB49 \ud83c\udfc8\ud83d\ude02", 
+    "created_at": "Mon Feb 02 00:58:37 +0000 2015"
+}{
+    "text": "RT @Noahs_Ark20: #SB49 \ud83d\ude02 http://t.co/vcEcxLSgMM", 
+    "created_at": "Mon Feb 02 00:47:09 +0000 2015"
+}{
+    "text": "I'm not even a real Seahawks fan \ud83d\udc80\ud83d\udc81", 
+    "created_at": "Mon Feb 02 00:16:41 +0000 2015"
+}{
+    "text": "RT @Durden: Tom Brady aturdiendo a la defensa de Seattle con su hermosa sonrisa.", 
+    "created_at": "Sun Feb 01 23:40:25 +0000 2015"
+}{
+    "text": "Legit crying, @Budweiser #SuperBowl", 
+    "created_at": "Mon Feb 02 00:04:32 +0000 2015"
+}{
+    "text": "YES GRONK\ud83d\udc4f\ud83d\udc4f", 
+    "created_at": "Mon Feb 02 00:51:19 +0000 2015"
+}{
+    "text": "RT @BestOfGalaxies: RT for Seahawks FAV for Patriots http://t.co/DjaQNmkt5Q", 
+    "created_at": "Mon Feb 02 00:40:44 +0000 2015"
+}{
+    "text": "No entiendo los que miran el superbowl y no saben que es una yarda", 
+    "created_at": "Mon Feb 02 00:01:15 +0000 2015"
+}{
+    "text": "RT @ItsNickBean: Come on Seahawks \ud83d\ude4f\nGet a hole in 1 please \ud83d\ude29", 
+    "created_at": "Mon Feb 02 00:44:50 +0000 2015"
+}{
+    "text": "Enjoy the Superbowl :3", 
+    "created_at": "Sun Feb 01 23:25:42 +0000 2015"
+}{
+    "text": "RT @bigelow__: Damn brady", 
+    "created_at": "Mon Feb 02 00:02:18 +0000 2015"
+}{
+    "text": "I'm rooting for the Seahawks and If you think I'm just a bandwagoner than you are correct. #SeahawksWIN", 
+    "created_at": "Mon Feb 02 00:08:49 +0000 2015"
+}{
+    "text": "RT @PatriotsExtra: Tom Brady now with 50 TDs in the post season", 
+    "created_at": "Mon Feb 02 00:16:56 +0000 2015"
+}{
+    "text": "Like why Brady? http://t.co/oeWnoLDsQk", 
+    "created_at": "Mon Feb 02 00:25:25 +0000 2015"
+}{
+    "text": "RT @SportsCenter: Tom Brady now has 50 postseason TD passes in his legendary career, most in NFL history. http://t.co/euSu1Ea89A", 
+    "created_at": "Mon Feb 02 00:17:31 +0000 2015"
+}{
+    "text": "Primero y GOAL de los @Patriots pase de #TomBrady  a @Edelman11 #SuperBowlXLIX", 
+    "created_at": "Mon Feb 02 00:10:37 +0000 2015"
+}{
+    "text": "Sitting back like when Katy Perry coming out\ud83d\udc40 #SuperBowl", 
+    "created_at": "Mon Feb 02 00:22:49 +0000 2015"
+}{
+    "text": "TD de Lynch. @Patriots 7-7 @Seahawks http://t.co/Fiav4kwhz0 http://t.co/DnIA7ignF5", 
+    "created_at": "Mon Feb 02 00:35:25 +0000 2015"
+}{
+    "text": "Let the skittles rain!!!! @Seahawks", 
+    "created_at": "Mon Feb 02 00:36:37 +0000 2015"
+}{
+    "text": "RT @kararossny: \u201c@usweekly: \"Can you explain what the Internet is?\" http://t.co/LBahPQhbqO #SB49 http://t.co/9umeCG42AD\u201d", 
+    "created_at": "Sun Feb 01 23:50:17 +0000 2015"
+}{
+    "text": "Let's go Wilson", 
+    "created_at": "Mon Feb 02 00:53:22 +0000 2015"
+}{
+    "text": "How much longer until half time?! #Halftime #KatyPerrySuperBowl #Superbowl2015 @SuperBowl @katyperry http://t.co/o07bbnEmsN", 
+    "created_at": "Mon Feb 02 00:29:19 +0000 2015"
+}{
+    "text": "@TaZeTheGod Nah man superbowl on and im with family tomorrow at 5:00 ct i will", 
+    "created_at": "Mon Feb 02 00:26:11 +0000 2015"
+}{
+    "text": "Los wide receiver de los Patriots son una mierda, y su quarterback es m\u00e1s mierda a\u00fan \ud83d\ude12", 
+    "created_at": "Mon Feb 02 00:11:26 +0000 2015"
+}{
+    "text": "I've got the @Patriots winning #SB49! #PatriotsWIN @NFL http://t.co/VKfQg0M0sW", 
+    "created_at": "Sun Feb 01 23:45:09 +0000 2015"
+}{
+    "text": "RT @NCStandards: Go Seahawks because Russell Wilson.", 
+    "created_at": "Mon Feb 02 00:06:37 +0000 2015"
+}{
+    "text": "noooo gronk !", 
+    "created_at": "Mon Feb 02 00:10:00 +0000 2015"
+}{
+    "text": "Can't stop watching #JurassicWorld #SuperBowl trailer. Awesome @prattprattpratt https://t.co/1U34op3y1Y https://t.co/Ln26cXtOGN #SB49", 
+    "created_at": "Sun Feb 01 23:50:44 +0000 2015"
+}{
+    "text": "@Vanirfreyja Patriots because your really rooting for the seahawks ;)", 
+    "created_at": "Mon Feb 02 00:29:16 +0000 2015"
+}{
+    "text": "idk whats better the superbowl or the food", 
+    "created_at": "Mon Feb 02 00:47:40 +0000 2015"
+}{
+    "text": "GRONK!", 
+    "created_at": "Mon Feb 02 00:48:29 +0000 2015"
+}{
+    "text": "TOUCHDOWN!! \ud83c\udfc8\ud83c\udfc8\ud83c\udf89 @MarshawnLynch24 @Seahawks", 
+    "created_at": "Mon Feb 02 00:34:26 +0000 2015"
+}{
+    "text": "RT @Ronald_MacKay: Valen verga eso coches y su SuperBowl! Yo estoy listo para Katy Perry\nhttps://t.co/Ptg16HXoKU http://t.co/ix0nGy93RV", 
+    "created_at": "Mon Feb 02 01:00:18 +0000 2015"
+}{
+    "text": "RT @ESPNNFL: The Patriots are already doing better than the Broncos last year", 
+    "created_at": "Sun Feb 01 23:45:55 +0000 2015"
+}{
+    "text": "Not a offensive pass interference because its gronk", 
+    "created_at": "Mon Feb 02 00:10:01 +0000 2015"
+}{}{
+    "text": "RT @Brett12Green: Who's everyone picking to win the @SuperBowl tonight? I'm taking the @Seahawks 34-27. @DangeRussWilson takes home the MVP\u2026", 
+    "created_at": "Sun Feb 01 23:47:10 +0000 2015"
+}{
+    "text": "RT @bruhitszach: Retweet for the Seahawks and favorite for the patriots", 
+    "created_at": "Sun Feb 01 23:51:19 +0000 2015"
+}{
+    "text": "Tom Brady, doing all he knows how to do.. Throw short.", 
+    "created_at": "Sun Feb 01 23:51:20 +0000 2015"
+}{
+    "text": "What's your fave Skittles color? Mine is yellow peanut M&amp;Ms. #SkittlesSuck #SuperBowl", 
+    "created_at": "Mon Feb 02 00:36:09 +0000 2015"
+}{
+    "text": "This makes like the 5th #SuperBowl that either team has scored in the 1st quarter. #Conservative", 
+    "created_at": "Mon Feb 02 00:11:41 +0000 2015"
+}{
+    "text": "Gotta say, @NBCSports' new graphics package is very sleak. I love the bumper transitions in/out of commercial. #SuperBowl", 
+    "created_at": "Sun Feb 01 23:44:33 +0000 2015"
+}{
+    "text": "RT @ltsSundayLeague: #SuperbOwl http://t.co/cFkjInlBzj", 
+    "created_at": "Mon Feb 02 00:34:06 +0000 2015"
+}{
+    "text": "RT @mikeyxcvi: IGHT PATS \ud83d\ude08\ud83d\ude08\ud83d\ude08\ud83d\udd35 BRADY BOUTA PUT IN WORK", 
+    "created_at": "Sun Feb 01 23:44:56 +0000 2015"
+}{
+    "text": "RT @ItsAlyssaShouse: LEGGOOOOO SEAHAWKS \ud83d\ude4c", 
+    "created_at": "Sun Feb 01 23:41:17 +0000 2015"
+}{
+    "text": "Fucccckkkkkk gronk", 
+    "created_at": "Mon Feb 02 00:48:04 +0000 2015"
+}{
+    "text": "RT @RiggedNFL: The Patriots and Seahawks will play in the 2015 Super Bowl.\n\n(Read the attached picture). http://t.co/w0pVteOVgq", 
+    "created_at": "Sun Feb 01 23:56:18 +0000 2015"
+}{
+    "text": "\"@scharpling: \u201cGreat news! My son just got cast in a Superbowl commercial! Yeah, he plays a dead kid!\u201d\"", 
+    "created_at": "Mon Feb 02 00:53:21 +0000 2015"
+}{
+    "text": "RT @LoveBeerOficial: \u201c@NFL_Memes: Russell Wilson checking the Patriots footballs.. http://t.co/QS0MMysMyP\u201d por si las dudas.", 
+    "created_at": "Sun Feb 01 23:50:49 +0000 2015"
+}{
+    "text": "RT @pattonoswalt: \"Wish my death could made some sweet bank for my parents.\" -- Nationwide. #SuperBowl", 
+    "created_at": "Mon Feb 02 00:29:29 +0000 2015"
+}{
+    "text": "#MiRitualEs ver en azteca siete el #SuperBowl Go Go Go Patriots !!", 
+    "created_at": "Mon Feb 02 00:11:08 +0000 2015"
+}{
+    "text": "Who is everybody going for? Cast your vote! #Superbowl #seahawks #patriots https://t.co/p1Wa69QRvK", 
+    "created_at": "Sun Feb 01 23:41:12 +0000 2015"
+}{
+    "text": "RT @ProFootballDoc: By video, JEREMY LANE @Seahawks has both bone (radius &amp; ulna) forearm fracture. Unfortunately will need surgery with pl\u2026", 
+    "created_at": "Mon Feb 02 00:19:30 +0000 2015"
+}{
+    "text": "I've got the @Patriots winning #SB49! #PatriotsWIN @NFL http://t.co/ek1lpV0FRW", 
+    "created_at": "Mon Feb 02 00:08:47 +0000 2015"
+}{
+    "text": "RT @houldini: GO SEAHAWKS", 
+    "created_at": "Mon Feb 02 00:45:10 +0000 2015"
+}{
+    "text": "RT @Manberlin: GO HAWKS!  KAAAAA KAAAAAAAAAAAAAAAAAAAAAW!\njhandleyyy @seahawks http://t.co/kSWbn7tBWM", 
+    "created_at": "Sun Feb 01 23:27:37 +0000 2015"
+}{
+    "text": "RT @loyaltynlove24: Seattle's receivers suck lol", 
+    "created_at": "Mon Feb 02 00:03:18 +0000 2015"
+}{
+    "text": "RT @Bdell1014: The Patriots really cheated their way to the Superbowl by playing with a Nerf ball. Smh", 
+    "created_at": "Mon Feb 02 00:02:59 +0000 2015"
+}{}{
+    "text": "Still waiting for Richard Sherman to do something", 
+    "created_at": "Mon Feb 02 00:24:35 +0000 2015"
+}{
+    "text": "12 things to know about Super Bowl XLIX: http://t.co/FU72h9XumB #SB49", 
+    "created_at": "Mon Feb 02 00:30:00 +0000 2015"
+}{
+    "text": "#SuperBowlXLIX So, NBC sportscasters root for the Patriots?", 
+    "created_at": "Mon Feb 02 00:51:15 +0000 2015"
+}{
+    "text": "RT @NoticiasMVS: Festejo de LaFell (19) @Seahawks #SuperBowl http://t.co/YCKMRsuVw8", 
+    "created_at": "Mon Feb 02 00:22:29 +0000 2015"
+}{
+    "text": "RT @CashNastyGaming: Guys..he coulda easily hit the flats..he got bored and wanted to try something new..it's all good Wilson trash", 
+    "created_at": "Sun Feb 01 23:58:34 +0000 2015"
+}{
+    "text": "Watch England Patriots vs Seattle Seahawks Live Online Stream =&gt; http://t.co/WAHWVI2I32 tv821 ch643", 
+    "created_at": "Sun Feb 01 23:49:06 +0000 2015"
+}{
+    "text": "@BrianDawkins Pats game plan is setting up big plays in 2nd half", 
+    "created_at": "Mon Feb 02 00:47:46 +0000 2015"
+}{
+    "text": "RT @madhouseonmads: girls who don't know who to root for just think Seattle Seahawks = Seattle Grace Hospital = McDreamy", 
+    "created_at": "Mon Feb 02 00:26:06 +0000 2015"
+}{
+    "text": "#SB49EnTD forever alone nivel...no salgo hasta que se acabe el superbowl!! sola hasta ma\u00f1ana!!", 
+    "created_at": "Sun Feb 01 23:46:20 +0000 2015"
+}{
+    "text": "Would've won $50 if Brady woulda made that pass\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d. Salty af", 
+    "created_at": "Sun Feb 01 23:55:15 +0000 2015"
+}{
+    "text": "I got all money on Seattle", 
+    "created_at": "Mon Feb 02 00:59:25 +0000 2015"
+}{
+    "text": "RT @feministabulous: A lot of ads highlighting the role of fathers which feels like a #SuperBowl first. #MediaWeLike", 
+    "created_at": "Mon Feb 02 00:31:06 +0000 2015"
+}{
+    "text": "RT @mashable: The Chevy ad that made you ink http://t.co/wFqeK8v7pS http://t.co/0VyjG83aSU #SB49", 
+    "created_at": "Sun Feb 01 23:36:16 +0000 2015"
+}{
+    "text": "RT @vine: \ud83c\udfc9 Touchdowwwn! Check out the #SuperBowl channel for the biggest moments caught on Vine. http://t.co/pB7uMj2gew", 
+    "created_at": "Mon Feb 02 00:25:31 +0000 2015"
+}{
+    "text": "RT @NBCSports: RT if you're watching @Patriots vs. @Seahawks in #SB49 on @nbc! Stream here: http://t.co/0K9J2rDGMM http://t.co/leRms9JhPl", 
+    "created_at": "Sun Feb 01 23:33:43 +0000 2015"
+}{
+    "text": "DEM ANKLES ARE BACK IN SEATTLE!!!!! DAMN!!!!!!!!!!", 
+    "created_at": "Sun Feb 01 23:56:35 +0000 2015"
+}{
+    "text": "@ZoeyAnderson14 @Rolanaerskine it's not my fault you love Seattle \ud83d\ude02", 
+    "created_at": "Mon Feb 02 00:39:00 +0000 2015"
+}{
+    "text": "\u00c9 hora do show New England Patriots #patriots x Seattle Seahawks #seahawks #superbowlXLIX http://t.co/TCHmjAXKrO", 
+    "created_at": "Sun Feb 01 23:32:53 +0000 2015"
+}{
+    "text": "RT @SportsBracket: \ud83c\udfc8 SB49 Prop Bets \ud83c\udfc8\n\nWill Marshawn Lynch grab his crotch after scoring a TD?\n\nRT ~ Yes\nFAV ~ No http://t.co/cSuMJFT9nX", 
+    "created_at": "Sun Feb 01 23:35:54 +0000 2015"
+}{
+    "text": "RT @Afeezus: \u201c@larrydiamond_: \u201c@Afeezus: So who else trying to bet ?\n\nI got money on the Seahawks\u201d bet you a pair of sneakers \ud83d\ude47\u201d\n\nWhat snea\u2026", 
+    "created_at": "Sun Feb 01 23:39:59 +0000 2015"
+}{
+    "text": "RT @BleacherReport: UPDATE: Marshawn Lynch has reportedly changed his cleats. No more gold. #SB49 http://t.co/VHPqJ0WgIg", 
+    "created_at": "Sun Feb 01 23:38:05 +0000 2015"
+}{
+    "text": "@One_Man_Army_CV You said Brady who lol He just Drove down the Field 2 times", 
+    "created_at": "Mon Feb 02 00:16:16 +0000 2015"
+}{
+    "text": "RT @wbirbeth: Love! RT @wbir: Awww, the Puppy!!! #SB49 If you want to tear up again, watch it here -  http://t.co/2Pvk0S9Irp http://t.co/Lt\u2026", 
+    "created_at": "Mon Feb 02 00:24:58 +0000 2015"
+}{
+    "text": "@DianteStewart 2nd qtr 9:47 left touchdown pats 7-0", 
+    "created_at": "Mon Feb 02 00:12:49 +0000 2015"
+}{
+    "text": "RT @GWtweets: .@GWGeorge made a #SuperBowl appearance. #GWU #RaiseHigh http://t.co/i1LUZ3OKVu", 
+    "created_at": "Sun Feb 01 23:50:47 +0000 2015"
+}{
+    "text": "Q mierda los patriots hicieron touchdown \ud83d\ude08\ud83d\ude08\ud83d\ude08", 
+    "created_at": "Mon Feb 02 00:13:18 +0000 2015"
+}{
+    "text": "Ugh, these #SuperBowl ads are making me miss the fun commercials of the dot com boom years.", 
+    "created_at": "Mon Feb 02 00:32:59 +0000 2015"
+}{
+    "text": "Patriots \ud83d\ude4c", 
+    "created_at": "Mon Feb 02 00:45:12 +0000 2015"
+}{
+    "text": "THE GRONK!!!! #SuperBowlXLIX #yessssssssss #GRONKNATION", 
+    "created_at": "Mon Feb 02 00:54:09 +0000 2015"
+}{
+    "text": "@jadalikespizzaa Patriots will win -.-", 
+    "created_at": "Sun Feb 01 23:53:25 +0000 2015"
+}{
+    "text": "RT @RoFloESPN: RT if you have as many completions as Russell Wilson.\n#Seahawks #Patriots #SuperBowl", 
+    "created_at": "Mon Feb 02 00:27:23 +0000 2015"
+}{
+    "text": "youotube\u3067superbowl live\u4e2d\u7d99\u306a\u3057\u304b\u3002\u3002\u3002", 
+    "created_at": "Mon Feb 02 00:32:36 +0000 2015"
+}{
+    "text": "RT @RVACoffeeStain: That was a weird version of Let It Go #SuperBowl", 
+    "created_at": "Mon Feb 02 00:16:32 +0000 2015"
+}{
+    "text": "Even tho I hate the patriots I'm picking them to win", 
+    "created_at": "Mon Feb 02 00:10:46 +0000 2015"
+}{
+    "text": "I want to see Kate upton again FUK da superbowl", 
+    "created_at": "Sun Feb 01 23:44:25 +0000 2015"
+}{
+    "text": "\"Watch how long he's gonna last. Wait, wait, wait, and here he comes!\" #SB49", 
+    "created_at": "Sun Feb 01 23:57:38 +0000 2015"
+}{
+    "text": "RT @carmeloanthony: Kiyan and I at home for #SB49 #ThisIsMe7o #WithDad http://t.co/CE6rt7If0a", 
+    "created_at": "Mon Feb 02 00:22:52 +0000 2015"
+}{
+    "text": "The  @Patriots are already off to a better start than the @Broncos #SB49", 
+    "created_at": "Sun Feb 01 23:33:44 +0000 2015"
+}{
+    "text": "TOUCHDOWN SEATTLE WITH 3 SECONDS LEFT IN THE HALF! HELL OF A PLAY! ~PG", 
+    "created_at": "Mon Feb 02 00:59:00 +0000 2015"
+}{
+    "text": "RT @SportsCenter: Tom Brady with an impressive first half in his 6th Super Bowl.\n\u2022 Brady: 20-27, 177 Yds, 2 TD, Int http://t.co/O3I1zv6Dos", 
+    "created_at": "Mon Feb 02 00:53:49 +0000 2015"
+}{
+    "text": "RT @nfl: The @Seahawks are CHARGING.\n\n6 seconds left and they are on the @Patriots 10.5-yard line.\n\nWill they get a TD before the half? #SB\u2026", 
+    "created_at": "Mon Feb 02 00:57:32 +0000 2015"
+}{
+    "text": "#SuperBowl", 
+    "created_at": "Sun Feb 01 23:31:15 +0000 2015"
+}{
+    "text": "RT @LINWOOD__TAN: #Beastmode \ud83c\udfc8\ud83c\udfc8\ud83c\udfc8\ud83c\udfc8\ud83c\udfc8\ud83c\udfc8\ud83c\udfc8\ud83c\udfc8\ud83c\udfc8  Letsss Gooooooooooo  Seahawks!!!!! \ud83c\udfc6", 
+    "created_at": "Mon Feb 02 00:38:16 +0000 2015"
+}{
+    "text": "RT @SportsCenter: BEAST MODE!\nMarshawn Lynch scores from 3 yards out. Seahawks tie Patriots at 7.\nLynch has 12 Rush, 45 Yds, TD", 
+    "created_at": "Mon Feb 02 00:34:36 +0000 2015"
+}{
+    "text": "RT @BR_NFL: VIDEO: Budweiser\u2019s #SB49 commercial will make your heart melt http://t.co/TqG2kvT6y4 http://t.co/N9xHpkc0sQ", 
+    "created_at": "Mon Feb 02 00:21:42 +0000 2015"
+}{
+    "text": "Even the #SuperBowl commercials have been weak this game", 
+    "created_at": "Mon Feb 02 00:27:40 +0000 2015"
+}{
+    "text": "#ESPNtemSuperBowl49/Everaldo paulo Antunes Mandem um abraco turma Campo Grande! ESPN  Bombando.. Seahawks", 
+    "created_at": "Mon Feb 02 00:27:39 +0000 2015"
+}{
+    "text": "RT @Buttnole: Lynch: \"I only scored so I wouldn't get fined\"", 
+    "created_at": "Mon Feb 02 00:47:37 +0000 2015"
+}{
+    "text": "RT @CJJohnsonMusic: RT for Seahawks \nFAV for Patriots \n\nWho do you think will win???", 
+    "created_at": "Mon Feb 02 00:30:07 +0000 2015"
+}{
+    "text": "I've got the @Seahawks winning #SB49! #SeahawksWIN @NFL http://t.co/mrrxXr0wF0", 
+    "created_at": "Mon Feb 02 00:37:48 +0000 2015"
+}{
+    "text": "38-17 pats victory #SuperBowlXLIX #SB49 #SuperBowl #GoPats", 
+    "created_at": "Sun Feb 01 23:34:45 +0000 2015"
+}{
+    "text": "Seahawks Repeat \ud83d\udc4c.", 
+    "created_at": "Sun Feb 01 23:58:47 +0000 2015"
+}{
+    "text": "RT @hanelly: I'm totally going to buy a dad. These #SuperBowl ads are working.", 
+    "created_at": "Mon Feb 02 00:30:52 +0000 2015"
+}{
+    "text": "RT @chaddybwoy: The super bowl commercials this year Suks #SuperBowl", 
+    "created_at": "Mon Feb 02 00:32:23 +0000 2015"
+}{
+    "text": "RT @EmblemThree: That commercial didn't make us cry.. We just got buffalo sauce in our eye... #SB49 \ud83d\udc36", 
+    "created_at": "Mon Feb 02 00:05:46 +0000 2015"
+}{
+    "text": "@JeremyJahns That #jurasicworld #SuperBowl trailer THAT IS A MUST SEE THIS SUMMER. I'm calling awesometaculer", 
+    "created_at": "Sun Feb 01 23:31:15 +0000 2015"
+}{
+    "text": "Seahawks Bro!  hope #LOB tears is up! @NeezyC14", 
+    "created_at": "Sun Feb 01 23:28:45 +0000 2015"
+}{
+    "text": "I want the Patriots to win bc SeaHawks are related to Falcons and I h8 falcons!", 
+    "created_at": "Mon Feb 02 00:57:47 +0000 2015"
+}{
+    "text": "RT @grahamh777: Check Out the @CoveGuardians! Real Heroes! #SuperBowl #Tweet4Taiji http://t.co/lMdXG0dHqL", 
+    "created_at": "Sun Feb 01 23:45:23 +0000 2015"
+}{
+    "text": "RT @JLHB510: @THAREALMIKEP @nfl @SNFonNBC @Seahawks missed tackles will cost you dearly with WRs #RunAfterCatch", 
+    "created_at": "Mon Feb 02 00:26:43 +0000 2015"
+}{
+    "text": "Bu g\u00fcn Takip\u00e7ilerim bir harika\n\n Takipgercek(.)Com http://t.co/kq31fd4ZB9 -571283714 Tom Brady", 
+    "created_at": "Mon Feb 02 00:40:13 +0000 2015"
+}{
+    "text": "RT @WSJ: Watch the ads from the #SuperBowl - and vote for the best and worst: http://t.co/oiVy2nQogh http://t.co/SsAyWEC5Z5", 
+    "created_at": "Mon Feb 02 00:30:45 +0000 2015"
+}{
+    "text": "Patriots Have Been My Team From The Jump But I Like The Seahawks's Swag.", 
+    "created_at": "Sun Feb 01 23:46:30 +0000 2015"
+}{
+    "text": ".@Budweiser always tugs at the heartstrings. #BestBuds #SB49 #brandbowl", 
+    "created_at": "Mon Feb 02 00:04:56 +0000 2015"
+}{
+    "text": "Que tremendo touchdown de Seattle...#GoSeahawks", 
+    "created_at": "Mon Feb 02 00:58:44 +0000 2015"
+}{
+    "text": "RT @lilyindia: @SkySportsNFL Standard touchdown, go Patriots oh yeaaaaaaaaah! http://t.co/rNlNpt7M47", 
+    "created_at": "Mon Feb 02 00:51:07 +0000 2015"
+}{
+    "text": "RT @ESPNNFL: Marshawn Lynch: \"You know why I'm here.\" http://t.co/fVgmj0od0T", 
+    "created_at": "Mon Feb 02 00:42:02 +0000 2015"
+}{
+    "text": "He just got Katy Perry pregnant.  \u201c@SBNation: A GRONKING TO REMEMBER http://t.co/5NvRYUSBWB http://t.co/OtAdILBwTO\u201d", 
+    "created_at": "Mon Feb 02 00:52:35 +0000 2015"
+}{
+    "text": "RT @stephentbiz: i hope the patriots beat new england", 
+    "created_at": "Mon Feb 02 00:49:39 +0000 2015"
+}{
+    "text": "RT @BestOfGalaxies: RT for Seahawks FAV for Patriots http://t.co/DjaQNmkt5Q", 
+    "created_at": "Mon Feb 02 00:32:43 +0000 2015"
+}{
+    "text": "LANE!!!!! Eat it Brady. #GoHawks #INT", 
+    "created_at": "Sun Feb 01 23:53:40 +0000 2015"
+}{
+    "text": "RT @BR_NFL: A Seahawks fan made the team logo out of weed because of course http://t.co/Fb7ouX7B3P http://t.co/ahn5Ik26Xm", 
+    "created_at": "Mon Feb 02 00:11:50 +0000 2015"
+}{
+    "text": "Good job #Chevy. Heart definitely skipped a beat, still don't want a truck though. #SB49", 
+    "created_at": "Sun Feb 01 23:30:34 +0000 2015"
+}{
+    "text": "tHIS IS SUPERBOWL 49!!!", 
+    "created_at": "Mon Feb 02 00:01:21 +0000 2015"
+}{
+    "text": "Clearly \u201c@DurantuIa: Russell Wilson http://t.co/co6KlfUWiX\u201d", 
+    "created_at": "Mon Feb 02 00:22:11 +0000 2015"
+}{
+    "text": "Go inside the official press conference and peep Katy Perry's outfits :) #SuperBowl http://t.co/kbtHEszUo1", 
+    "created_at": "Sun Feb 01 23:44:42 +0000 2015"
+}{
+    "text": "RT @_TallisW: My TL:\nHope We Have A Snow Day.\nLet's Go Seahawks.\nWho Wanna Bet?\nLet's Go Brady.\nSnow Day.\nLet's Go Patriots.\nCan't Wait To \u2026", 
+    "created_at": "Sun Feb 01 23:58:11 +0000 2015"
+}{
+    "text": "This is obviously what i do at a #superbowl party. Hahaha #kalechips #healthysuperbowl #makeyourownrulesdiet #... http://t.co/aIA736I0kk", 
+    "created_at": "Mon Feb 02 00:43:31 +0000 2015"
+}{
+    "text": "Other than that turnover, Patriots are controlling  this game.", 
+    "created_at": "Mon Feb 02 00:08:37 +0000 2015"
+}{
+    "text": "There it is, touchdown @Patriots", 
+    "created_at": "Mon Feb 02 00:11:58 +0000 2015"
+}{
+    "text": "Me during every commercial break. #enoughalready #SB49 http://t.co/WXa71Gx6SY", 
+    "created_at": "Mon Feb 02 00:31:42 +0000 2015"
+}{
+    "text": "RT @AnnaKendrick47: Go Pats!!!!", 
+    "created_at": "Sun Feb 01 23:41:25 +0000 2015"
+}{
+    "text": "That's right, @MoneyLynch, get you some #Skittles #GoHawks #SB49", 
+    "created_at": "Sun Feb 01 23:31:35 +0000 2015"
+}{
+    "text": "@kacieeann there's your boy! #Gronk", 
+    "created_at": "Mon Feb 02 00:48:01 +0000 2015"
+}{
+    "text": "RT @VicBaezS: TOUCHDOWN @Patriots !!\n14-7 arriba NE", 
+    "created_at": "Mon Feb 02 00:50:49 +0000 2015"
+}{
+    "text": "Singer Katy Perry prepares for her halftime performance at #SB49. #Seahawks (@laurenfrohne) http://t.co/a6T15lYG6l ht @SeaTimesPhoto", 
+    "created_at": "Mon Feb 02 00:57:43 +0000 2015"
+}{
+    "text": "Took him 6 superbowls to do it... @wingoz: Brady just tied Montana for most TD passes in Super Bowl\u201d", 
+    "created_at": "Mon Feb 02 00:51:54 +0000 2015"
+}{
+    "text": "Um did anyone else just stop breathing for 3 seconds? Touche, #ChevyColorado ad. #SuperBowl", 
+    "created_at": "Sun Feb 01 23:29:20 +0000 2015"
+}{
+    "text": "RT @D_Russ0: I only want the Seahawks to Win to see Marshawn Lynch do something silly in a interview #Comedian", 
+    "created_at": "Sun Feb 01 23:36:32 +0000 2015"
+}{
+    "text": "*2 days ago* \n\"Oh yeah, like they just whip out Microsoft Surfaces\" \n\n*today as Brady uses one on the sideline* \n\"Dang it\" -@lizziejane5", 
+    "created_at": "Mon Feb 02 00:07:37 +0000 2015"
+}{
+    "text": "But Pats gonna win", 
+    "created_at": "Mon Feb 02 00:35:07 +0000 2015"
+}{
+    "text": "@Nationwide thanks for the commercial that completely upset my kids during the super bowl #clueless #never_a_customer #SuperBowl #Nfl", 
+    "created_at": "Mon Feb 02 00:27:44 +0000 2015"
+}{
+    "text": "@Ryanamos95 still confused bc you've always been a Pats fan\u2026 \ud83d\ude02", 
+    "created_at": "Mon Feb 02 00:23:56 +0000 2015"
+}{
+    "text": "don't put people down for enjoying the superbowl you're not some sort of superior being because you don't watch it jfc", 
+    "created_at": "Mon Feb 02 00:31:23 +0000 2015"
+}{
+    "text": "Seattle a Sekkle down a play now", 
+    "created_at": "Mon Feb 02 00:34:10 +0000 2015"
+}{
+    "text": "\"@BrokenGamezHD: Have the niggas in the hood cried after that daddy commercial #SuperBowl #SuperBowlXLIX\" you wrong bruh \ud83d\ude02\ud83d\ude02", 
+    "created_at": "Mon Feb 02 00:22:10 +0000 2015"
+}{
+    "text": "RT @JoeyReines: Brady just looks like a tampon.", 
+    "created_at": "Mon Feb 02 00:52:44 +0000 2015"
+}{
+    "text": "Difference between Tom Brady and Russel Wilson? At least Russel Wilson can run \ud83d\ude02", 
+    "created_at": "Sun Feb 01 23:57:02 +0000 2015"
+}{
+    "text": "Seahawks get a touchdown! #SuperBowl", 
+    "created_at": "Mon Feb 02 00:33:40 +0000 2015"
+}{
+    "text": "RT @Greeblehaus: Yet again. Events are better on Twitter. With beer. \n\nHave fun on Snapchat young people, I\u2019ll stay here. \n\n#SuperBowIPoetr\u2026", 
+    "created_at": "Mon Feb 02 00:31:00 +0000 2015"
+}{
+    "text": "\"Way to Go Gronkowski !\"  Touchdown - woohoo ...  #superbowl", 
+    "created_at": "Mon Feb 02 00:51:15 +0000 2015"
+}{
+    "text": "RT @diplo: Who's got weed in this stadium ..? I'm trying to pack a superbowl", 
+    "created_at": "Mon Feb 02 00:16:22 +0000 2015"
+}{
+    "text": "RT @billbarnwell: Slant/flat on second play. Sherman follows motioning Amendola into slot and Amendola breaks his tackle.", 
+    "created_at": "Sun Feb 01 23:34:34 +0000 2015"
+}{
+    "text": "RT @katyperrylately: THE @SUPERBOWL has kicked off!\n\nThe wait for #HALFTIME begins...", 
+    "created_at": "Sun Feb 01 23:51:17 +0000 2015"
+}{
+    "text": "RT @Skittles: 2 guys strong-arm each other to #SettleIt the usual way over their favorite Skittles flavor in my OFFICIAL #SB49 AD!\nhttps://\u2026", 
+    "created_at": "Mon Feb 02 00:45:18 +0000 2015"
+}{
+    "text": "RT @APEntertainment: ok, @FIATUSA has taken the lead for #SB49 commercials ...", 
+    "created_at": "Mon Feb 02 00:44:07 +0000 2015"
+}{
+    "text": "RT @endersoncatie: Seahawks will get this dub", 
+    "created_at": "Mon Feb 02 00:31:24 +0000 2015"
+}{
+    "text": "yall patriots fan bucked over that one lil touchdown\ud83d\ude34 just wait Seahawks\ud83d\udc9a\ud83d\udc99 taken over\ud83d\udcaf!", 
+    "created_at": "Mon Feb 02 00:15:41 +0000 2015"
+}{
+    "text": "Nice Brady niceeeee", 
+    "created_at": "Sun Feb 01 23:51:04 +0000 2015"
+}{
+    "text": "Everybody calm down. Defense wins championships! #Seattle #LetsGo", 
+    "created_at": "Mon Feb 02 00:18:12 +0000 2015"
+}{
+    "text": "RT @NBCUniverso: #SuperBowlNBCUniverso TOUCHDOWN New England. Brady para LaFell y el punto extra es bueno. @Patriots 7 - 0 @Seahawks", 
+    "created_at": "Mon Feb 02 00:17:08 +0000 2015"
+}{
+    "text": "@katyperry counting on you to keep your promise for a halftime show I can let my young kiddos watch. #SB49 #HalftimeShow", 
+    "created_at": "Mon Feb 02 00:55:31 +0000 2015"
+}{
+    "text": "RT @Hoodstar_Dre: I Like The Seahawks To Win, Since Patriots Cheaters", 
+    "created_at": "Sun Feb 01 23:56:39 +0000 2015"
+}{
+    "text": "Jeff Bridges superbowl ad funny?!? Having a great Help Hair Shake #superbowl party anyway! http://t.co/ZwOhsjFHPA http://t.co/Gcf5XH6i6H", 
+    "created_at": "Mon Feb 02 00:54:01 +0000 2015"
+}{
+    "text": "Brady fucking up ni", 
+    "created_at": "Mon Feb 02 00:09:50 +0000 2015"
+}{
+    "text": "Watching the Superbowl for the ads only on NBC. Cheeky little as using a Revolution theme for tax software.", 
+    "created_at": "Sun Feb 01 23:40:41 +0000 2015"
+}{
+    "text": "Half time show. Katy Perry sings 'I Kissed A Girl'. The smoke clears in the centre of the stage - it's Vince Willfork in a dress. #SB49", 
+    "created_at": "Mon Feb 02 00:11:22 +0000 2015"
+}{
+    "text": "RT @john: GRONK", 
+    "created_at": "Mon Feb 02 01:01:07 +0000 2015"
+}{
+    "text": "Sir Paul McCartney repping the Pats. Sir Mix-A-Lot repping the Seahawks.", 
+    "created_at": "Mon Feb 02 00:28:21 +0000 2015"
+}{
+    "text": "RT @Space_Station: #GlendaleAZ, home of #SuperBowl, as seen from the International @Space_Station 260 miles above Earth. http://t.co/zXWTCr\u2026", 
+    "created_at": "Sun Feb 01 23:40:20 +0000 2015"
+}{
+    "text": "man 5 minutes in and the pats already getting fucked over cause shitty calls", 
+    "created_at": "Sun Feb 01 23:41:13 +0000 2015"
+}{
+    "text": "Myself and the biggest little Patriots fan around ohklempa #gopats #superbowl #doyourjob http://t.co/dIUARHkKw7", 
+    "created_at": "Sun Feb 01 23:26:52 +0000 2015"
+}{
+    "text": "incre\u00edble, prefirieron no venderlos antes que bajarles el precio @StubHub @SuperBowl http://t.co/FXbbr6Rhqi", 
+    "created_at": "Sun Feb 01 23:40:05 +0000 2015"
+}{
+    "text": "RT @hannah_ginsberg: \"I'm just here so I don't get fined. I like skittles\" -@samleip being Marshawn Lynch", 
+    "created_at": "Sun Feb 01 23:47:01 +0000 2015"
+}{
+    "text": "SUPERBOWL \ud83d\ude08\ud83c\udfc8", 
+    "created_at": "Sun Feb 01 23:25:28 +0000 2015"
+}{}{
+    "text": "RT @Skittles: I\u2019m so psyched for my first Super Bowl XLIX ad, people! &lt;somersaults on sofa&gt; #SB49", 
+    "created_at": "Sun Feb 01 23:59:53 +0000 2015"
+}{
+    "text": "Seattle &gt; NE", 
+    "created_at": "Sun Feb 01 23:58:30 +0000 2015"
+}{
+    "text": "@MonroeGreatest_ Patriots", 
+    "created_at": "Sun Feb 01 23:46:47 +0000 2015"
+}{
+    "text": "RT @JonnyFootbalI: What it takes to tackle Marshawn Lynch http://t.co/OCmT9Ave9g", 
+    "created_at": "Sun Feb 01 23:52:50 +0000 2015"
+}{
+    "text": "RT @WORIDSTARHlPHOP: Girls watching the superbowl http://t.co/cES5NRTQp5", 
+    "created_at": "Sun Feb 01 23:46:02 +0000 2015"
+}{
+    "text": "Getting ready for Lenny Kravitz at halftime #SuperBowl #SuperBowlXLIX @LennyKravitz #HalftimeShow http://t.co/eTbQQqPSHW", 
+    "created_at": "Mon Feb 02 00:46:35 +0000 2015"
+}{
+    "text": "I've got the @Seahawks winning #SB49! #SeahawksWIN @NFL http://t.co/5U71fGloND", 
+    "created_at": "Mon Feb 02 00:39:21 +0000 2015"
+}{
+    "text": "@tenspider_wx lol. Artic front of the move freeze the Seahawks in place ..lol", 
+    "created_at": "Mon Feb 02 00:39:00 +0000 2015"
+}{
+    "text": "RT @darrenrovell: Tom Brady has made $154M in his 15-year NFL career. His wife Gisele has made an estimated $300M in the last 9 years alone.", 
+    "created_at": "Mon Feb 02 00:14:33 +0000 2015"
+}{
+    "text": "RT @CloutGod: RT for Seahawks \ud83c\udfc8 \nFav for Patriots   \ud83c\udfc8", 
+    "created_at": "Mon Feb 02 00:41:10 +0000 2015"
+}{
+    "text": "I guess I'll root for the patriots because they're from where I'm from", 
+    "created_at": "Sun Feb 01 23:57:28 +0000 2015"
+}{
+    "text": "RT @PapaKwakes: I'm not even gonna lie to you I couldn't care less about the Superbowl", 
+    "created_at": "Sun Feb 01 23:44:34 +0000 2015"
+}{
+    "text": "RT Espngreeny: \"The footballs have been weighed and measured...\" Tremendous. #SuperBowl", 
+    "created_at": "Sun Feb 01 23:29:49 +0000 2015"
+}{
+    "text": "If only the #Superbowl was the Fifa world cup. #sigh #naptimeforme", 
+    "created_at": "Mon Feb 02 00:44:54 +0000 2015"
+}{
+    "text": "that was a stupid pass by the patriots", 
+    "created_at": "Sun Feb 01 23:54:31 +0000 2015"
+}{
+    "text": "Don't count Seattle out", 
+    "created_at": "Mon Feb 02 00:51:45 +0000 2015"
+}{
+    "text": "Seahawks defense is \ud83d\udd12\ud83d\udd12\ud83d\udd12", 
+    "created_at": "Mon Feb 02 00:10:34 +0000 2015"
+}{
+    "text": "Touchdown @Seahawks !!!!!!!!!", 
+    "created_at": "Mon Feb 02 00:58:53 +0000 2015"
+}{
+    "text": "Come on Seattle!!!! #SeahawksWIN", 
+    "created_at": "Mon Feb 02 00:27:25 +0000 2015"
+}{
+    "text": "@0fficialjay2 We finna kill the patriots\ud83d\ude02\ud83d\udcaf", 
+    "created_at": "Sun Feb 01 23:29:36 +0000 2015"
+}{
+    "text": "Lets get it Brady!", 
+    "created_at": "Mon Feb 02 00:11:50 +0000 2015"
+}{
+    "text": "RT @Patriots: Tom Brady  just tied Joe Montana for the most Super Bowl TD  passes in @NFL history with his 11th. http://t.co/7htR2YkIWJ", 
+    "created_at": "Mon Feb 02 00:53:47 +0000 2015"
+}{
+    "text": "Buffalo Bills connections in this Super Bowl #SB49 http://t.co/0TrIMLfAc5", 
+    "created_at": "Sun Feb 01 23:31:43 +0000 2015"
+}{
+    "text": "AND SO IT TRULY BEGINS #SB49", 
+    "created_at": "Mon Feb 02 00:12:07 +0000 2015"
+}{
+    "text": "@ColtonWilson21 @BRADYBBLUNTS Tom Brady", 
+    "created_at": "Sun Feb 01 23:59:30 +0000 2015"
+}{
+    "text": "RT @Jsweets_Trey5: I got the Seahawks winning this one", 
+    "created_at": "Sun Feb 01 23:33:40 +0000 2015"
+}{
+    "text": "Go whatever team Marshawn Lynch is on! #whowatcheshandegg?", 
+    "created_at": "Mon Feb 02 00:27:09 +0000 2015"
+}{
+    "text": "RT @ktjrichards: Totally thought that Fiat ad was an ad for Viagra\u2026#SB49", 
+    "created_at": "Mon Feb 02 00:41:49 +0000 2015"
+}{
+    "text": "RT @G__Queennn: #Seahawks \ud83d\ude08\ud83d\udcaf", 
+    "created_at": "Sun Feb 01 23:50:56 +0000 2015"
+}{
+    "text": "RT @lucidraves: these Superbowl ads are making my emotions go all over the place", 
+    "created_at": "Mon Feb 02 00:28:52 +0000 2015"
+}{
+    "text": "RT @PaulZeise: Is there any way Aliquippa's finest, Darrelle Revis, and Woody High's Rob Gronkowski can get Super Bowl rings without the Pa\u2026", 
+    "created_at": "Sun Feb 01 23:28:29 +0000 2015"
+}{
+    "text": "I hope the Patriots lose", 
+    "created_at": "Mon Feb 02 00:27:28 +0000 2015"
+}{
+    "text": "Lets get this W #Seahawks", 
+    "created_at": "Sun Feb 01 23:25:39 +0000 2015"
+}{
+    "text": "Hey patriots: wearing white while playing on dirt and grass is just asking for stains. Just saying. #SuperBowlXLIX", 
+    "created_at": "Sun Feb 01 23:34:08 +0000 2015"
+}{
+    "text": "RT @kdwilliams1220: \u201c@morgannreedd: It's crazy the Patriots come all the way from New England every weekend to play in a football game...\u201d \u2026", 
+    "created_at": "Sun Feb 01 23:52:37 +0000 2015"
+}{
+    "text": "RT @AFootbaIILife: Who wins?\nRetweet for New England\nFavorite for Seattle http://t.co/jUX0PUY7PW", 
+    "created_at": "Mon Feb 02 00:22:14 +0000 2015"
+}{
+    "text": "I've got the @Seahawks winning #SB49! #SeahawksWIN @NFL http://t.co/Sw2KNJ5r2Q", 
+    "created_at": "Mon Feb 02 00:40:56 +0000 2015"
+}{
+    "text": "RT @AOL: Idina Menzel, John Legend shine with patriotic performances at the #SuperBowl: http://t.co/8BzXhEzrte http://t.co/G17eLuqXK4", 
+    "created_at": "Mon Feb 02 00:56:43 +0000 2015"
+}{
+    "text": "RT @CataBernal_: Yo s\u00f3lo necesito saber a qu\u00e9 hora sale katy Perry y Lenny Kravitz porque de lo otro no s\u00e9. #SuperBowl", 
+    "created_at": "Mon Feb 02 00:13:34 +0000 2015"
+}{
+    "text": "RT @WaltFrazier: #SuperBowl  Sunday just got even better with the @nyknicks pulling out a win.", 
+    "created_at": "Sun Feb 01 23:41:14 +0000 2015"
+}{
+    "text": "Let's go patriots! #PatriotsNation", 
+    "created_at": "Mon Feb 02 00:16:24 +0000 2015"
+}{
+    "text": "RT @kostas95: Bruh this shit is weak. Step up your game Seattle!", 
+    "created_at": "Mon Feb 02 00:32:07 +0000 2015"
+}{
+    "text": "RT @TrevorMoran: Honestly really excited about the commercials rather than the superbowl itself", 
+    "created_at": "Sun Feb 01 23:30:17 +0000 2015"
+}{
+    "text": "RT @cross_ferrara: i not want patriots to win cuz jarod nevr gon shut up bout it if they do", 
+    "created_at": "Mon Feb 02 00:15:40 +0000 2015"
+}{
+    "text": "@MerAguirre Hermosa voy Pats, un caramel frapuccino de apuesta?", 
+    "created_at": "Sun Feb 01 23:43:45 +0000 2015"
+}{
+    "text": "RT @RaizaRevelles: Vamos, Patriots! \ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89", 
+    "created_at": "Mon Feb 02 00:20:10 +0000 2015"
+}{
+    "text": "Ok, so is it me that I have a big overdose with the games..\ud83d\ude2d once The Seahawks won like maybe 2 yrs ago.. &amp; then once they did..(continues)", 
+    "created_at": "Sun Feb 01 23:36:08 +0000 2015"
+}{
+    "text": "Bored already! Grrrr! Watching SuperBowl... Waiting for halftime show. \udbbb\udc34\udbb8\udf24\udbb8\udf22", 
+    "created_at": "Sun Feb 01 23:52:29 +0000 2015"
+}{
+    "text": "RT @Patriots: TOUCHDOWN GRONK!!!!!!!", 
+    "created_at": "Mon Feb 02 00:48:32 +0000 2015"
+}{
+    "text": "RT @ltsshawnoakman: Marshawn Lynch and his Skittles lmao https://t.co/aFpvwCqBWy", 
+    "created_at": "Mon Feb 02 00:15:51 +0000 2015"
+}{
+    "text": "RT @ImPRETTYdope: I'm rocking with the Seahawks for the Super Bowl!", 
+    "created_at": "Mon Feb 02 00:01:46 +0000 2015"
+}{
+    "text": "Pats gonna take this. Brady needs this.", 
+    "created_at": "Mon Feb 02 00:47:39 +0000 2015"
+}{
+    "text": "We got new trailers for Terminator and Jurassic World, so a new Avengers 2 trailer is coming right?! #SB49", 
+    "created_at": "Mon Feb 02 00:07:58 +0000 2015"
+}{
+    "text": "@Q_inJuice @MaceoBarriere brady wins is the final lmao", 
+    "created_at": "Sun Feb 01 23:44:51 +0000 2015"
+}{
+    "text": "Excuse me while I cry during all the Budweiser commercials. http://t.co/ESZyadM69P #SuperBowl", 
+    "created_at": "Mon Feb 02 00:04:12 +0000 2015"
+}{
+    "text": "RT @nfl: #BeastMode. TOUCHDOWN!!\n\nSo many Skittles. #SB49 http://t.co/dqr2samo3O", 
+    "created_at": "Mon Feb 02 00:40:29 +0000 2015"
+}{
+    "text": "I could gaf about this superbowl I just want some food lol. #ItsStillBroncosTho", 
+    "created_at": "Mon Feb 02 00:12:45 +0000 2015"
+}{
+    "text": "Oh sure.  NOW we hear Seattle fans. #SB49", 
+    "created_at": "Mon Feb 02 00:32:15 +0000 2015"
+}{
+    "text": "I've got the @Seahawks winning #SB49! #SeahawksWIN @NFL http://t.co/PQDdCjt6co", 
+    "created_at": "Sun Feb 01 23:43:12 +0000 2015"
+}{
+    "text": "Gotta give it to the Seahawks offensive line they hold it down for Russel.", 
+    "created_at": "Mon Feb 02 00:02:56 +0000 2015"
+}{
+    "text": "RT @ZizekOnNFL: Sometimes I think \"I am Tom Brady, I am ubermensch, I fuck my model wife, I am a legend.\" This is precisely the lie capital\u2026", 
+    "created_at": "Mon Feb 02 00:47:02 +0000 2015"
+}{
+    "text": "New England Patriots recebe a primeira posse de bola. Seattle Seahawks recebe a primeira posse de bola no terceiro per\u00edodo.", 
+    "created_at": "Sun Feb 01 23:26:06 +0000 2015"
+}{
+    "text": "RT @katyperrybr: Come\u00e7ou a partida! \nAgora \u00e9 s\u00f3 aguardar o intervalo! #KatyPerrySuperBowl #SB49", 
+    "created_at": "Sun Feb 01 23:36:54 +0000 2015"
+}{
+    "text": "RT @darth: #SuperBowl http://t.co/1rPPYEkgAH", 
+    "created_at": "Mon Feb 02 00:41:36 +0000 2015"
+}{
+    "text": "With the last pick in The First Draft Ever, Mexico selects..... THE AVOCADO! \ud83d\ude02 #SuperBowl #SuperBowlXLIX #SB49", 
+    "created_at": "Mon Feb 02 00:17:37 +0000 2015"
+}{
+    "text": "RT @chrisgohman: Wow superbowl. No more nationwide commercials. Please", 
+    "created_at": "Mon Feb 02 00:32:04 +0000 2015"
+}{
+    "text": "Wilson had a solid 10 seconds in the pocket there maybe more", 
+    "created_at": "Sun Feb 01 23:57:54 +0000 2015"
+}{
+    "text": "RT @nfl: #BeastMode. TOUCHDOWN!!\n\nSo many Skittles. #SB49 http://t.co/dqr2samo3O", 
+    "created_at": "Mon Feb 02 00:34:39 +0000 2015"
+}{
+    "text": "RT @TonyCSGreenall: Katy Perry on at halftime of the #SuperBowl . I prefer the British football version of announcing who won a mixed grill\u2026", 
+    "created_at": "Sun Feb 01 23:35:23 +0000 2015"
+}{
+    "text": "RT @Kevin_Fennelly: #SB49 Who do you choose?\nRT - Patriots\nFav - Seahawks", 
+    "created_at": "Sun Feb 01 23:45:06 +0000 2015"
+}{
+    "text": "Another benefit of the pats winning would everyone in the world getting super angry and loosing their mind. I love that shit.", 
+    "created_at": "Sun Feb 01 23:46:42 +0000 2015"
+}{
+    "text": "\u201c@BleacherReport: VIDEO: @MoneyLynch snacks on Skittles before #SB49 http://t.co/bSD2OPrsk0 http://t.co/QSZmbB22i7\u201dlmfao", 
+    "created_at": "Sun Feb 01 23:51:20 +0000 2015"
+}{
+    "text": "http://t.co/6TlRGockgE It's time for a new Commissioner.", 
+    "created_at": "Mon Feb 02 00:03:12 +0000 2015"
+}{
+    "text": "#Patriots 35  #Seahawks 34", 
+    "created_at": "Sun Feb 01 23:27:24 +0000 2015"
+}{
+    "text": "Vamos a lo \u00fanico q importa del #SuperBowl .. Cuando es el entretiempo? Jajaja", 
+    "created_at": "Mon Feb 02 00:01:48 +0000 2015"
+}{
+    "text": "Bad call ref. ruffing the kicker. Let's go pats.", 
+    "created_at": "Sun Feb 01 23:40:55 +0000 2015"
+}{
+    "text": "FIRST DOWN!! #SB49", 
+    "created_at": "Sun Feb 01 23:33:57 +0000 2015"
+}{
+    "text": "Superbowl party at my house", 
+    "created_at": "Sun Feb 01 23:54:21 +0000 2015"
+}{}{
+    "text": "RT @madelineisa: Flag on the play with :06 until @katyperry....DUMB #SuperBowl", 
+    "created_at": "Mon Feb 02 00:57:32 +0000 2015"
+}{
+    "text": "RT @NiceTryJoey: If your car is a Fiat for more than 4 hours, call a doctor. #superbowl", 
+    "created_at": "Mon Feb 02 00:53:07 +0000 2015"
+}{
+    "text": "RT @NFootballLHumor: I'm thinking Lynch should answer every press conference question with \"Avocados from Mexico\"", 
+    "created_at": "Mon Feb 02 00:28:18 +0000 2015"
+}{
+    "text": "Come onnn Pats!\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f", 
+    "created_at": "Mon Feb 02 00:11:18 +0000 2015"
+}{
+    "text": "RT @BenjaminWillsSJ: Patriots take the lead. If New England are anything like Old England, they'll lose on penalties though.", 
+    "created_at": "Mon Feb 02 00:13:14 +0000 2015"
+}{
+    "text": "RT @nathannatty41: Carroll on Sherman's potential big decision: \"Family first...I can't wait to see little Petey\"\nhttp://t.co/HeIqqxnqLO ht\u2026", 
+    "created_at": "Mon Feb 02 00:28:44 +0000 2015"
+}{
+    "text": "RT @DeLanes24: This is who the Patriots are tryna stop... Good luck http://t.co/h0uRMywEdG", 
+    "created_at": "Mon Feb 02 00:44:18 +0000 2015"
+}{
+    "text": "@martinolimx oye deus, si quieres a Brady al lado de Luquitas, \u00bfAl lado de qui\u00e9n quieres a Katy Perry??", 
+    "created_at": "Mon Feb 02 00:44:58 +0000 2015"
+}{
+    "text": "RT @BlakeMcIver: Thanks Carnival, now I'm bawling and my under-eye cover up is running and all the straight boys are looking at me puzzled.\u2026", 
+    "created_at": "Mon Feb 02 00:01:38 +0000 2015"
+}{
+    "text": "RT @jonathanwald: Game keeps interrupting the ads. #SuperBowl", 
+    "created_at": "Mon Feb 02 00:13:16 +0000 2015"
+}{
+    "text": "@BigMachine Pats just because I like chaos...", 
+    "created_at": "Mon Feb 02 00:01:17 +0000 2015"
+}{
+    "text": "RT @AppPowerGroup: \u201c@crystalhefner: #Patriots or #Seahawks ? http://t.co/3uMxsgDECJ\u201d\n#SuperBowl \n#SuperBowlSunday \n#SB49", 
+    "created_at": "Sun Feb 01 23:30:28 +0000 2015"
+}{
+    "text": "Big play seattle", 
+    "created_at": "Mon Feb 02 00:58:27 +0000 2015"
+}{
+    "text": "RT @EmilyRider31: Is it okay to hope the Seahawks win solely because they are from Seattle and  so is Grey's Anatomy?", 
+    "created_at": "Sun Feb 01 23:42:43 +0000 2015"
+}{
+    "text": "RT @TIKO_AMG_FTF: Retweet for Patriots \u267b\ufe0f Fav for Seahawks \u2b50\ufe0f", 
+    "created_at": "Sun Feb 01 23:47:38 +0000 2015"
+}{
+    "text": "i feel like everyone at this party is going for the seahawks... then theres me.", 
+    "created_at": "Mon Feb 02 00:17:43 +0000 2015"
+}{
+    "text": "Yes yes yes touchdown Seahawks", 
+    "created_at": "Mon Feb 02 00:33:45 +0000 2015"
+}{
+    "text": "RT @Lord_Sugar: They are all going nuts over here about Superbowl . Stupid game with Mellon shape ball. Goes on for 4 hours with about 1 ho\u2026", 
+    "created_at": "Sun Feb 01 23:51:22 +0000 2015"
+}{
+    "text": "RT @USATODAYsports: The ASU marching band performed @taylorswift13's 'Shake It Off' for the #SuperBowl crowd: http://t.co/4iQjEb6aLS http:/\u2026", 
+    "created_at": "Mon Feb 02 00:18:51 +0000 2015"
+}{
+    "text": "That \"Jurassic World\" trailer was dope. #SuperBowl", 
+    "created_at": "Sun Feb 01 23:42:35 +0000 2015"
+}{
+    "text": "Touchdown! \ud83d\udc4c\ud83c\udfc8 #SuperBowl #PatriotsNation", 
+    "created_at": "Mon Feb 02 00:12:40 +0000 2015"
+}{
+    "text": "brady macho alfa do time", 
+    "created_at": "Mon Feb 02 00:25:25 +0000 2015"
+}{
+    "text": "RT @Figueroa_Reyes: #SuperBowl = comerciales de USD 3MM", 
+    "created_at": "Sun Feb 01 23:50:07 +0000 2015"
+}{
+    "text": "Hate the Pats! Go Seahawks! #jetsnation", 
+    "created_at": "Sun Feb 01 23:30:17 +0000 2015"
+}{
+    "text": "I just can\u2019t see Brady losing his 3rd straight Super Bowl", 
+    "created_at": "Mon Feb 02 00:46:37 +0000 2015"
+}{
+    "text": "who is the fine dread head on the seahawks?! good lord", 
+    "created_at": "Sun Feb 01 23:49:42 +0000 2015"
+}{
+    "text": "RT @WorldStarFunny: Bill Belichick's back up plan to deflate balls http://t.co/qnserrnPZa", 
+    "created_at": "Sun Feb 01 23:51:27 +0000 2015"
+}{
+    "text": "Having a boyfriend that plays american football when the superbowl is on is the worst", 
+    "created_at": "Sun Feb 01 23:56:17 +0000 2015"
+}{
+    "text": "RT @norcoreano: El f\u00fatbol americano es un deporte precolombino, la primera Superbowl enfrent\u00f3 a los Aztecas de Tenochtitlan con los Incas d\u2026", 
+    "created_at": "Sun Feb 01 23:31:00 +0000 2015"
+}{}{
+    "text": "RT @Zak_Bagans: RT if ur also rooting for the Seahawks", 
+    "created_at": "Sun Feb 01 23:33:56 +0000 2015"
+}{
+    "text": "RT @NYTSports: Bill Belichick celebrates Rob Gronkowski's big touchdown grab: http://t.co/OUR2aTJAqx #SB49 http://t.co/mNUqPMHJBw", 
+    "created_at": "Mon Feb 02 00:53:06 +0000 2015"
+}{
+    "text": "RT @LilDaddyTrap_: The Patriots AINT Shit \ud83d\ude24\ud83d\udc81", 
+    "created_at": "Mon Feb 02 00:52:28 +0000 2015"
+}{
+    "text": "@patishh_darcy88 I thought his name was gronk....", 
+    "created_at": "Mon Feb 02 00:25:59 +0000 2015"
+}{
+    "text": "Gronk is a babe \ud83d\ude18", 
+    "created_at": "Mon Feb 02 00:48:41 +0000 2015"
+}{
+    "text": "I've got the @Seahawks winning #SB49! #SeahawksWIN @NFL http://t.co/bMUfiFVCOX", 
+    "created_at": "Mon Feb 02 00:56:01 +0000 2015"
+}{
+    "text": "@K09Kelly running into the kicker penalty on Seattle so now it will be 4th down and 1 yard to go for the Patriots but they decline the flag", 
+    "created_at": "Sun Feb 01 23:37:21 +0000 2015"
+}{
+    "text": "ITS GAMEDAY BITCHES! PATRIOTS FOR THE WIN! GO @Patriots  #SuperBowlXLIX #SuperBowlSunday #SB49", 
+    "created_at": "Sun Feb 01 23:35:29 +0000 2015"
+}{
+    "text": "RT @markbattles317: RETWEET for New England or Favorite for Seahawks", 
+    "created_at": "Sun Feb 01 23:32:12 +0000 2015"
+}{
+    "text": "RT @TotallyTko: Where the Superbowl parties", 
+    "created_at": "Mon Feb 02 00:18:56 +0000 2015"
+}{
+    "text": "Superbowl time with @Kkunkel20 !!!!", 
+    "created_at": "Sun Feb 01 23:46:23 +0000 2015"
+}{
+    "text": "RT @pure_hattricks: Lovely picture of Tom Brady with Lionel Messi. http://t.co/z7rK2uQARE", 
+    "created_at": "Mon Feb 02 00:56:14 +0000 2015"
+}{
+    "text": "RT @WSJ: Watch the ads from the #SuperBowl - and vote for the best and worst: http://t.co/oiVy2nQogh http://t.co/SsAyWEC5Z5", 
+    "created_at": "Mon Feb 02 00:32:29 +0000 2015"
+}{
+    "text": "RT @DaniellePeazer: I have absolutely no idea what's going but the Super Bowl has me hooked already \ud83c\udfc9 #mainlywaitingforKatyPerrytoperform #\u2026", 
+    "created_at": "Sun Feb 01 23:28:40 +0000 2015"
+}{
+    "text": "RT @flx1217: RT if you think Seattle going to win the Super Bowl again\ud83d\udcaa\ud83d\udcaf\ud83d\udd10\ud83c\udfc8\ud83c\udfc8\ud83d\udca5\ud83d\udca5", 
+    "created_at": "Mon Feb 02 00:31:46 +0000 2015"
+}{
+    "text": "Che cuore Lynch. Di alcolismo e di ignoranza noi ne abbiamo in abbondanza! Forza Sea\u00adha\u00adwks! #foxnflitalia", 
+    "created_at": "Mon Feb 02 00:37:02 +0000 2015"
+}{
+    "text": "RT @itsAdam: For a sec, I thought the @NissanUSA commercial was for NAMBLA. #whew #IWasWrong #SuperBowl #SupeBowlAds", 
+    "created_at": "Mon Feb 02 00:26:28 +0000 2015"
+}{
+    "text": "RT @JozvanVera: Ya saben como, as\u00ed indirectas sin menciones... Tuiteen much\u00edsimo JOZ BRADY \u2764\ufe0f\ud83d\ude0f", 
+    "created_at": "Mon Feb 02 00:44:20 +0000 2015"
+}{
+    "text": "RT @_Snape_: The Seahawks' keeper didn't let the Patriots score. #SuperBowl", 
+    "created_at": "Sun Feb 01 23:54:14 +0000 2015"
+}{
+    "text": "RT @RudeComedian: Hey @Patriots http://t.co/h7hct1RI0F", 
+    "created_at": "Mon Feb 02 00:52:27 +0000 2015"
+}{
+    "text": "RT @rebel_american: One Of The Best Superbowl Ads Of All Time Was About A Farmer | MRCTV http://t.co/euHE6YzW9K", 
+    "created_at": "Sun Feb 01 23:46:34 +0000 2015"
+}{
+    "text": "Seahawks just scored and henny called the touchdown http://t.co/bthNbdS1ZO", 
+    "created_at": "Mon Feb 02 00:59:32 +0000 2015"
+}{
+    "text": "Seahawks defense is all black", 
+    "created_at": "Mon Feb 02 00:44:37 +0000 2015"
+}{
+    "text": "RT @FunnyPicsDepot: Marshawn Lynch and his Skittles lmao https://t.co/d8XbPXeGwE", 
+    "created_at": "Sun Feb 01 23:52:28 +0000 2015"
+}{
+    "text": "Otro 3 y fuera de Seattle.", 
+    "created_at": "Mon Feb 02 00:19:52 +0000 2015"
+}{
+    "text": "patriots\ud83d\ude4c", 
+    "created_at": "Sun Feb 01 23:45:12 +0000 2015"
+}{
+    "text": "RT @Simonbritton_: Superbowl time!\ud83d\ude0d", 
+    "created_at": "Mon Feb 02 00:09:58 +0000 2015"
+}{
+    "text": "RT @BenVolin: Just realized that #Patriots C Bryan Stork played in a BCS title game last year for FSU, and now the Super Bowl. Pretty cool", 
+    "created_at": "Mon Feb 02 00:26:50 +0000 2015"
+}{
+    "text": "Lets Gooooooo Lynch", 
+    "created_at": "Mon Feb 02 00:33:15 +0000 2015"
+}{
+    "text": "bring back the days when superbowl commercials were funny and entertaining", 
+    "created_at": "Mon Feb 02 00:28:53 +0000 2015"
+}{
+    "text": "RT @Ikira__: \ud83d\udc99\ud83d\udc9a\ud83d\udc99\ud83d\udc9a let's go seahawks", 
+    "created_at": "Mon Feb 02 00:37:14 +0000 2015"
+}{
+    "text": "\u201c@pizzapieterse: people voting for seahawks on my tl i'm disgusted\u201d loool everyone where I'm from are backin Seahawks", 
+    "created_at": "Sun Feb 01 23:57:40 +0000 2015"
+}{
+    "text": "Go, Patriots!!!", 
+    "created_at": "Mon Feb 02 00:16:59 +0000 2015"
+}{
+    "text": "RT @AmantesDelFut: \u00bfFebrero mes de SuperBowl?\n\n\u2714 Febrero mes de \u00a1\u00a1\u00a1CHAMPIONS LEAGUE!!", 
+    "created_at": "Sun Feb 01 23:45:28 +0000 2015"
+}{
+    "text": "RT @UberFootFact: Superbowl viewers in 2014: 115 million.\n\nChelsea vs Manchester City last night: 650 million.", 
+    "created_at": "Mon Feb 02 00:32:53 +0000 2015"
+}{
+    "text": "The hard crew making the #SuperBowl #halftime show happen! #KatyPerrySuperBowl @katyperry http://t.co/z9BCSHeyQh", 
+    "created_at": "Mon Feb 02 00:10:29 +0000 2015"
+}{
+    "text": "SuperBowl with the Bonnetts means discussing the character of the Seahawks. \"They're just so noble\" \"So much heart as a team\" @lukasbonnett", 
+    "created_at": "Sun Feb 01 23:47:52 +0000 2015"
+}{
+    "text": "RT @DolanGrayson: Eating out of my superbowl rn", 
+    "created_at": "Mon Feb 02 00:55:51 +0000 2015"
+}{
+    "text": "aquele momento em que o Brady \u00e9 interceptado \ud83d\ude02 #SuperBowlNoEsporteInterativo", 
+    "created_at": "Sun Feb 01 23:58:24 +0000 2015"
+}{
+    "text": "RT @common: Yep!  That was me  And lil Braylon is amazing!  RT @vanessalflowers: .@common's voice is always so soothing. #empowering #Super\u2026", 
+    "created_at": "Mon Feb 02 00:53:34 +0000 2015"
+}{
+    "text": "RT @GDKAnt: Gronk the one deflating the footballs with his spikes", 
+    "created_at": "Mon Feb 02 00:52:26 +0000 2015"
+}{
+    "text": "Aqui de boas esperando esse intervalo do SuperBowl com Katy Perry.", 
+    "created_at": "Sun Feb 01 23:37:05 +0000 2015"
+}{
+    "text": "RT @gwall1015: WHERE ARE THE FUNNY COMMERCIAL??!! #SB49 #Super Bowl commercials", 
+    "created_at": "Sun Feb 01 23:48:15 +0000 2015"
+}{
+    "text": "RT @CrashMidnight: Edelman! Edelman! Opposing Defenses Can't Handle Him! #SuperBowl #Patriots", 
+    "created_at": "Mon Feb 02 00:19:00 +0000 2015"
+}{
+    "text": "Superbowl and buffalo wings \ud83d\udc4d\ud83c\udfc8\n#NFL #Football #Superbowl #Superbowl49 #NewEngland #Patriots\u2026 http://t.co/BuLY5G58LY", 
+    "created_at": "Mon Feb 02 00:08:20 +0000 2015"
+}{
+    "text": "RT @RiggedNFL: The Patriots and Seahawks will play in the 2015 Super Bowl.\n\n(Read the attached picture). http://t.co/w0pVteOVgq", 
+    "created_at": "Mon Feb 02 00:55:57 +0000 2015"
+}{
+    "text": "Lets go Pats", 
+    "created_at": "Mon Feb 02 00:52:14 +0000 2015"
+}{
+    "text": "RT @MrJustinTemaat: WALTER WHITE WHAT UP FAM YOU ON THE SUPERBOWL", 
+    "created_at": "Mon Feb 02 00:37:11 +0000 2015"
+}{
+    "text": "Game of War commercial? Holy shit. Shit is real. #SB49", 
+    "created_at": "Sun Feb 01 23:42:51 +0000 2015"
+}{
+    "text": "I've got the @Seahawks winning #SB49! #SeahawksWIN @NFL http://t.co/xrVgPB8bYJ", 
+    "created_at": "Sun Feb 01 23:46:03 +0000 2015"
+}{
+    "text": "RT @NotBillWalton: Bill Belichick's back up plan to deflate balls #Superbowl http://t.co/W3FKCIUOk3", 
+    "created_at": "Sun Feb 01 23:41:30 +0000 2015"
+}{
+    "text": "I'm predicting the team that score the most points will likely win #SB49 #SuperBowl", 
+    "created_at": "Sun Feb 01 23:32:42 +0000 2015"
+}{
+    "text": "RT @Steelersdepot: BREAKING: Wilson completed a pass.", 
+    "created_at": "Mon Feb 02 00:30:10 +0000 2015"
+}{
+    "text": "Can't stop the pats", 
+    "created_at": "Mon Feb 02 00:20:10 +0000 2015"
+}{
+    "text": "#Collinsworth is a Pats fan! No doubt about it! #sicktomystomach", 
+    "created_at": "Mon Feb 02 00:07:44 +0000 2015"
+}{
+    "text": "RT @matgand77: New England come Green Bay: gioca meglio ma non capitalizza e tiene in partita Seattle. Pericoloso", 
+    "created_at": "Mon Feb 02 00:44:58 +0000 2015"
+}{}{
+    "text": "Happy #Superbowl from yours truly.  See you in your country this year... in one musical endeavor or\u2026 http://t.co/gNk4fdOEh9", 
+    "created_at": "Sun Feb 01 23:45:23 +0000 2015"
+}{
+    "text": "@Patriots @AZCardinals go pays! No seahawk superbowl in #ourhouse", 
+    "created_at": "Mon Feb 02 00:13:18 +0000 2015"
+}{
+    "text": "RT @macklemore: I'd say this stadium is 70% Hawks fans.  Feels almost like a home game in here.  LETS GO!!!!! @Seahawks #SB49", 
+    "created_at": "Sun Feb 01 23:29:45 +0000 2015"
+}{
+    "text": "RT @lucidraves: these Superbowl ads are making my emotions go all over the place", 
+    "created_at": "Mon Feb 02 00:28:29 +0000 2015"
+}{
+    "text": "RT @Khari2Smoove: Let's go patriots \u270a", 
+    "created_at": "Mon Feb 02 00:17:17 +0000 2015"
+}{
+    "text": "Whoa! Hear \u2018easy\u2019 during #SB49? Win $ from @Wix! Get ready to click http://t.co/3SIiuNj0l7 #ItsThatEasy", 
+    "created_at": "Sun Feb 01 23:40:31 +0000 2015"
+}{
+    "text": "How awesome would it be if @LennyKravitz came out as Cinna and dressed @katyperry in something amazing? @HovekampA #SuperBowl #amazing", 
+    "created_at": "Mon Feb 02 00:41:31 +0000 2015"
+}{
+    "text": "My dad wants Patriots I want Seahawks .. awk", 
+    "created_at": "Mon Feb 02 00:49:03 +0000 2015"
+}{
+    "text": "I got Brady.", 
+    "created_at": "Mon Feb 02 00:00:56 +0000 2015"
+}{
+    "text": "RT @joeykramer: Let's go @Patriots !! #SB49 #PatriotNation \ud83d\udc4f\ud83d\udcaa\ud83c\udfc9", 
+    "created_at": "Mon Feb 02 00:46:07 +0000 2015"
+}{
+    "text": "RT @John_DePetro: Maybe the Seahawks can sign this CB standout at halftime... #CremeDeLaCreme\n#SuperBowlXLIX #NEvsSEA http://t.co/DOg1RUc8bU", 
+    "created_at": "Mon Feb 02 00:24:22 +0000 2015"
+}{}{
+    "text": "RT @DMoneyMGE: #Seahawks with a win tonight!", 
+    "created_at": "Sun Feb 01 23:51:26 +0000 2015"
+}{
+    "text": "As a @49ers an. I guess I'm pulling for the pats. But Tom, you will never come close to being on the level as the Joe Montana. #goldblooded", 
+    "created_at": "Sun Feb 01 23:50:19 +0000 2015"
+}{
+    "text": "RT @jcomp_: rt for seahawks fav for patriots", 
+    "created_at": "Mon Feb 02 00:39:02 +0000 2015"
+}{
+    "text": "Dunk and dunk Brady", 
+    "created_at": "Mon Feb 02 00:07:49 +0000 2015"
+}{
+    "text": "Go Go Seattle Seahawks!  #ESPNtemSuperBowl49 http://t.co/Or8ZOBn3TU", 
+    "created_at": "Sun Feb 01 23:30:47 +0000 2015"
+}{
+    "text": "RT @CallofDuty: New England earns the \"First Blood\" medal. #SB49", 
+    "created_at": "Mon Feb 02 00:18:27 +0000 2015"
+}{
+    "text": "Seahawks \ud83d\udcaa", 
+    "created_at": "Sun Feb 01 23:36:22 +0000 2015"
+}{
+    "text": "I've already reached the point of eating dip with a fork &amp; it's only the first quarter. #SuperbOwl", 
+    "created_at": "Mon Feb 02 00:33:31 +0000 2015"
+}{
+    "text": "@Greenstorm03 @TomVillechaize @NKARABATIC pas grave les seahawks vont les faires mentir \ud83d\ude01", 
+    "created_at": "Sun Feb 01 23:58:10 +0000 2015"
+}{
+    "text": "Ok Ok \ud83d\udc4cSeahawks givin the Patriots a run for their money! Patriot coach sweatin bullets\ud83d\ude13\ud83d\ude02\ud83d\ude02", 
+    "created_at": "Mon Feb 02 01:00:50 +0000 2015"
+}{
+    "text": "MxM Seattle contra Nueva Inglaterra: No te pierdas las incidencias del encuentro que define al campe\u00f3n de la NFL http://t.co/nWaCLMfwLW", 
+    "created_at": "Sun Feb 01 23:44:34 +0000 2015"
+}{
+    "text": "RT @ShortStuffNes \"@IbeenOWT: Sherman a Sigma?\" Yep", 
+    "created_at": "Sun Feb 01 23:39:12 +0000 2015"
+}{
+    "text": "RT @FemaleTexts: Seahawks- 0. Patriots- 0. Snickers- 3.", 
+    "created_at": "Mon Feb 02 00:09:11 +0000 2015"
+}{
+    "text": "If the Patriots wanna win they should run it a lot to get those pass rushers tired then that opens up your passing game", 
+    "created_at": "Sun Feb 01 23:48:05 +0000 2015"
+}{
+    "text": "RT @nfl: QUARTERBACKS COMPARISON\n\nTom Brady:\n\n17/24\n134 Yards\n1 TD\n1 INT\n\nRussell Wilson\n\n2/4\n50 Yards\n0 TD\n0 INT \n#SB49", 
+    "created_at": "Mon Feb 02 00:45:35 +0000 2015"
+}{
+    "text": "RT @lovelesley_xo: seahawks just keep coming back", 
+    "created_at": "Mon Feb 02 01:00:34 +0000 2015"
+}{
+    "text": "RT @FanaticosFut: \u00a1\u00a1TOUCHDOWN PARA LOS SEAHAWKS!!\n\u00a1\u00a1LA BESTIA LYNCH EMPATA TODO!!\n\nSeahawks 7-7 Patriots.", 
+    "created_at": "Mon Feb 02 00:40:28 +0000 2015"
+}{
+    "text": "Brady and the Patriots get the ball to start the Super Bowl - Minneapolis Star Tribune", 
+    "created_at": "Mon Feb 02 00:20:26 +0000 2015"
+}{
+    "text": "RT @JadeReeds: RT for #Seahawks \nFav for #Patriots", 
+    "created_at": "Mon Feb 02 00:00:44 +0000 2015"
+}{
+    "text": "RT @Adweek: T-MOBILE - If you love Kim, you loved this. If you don't, well, at least she made fun of herself. #SB49 http://t.co/ByffTUhMhC", 
+    "created_at": "Mon Feb 02 00:05:20 +0000 2015"
+}{
+    "text": "RT @nfl: WHAT. A. CATCH. #SB49", 
+    "created_at": "Mon Feb 02 00:31:51 +0000 2015"
+}{
+    "text": "I'm waiting for the new 50 Shades trailer #SuperBowl", 
+    "created_at": "Mon Feb 02 00:41:01 +0000 2015"
+}{
+    "text": "RT @HalfBloodTweet: I'd rather be watching Quidditch right now. #SuperBowl", 
+    "created_at": "Mon Feb 02 00:56:08 +0000 2015"
+}{
+    "text": "RT @lEstadao: Katy Perry cancela apresenta\u00e7\u00e3o no SuperBowl e Lady Gaga ir\u00e1 cantar no lugar dela http://t.co/o3AayO5qkn", 
+    "created_at": "Mon Feb 02 00:44:08 +0000 2015"
+}{
+    "text": "RT @AthleteMob: RT - Seahawks !\n\nFavorite - Patriots ! http://t.co/TwYRicPQWO", 
+    "created_at": "Sun Feb 01 23:35:41 +0000 2015"
+}{
+    "text": "Brady's starting to heat up.", 
+    "created_at": "Mon Feb 02 00:26:39 +0000 2015"
+}{
+    "text": "I've got the @Seahawks winning #SB49! #SeahawksWIN @NFL http://t.co/nknYWdcPtW", 
+    "created_at": "Sun Feb 01 23:49:30 +0000 2015"
+}{
+    "text": "RT @SuperBowl20l5: Marshawn Lynch Super Bowl Skittles https://t.co/dmTxLglCG9", 
+    "created_at": "Sun Feb 01 23:34:04 +0000 2015"
+}{
+    "text": "@cesaralo los patriotas van ganandole 7 -0 a los seahawks. (chiste malo).", 
+    "created_at": "Mon Feb 02 00:27:16 +0000 2015"
+}{
+    "text": "RT @latoyajackson: Looking forward to #SuperBowl #Halftime seeing KatyPerry!\n                            \ud83c\udfc8\ud83c\udfc8\ud83c\udfc8\ufe0f\ufe0f \ud83c\udfc8\ud83c\udfc8\ud83c\udfc8\ufe0f\ufe0f \ud83c\udfc8\ud83c\udfc8\ud83c\udfc8\ufe0f\ufe0f", 
+    "created_at": "Sun Feb 01 23:39:51 +0000 2015"
+}{
+    "text": "RT @engadget: PSA: We don't recommend spilling @CocaCola on your devices to improve happiness. #SB49", 
+    "created_at": "Mon Feb 02 00:56:27 +0000 2015"
+}{
+    "text": "RT @nfl: Last name WILSON!!!\n\nTOUCHDOWN!! #SB49 http://t.co/jh7nsNkCzw", 
+    "created_at": "Mon Feb 02 00:59:38 +0000 2015"
+}{
+    "text": "RT @Adweek: Oh look GoDaddy's back to its old wa\u2026.oh, Game of War. Nm. #SuperBowl", 
+    "created_at": "Sun Feb 01 23:43:21 +0000 2015"
+}{
+    "text": "RT @clutchh_19: Pats still bouta win", 
+    "created_at": "Sun Feb 01 23:56:39 +0000 2015"
+}{
+    "text": "RT @ErikFrenz: Red zone was the problem for the Patriots the last time they played the Seahawks. Need to finish the job here.", 
+    "created_at": "Sun Feb 01 23:53:06 +0000 2015"
+}{
+    "text": "Waiting for the Legion of Boom to knock the fuck out of some Patriots receivers and intercept Brady", 
+    "created_at": "Sun Feb 01 23:46:08 +0000 2015"
+}{
+    "text": "RT @CoreyKeyz: Women watching the SuperBowl right now are wifey type.", 
+    "created_at": "Mon Feb 02 00:03:52 +0000 2015"
+}{
+    "text": "Tom Brady is a legend but geez, he bitches about calls more than NBA players do", 
+    "created_at": "Mon Feb 02 00:10:28 +0000 2015"
+}{
+    "text": "RT @Borgore: If the Seahawks win I dare Starbucks to treat everyone to a drink tomorrow.", 
+    "created_at": "Mon Feb 02 00:36:29 +0000 2015"
+}{}{
+    "text": "I hope this Super Bowl isn't overbooked to hell. LETS GO SEAHAWKS! 2 years in a row BAYBAY", 
+    "created_at": "Sun Feb 01 23:58:45 +0000 2015"
+}{
+    "text": "RT @Faux_Gruden: Wow man, Tom Brady is like a popcorn kernel. Once he gets warmed up, he turns into something great. Somebody pour some but\u2026", 
+    "created_at": "Mon Feb 02 00:14:22 +0000 2015"
+}{
+    "text": "Seahawks need to find a way to draft Amaris Cooper lol", 
+    "created_at": "Mon Feb 02 00:20:21 +0000 2015"
+}{
+    "text": "RT @DanSlott: Tonight's big twist:\nNONE of this has been real.\nIt's all been 1 BIG ad for the new Madden game.\n&amp; DAMN those graphics look g\u2026", 
+    "created_at": "Mon Feb 02 00:57:18 +0000 2015"
+}{
+    "text": "RT @Patriots: Brady to Edelman for a 23-yard gain on 3rd &amp; 9. Big time.", 
+    "created_at": "Mon Feb 02 00:11:14 +0000 2015"
+}{
+    "text": "can someones job b do not le4t russell wilson run?", 
+    "created_at": "Sun Feb 01 23:58:06 +0000 2015"
+}{
+    "text": "RT @AnnaKendrick47: Dropkick Murphys playing = God loves the Patriots", 
+    "created_at": "Mon Feb 02 00:27:16 +0000 2015"
+}{
+    "text": "RT @Max_Kellerman: Tough with regulation footballs\n#SuperBowl #DeflatedBalls", 
+    "created_at": "Mon Feb 02 00:26:23 +0000 2015"
+}{
+    "text": "RT @UniWatch: Belichick wearing T-shirt with Pats logo I've never seen before, and \"Don't Tread on Me\" on back. http://t.co/gSpGxxeMgf", 
+    "created_at": "Mon Feb 02 00:43:52 +0000 2015"
+}{
+    "text": "This is the first time in my life I've counted the seconds before Katy Perry takes the stage. #SuperBowl", 
+    "created_at": "Mon Feb 02 00:46:45 +0000 2015"
+}{
+    "text": "RT @DJ_BL3ND: I\u2019m not watching the superbowl, i don\u2019t like football. If they had an L.A Team maybe i wold watch it :p", 
+    "created_at": "Sun Feb 01 23:43:02 +0000 2015"
+}{
+    "text": "Edelman is a pussy #SuperBowl", 
+    "created_at": "Sun Feb 01 23:45:41 +0000 2015"
+}{
+    "text": "Seahawks wins the toss\ud83d\ude0b", 
+    "created_at": "Sun Feb 01 23:25:48 +0000 2015"
+}{
+    "text": "Mais vous me faites rire \u00e0 faire genre vous suivez le SuperBowl alors que vous connaissez rien aux r\u00e8gles. Suivre mouv' tel un mouton", 
+    "created_at": "Mon Feb 02 00:01:24 +0000 2015"
+}{}{
+    "text": "RT @EmblemThree: INTERCEPTION!! #SB49", 
+    "created_at": "Sun Feb 01 23:54:41 +0000 2015"
+}{
+    "text": "I've got the @Patriots winning #SB49! #PatriotsWIN @NFL http://t.co/GbjMquRQxH", 
+    "created_at": "Sun Feb 01 23:31:03 +0000 2015"
+}{
+    "text": "I've got the @Seahawks winning #SB49! #SeahawksWIN @NFL http://t.co/8xiYyvgJSk", 
+    "created_at": "Sun Feb 01 23:48:26 +0000 2015"
+}{
+    "text": "I voted for #MiddleSeat from @Doritos to be this year's #TopSpot2015 #SB49 http://t.co/IrjTvzOOv3", 
+    "created_at": "Mon Feb 02 00:41:42 +0000 2015"
+}{
+    "text": "Lynch got his hair done \ud83d\ude02\ud83d\ude02", 
+    "created_at": "Mon Feb 02 00:28:28 +0000 2015"
+}{
+    "text": "RT @Patriots: TOUCHDOWN GRONK!!!!!!!", 
+    "created_at": "Mon Feb 02 00:48:06 +0000 2015"
+}{
+    "text": "RT @Ruperboy: \u00a1Ay, mis Seahawks!\n\n\u2014La llorona viendo el Superbowl.", 
+    "created_at": "Mon Feb 02 00:05:47 +0000 2015"
+}{
+    "text": "RT @TomBradysEgo: Alright, come on, let's sing the Seahawks song. ( h/t @tyylerpotter ) http://t.co/lbAAeUjbnj", 
+    "created_at": "Mon Feb 02 00:25:18 +0000 2015"
+}{
+    "text": "\u201c@djtinat: Pretty smart of Mcdonalds to take the focus away from the actual food they sell. #Superbowl\u201d\n\n\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02", 
+    "created_at": "Mon Feb 02 00:43:42 +0000 2015"
+}{
+    "text": "Madre m\u00eda la final ya? Se me ha pasao el mundial de superbowl volando #SuperBowl", 
+    "created_at": "Mon Feb 02 00:36:12 +0000 2015"
+}{
+    "text": "RT @ThrowSmoke: Marshawn Lynch is the man", 
+    "created_at": "Mon Feb 02 00:34:37 +0000 2015"
+}{
+    "text": "RT @ChelseaFC: .@PetrCech and Ivanovic playing American Football at the Seattle Seahawks training facility...https://t.co/6LAERD5Qf3 #SB49 \u2026", 
+    "created_at": "Mon Feb 02 00:40:36 +0000 2015"
+}{
+    "text": "RT @gsoss89: @lucyannblount  I knew he was there for the Patriots!  #KennyChesney", 
+    "created_at": "Mon Feb 02 00:33:47 +0000 2015"
+}{
+    "text": "@THE_ELPRESADOR Russell Wilson only has 4 passing attempts the whole game lol", 
+    "created_at": "Mon Feb 02 00:43:01 +0000 2015"
+}{
+    "text": "RT @4for4_John: Fans of the Patriots and the Seahawks have already won. Joe Buck isn\u2019t calling the game.", 
+    "created_at": "Sun Feb 01 23:38:59 +0000 2015"
+}{
+    "text": "RT @Cocodrilee: No mientan, ustedes est\u00e1n viendo el superbowl, \u00fanicamente para verle las nalgas a los jugadores", 
+    "created_at": "Mon Feb 02 00:30:33 +0000 2015"
+}{
+    "text": "RT @nfl: Tom Brady. Brandon LaFell. \n\nTOUCHDOWN!! #SB49 http://t.co/CEBTzGbacS", 
+    "created_at": "Mon Feb 02 00:18:01 +0000 2015"
+}{
+    "text": "RT @Ronnie2K: The real Gronk spike http://t.co/wJ67lOJiu9", 
+    "created_at": "Mon Feb 02 00:50:38 +0000 2015"
+}{
+    "text": "It's entirely possible that my dinner tonight is @FreshIsBestCo tortilla chips. With spinach dip. #balancedmeal #sb49", 
+    "created_at": "Sun Feb 01 23:29:47 +0000 2015"
+}{
+    "text": "\u201c@DickieV: BRADY will be crowned greatest QB ever in about 3 hours !\u201d I concur, if the Pats win.", 
+    "created_at": "Mon Feb 02 00:25:53 +0000 2015"
+}{
+    "text": "Seahawks !!!", 
+    "created_at": "Mon Feb 02 00:33:46 +0000 2015"
+}{
+    "text": "Gronk KNOWS!!!! #NEWENGLAND #ESPNtemSuperBowl49  #PATRIOTS", 
+    "created_at": "Mon Feb 02 00:50:07 +0000 2015"
+}{
+    "text": "Snickers Super Bowl Commercial 2015: Watch \u2018The Brady Bunch\u2019 Ad http://t.co/fLP13OGXL8", 
+    "created_at": "Mon Feb 02 00:50:30 +0000 2015"
+}{
+    "text": "RSS: \u2018Unfinished Business\u2019 All-Ages and Red-Band Superbowl Spots Borrow \u2018Like a Boss\u2019  http://t.co/0GKImxB3FH", 
+    "created_at": "Sun Feb 01 23:41:08 +0000 2015"
+}{
+    "text": "@ProtoChuie Dude the Seahawks are my favorite Hockey team! So glad they made it tot the World Series! :)", 
+    "created_at": "Mon Feb 02 00:16:05 +0000 2015"
+}{
+    "text": "RT @ERFedida: GRONK touchdown #Patriots #SB49 \n\nhttp://t.co/E96OvlD6IV", 
+    "created_at": "Mon Feb 02 00:56:20 +0000 2015"
+}{
+    "text": "RT @__shanashantell: @mone_gotkicks Patriots.", 
+    "created_at": "Mon Feb 02 00:43:00 +0000 2015"
+}{
+    "text": "RT @WorldStarFunny: I just put down $5,000 on the Patriots \ud83d\ude2d", 
+    "created_at": "Sun Feb 01 23:29:12 +0000 2015"
+}{
+    "text": "RT @HisTestimony: WHAT I TOLD YOU !!!!!!!! PATRIOTS GOT THIS SON !!! \ud83d\udd35\ud83d\udd34\u26aa\ufe0f", 
+    "created_at": "Mon Feb 02 00:55:14 +0000 2015"
+}{
+    "text": "RT @AppPowerGroup: \u201c@CouncillorMcRae: Sour cream, peach pies out of the oven &amp; ready to go for #SB49 party. Traditional fav. http://t.co/Nn\u2026", 
+    "created_at": "Mon Feb 02 00:22:00 +0000 2015"
+}{
+    "text": "RT @paulpierce34: We on lets gooooooooooo pats", 
+    "created_at": "Mon Feb 02 00:16:40 +0000 2015"
+}{
+    "text": "There u fucking go #Seahawks !!!!!!\r#Superbowl", 
+    "created_at": "Sun Feb 01 23:53:55 +0000 2015"
+}{
+    "text": "RT @_xlaaa_: DID YOU SEE THAT\ud83d\ude31\ud83d\ude31 LETS GO SEAHAWKS \ud83d\udc99\ud83d\udc9a", 
+    "created_at": "Sun Feb 01 23:54:41 +0000 2015"
+}{
+    "text": "RT @SportsCenter: Rob Gronkowski scores his 1st career Super Bowl TD. He's scored a touchdown in all 3 Patriots games this postseason. http\u2026", 
+    "created_at": "Mon Feb 02 00:59:54 +0000 2015"
+}{
+    "text": "RT @chriscornell: Belichick and Brady secretly swapped out the Seahawks walk on music. It was supposed to be Jesus Christ Pose.", 
+    "created_at": "Sun Feb 01 23:33:52 +0000 2015"
+}{
+    "text": "\u201c@joeyguerra: Me watching TV on #SuperBowl Sunday http://t.co/SteppZosDm\u201d LOL", 
+    "created_at": "Mon Feb 02 00:28:30 +0000 2015"
+}{
+    "text": "Let's go to work! #Seahawks", 
+    "created_at": "Sun Feb 01 23:31:38 +0000 2015"
+}{
+    "text": "RT @nfl: WHAT. A. CATCH. #SB49", 
+    "created_at": "Mon Feb 02 00:47:55 +0000 2015"
+}{
+    "text": "RT @hijadescarriada: Como quisiera ser esa presa para que me muerdan esos dientes. #SuperBowl #TomBrady http://t.co/43Q9aSy88y", 
+    "created_at": "Sun Feb 01 23:29:02 +0000 2015"
+}{
+    "text": "RT @SickTriceratopz: Holy crap, you can't say they haven't updated the CGI, LOOK at this comparison I just made: #JurassicWorld #SuperBowl \u2026", 
+    "created_at": "Mon Feb 02 00:09:01 +0000 2015"
+}{
+    "text": "Daily Skimm: Cheat sheet for the #SuperBowl...#necessary http://t.co/Oxwrum1MoO", 
+    "created_at": "Mon Feb 02 00:08:08 +0000 2015"
+}{
+    "text": "RT @TheEllenShow: Jeannie's at the game with a Disney Princess and a Beatle. #SuperBowl http://t.co/wrwn6Gmlfi", 
+    "created_at": "Mon Feb 02 00:40:01 +0000 2015"
+}{
+    "text": "Photo: Looks like @lorealparisusa is rooting for the Seahawks too!! Check out how to recreate their... http://t.co/1QDxVHtJgu", 
+    "created_at": "Sun Feb 01 23:29:35 +0000 2015"
+}{
+    "text": "And just like that the Seahawks score...", 
+    "created_at": "Mon Feb 02 00:33:32 +0000 2015"
+}{
+    "text": "RT @nathannatty41: Marshawn Lynch tells all about how he continues to go beast mode from year to year!\n&gt;  http://t.co/HeIqqxnqLO http://t.c\u2026", 
+    "created_at": "Mon Feb 02 00:29:36 +0000 2015"
+}{
+    "text": "RT @jimpovolo: I'm rooting for the Patriots cause when Tom Brady had long hair he looked cool.", 
+    "created_at": "Sun Feb 01 23:48:30 +0000 2015"
+}{
+    "text": "Le' go Pats! #SuperBowlXLIX", 
+    "created_at": "Sun Feb 01 23:31:20 +0000 2015"
+}{
+    "text": "RT @BleacherReport: The Coin Toss: Then &amp; Now. #SB49 http://t.co/45whH1FXhO", 
+    "created_at": "Sun Feb 01 23:36:40 +0000 2015"
+}{
+    "text": "RT @GMA: #GronkSpike - TOUCHDOWN\n\n@Patriots take a 14-7 lead off a Brady to @RobGronkowski TD. #GMASuperBowl #SB49 http://t.co/5f42i2IN6c", 
+    "created_at": "Mon Feb 02 00:50:15 +0000 2015"
+}{
+    "text": "I guess Brady would rather throw an INT as opposed to get hit.", 
+    "created_at": "Sun Feb 01 23:57:49 +0000 2015"
+}{
+    "text": "RT @DigiTour: Everyone: SUPERBOWL!!!!\n\nMe: Twitter.", 
+    "created_at": "Sun Feb 01 23:58:47 +0000 2015"
+}{
+    "text": "Can vs gronk", 
+    "created_at": "Sun Feb 01 23:47:42 +0000 2015"
+}{
+    "text": "RT @cc1420: #superbowl McDonald's commercial is sweet, but the workers need a raise", 
+    "created_at": "Mon Feb 02 00:58:00 +0000 2015"
+}{
+    "text": "RT @KingMiller_: I hope New England beats the Patriots. I hate the Patriots.", 
+    "created_at": "Mon Feb 02 00:30:57 +0000 2015"
+}{
+    "text": "Vamos por los halcones marinos!!!! #XLIX #SUPERBOWL", 
+    "created_at": "Sun Feb 01 23:29:17 +0000 2015"
+}{
+    "text": "Probably glad he isn't playing, knows who gronk is now @StayingInMyLane", 
+    "created_at": "Mon Feb 02 00:08:35 +0000 2015"
+}{
+    "text": "RT @AllYouNeedisEC: Mira el nuevo spot de #AllYouNeedIsEcuador para el #Sb49 \nhttp://t.co/QZZi0m1uOc Como ning\u00fan otro, todo en un solo luga\u2026", 
+    "created_at": "Mon Feb 02 00:41:58 +0000 2015"
+}{
+    "text": "RT @nfl: COIN TOSS: The @patriots call HEADS and it's TAILS\n\nSeahawks defer.\n\n@Patriots will start the ball for #SB49", 
+    "created_at": "Sun Feb 01 23:28:51 +0000 2015"
+}{
+    "text": "\u201c@JClarkCSN: Last scoreless Super Bowl after first quarter was Eagles-Patriots 10 years ago. #SuperBowl\u201d STOP \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d", 
+    "created_at": "Mon Feb 02 00:06:17 +0000 2015"
+}{
+    "text": "I don't know if it's her or the fact the US have a very patriotic anthem but #idinamenzel's performance at #SB49 was beautiful #NEvsSEA", 
+    "created_at": "Sun Feb 01 23:58:53 +0000 2015"
+}{
+    "text": "9 year old at church - No one should want the Patriots to win. They are \"straight off\" cheaters.", 
+    "created_at": "Sun Feb 01 23:26:29 +0000 2015"
+}{
+    "text": "RT @LostNUnbound: Could you imagine if Sherman's wife went into labor, Sherman goes to the hospital, returns to the game, and gets a GW Pic\u2026", 
+    "created_at": "Sun Feb 01 23:32:32 +0000 2015"
+}{
+    "text": "Patriots short pass game is killing the seahawks. And the legion of boom is banged up. #SuperBowl", 
+    "created_at": "Mon Feb 02 00:14:39 +0000 2015"
+}{
+    "text": "RT @lindaponer: Super Bowl 2015: What TV channel Seahawks-Patriots is on, live stream details @ http://t.co/s9yliQJp0p", 
+    "created_at": "Mon Feb 02 00:41:25 +0000 2015"
+}{
+    "text": "I don't like the superbowl sorry everyone lol", 
+    "created_at": "Mon Feb 02 00:23:18 +0000 2015"
+}{
+    "text": "RT @elonjames: #Nationwide: \"We will sacrifice a live child on the alter of Cthulhu next year. Fuck around if you wanna.\" #sb49", 
+    "created_at": "Mon Feb 02 00:56:53 +0000 2015"
+}{
+    "text": "This nigga Lynch is too good \ud83d\ude2d", 
+    "created_at": "Mon Feb 02 00:35:01 +0000 2015"
+}{
+    "text": "@NiallOfficial Niall, Seahawks or patriots?", 
+    "created_at": "Sun Feb 01 23:37:15 +0000 2015"
+}{
+    "text": "Champions take risks. I'd like to see them go for it here and tie it up at the half. #SB49", 
+    "created_at": "Mon Feb 02 00:56:08 +0000 2015"
+}{
+    "text": "Brady the GOAT", 
+    "created_at": "Mon Feb 02 00:49:10 +0000 2015"
+}{
+    "text": "RT @Xbox: Tasting the rainbow. While playing the rainbow. #rainbowseverywhere #SB49 @skittles #settleit http://t.co/d91T8UZMYL", 
+    "created_at": "Mon Feb 02 00:21:26 +0000 2015"
+}{
+    "text": "RT @EAMaddenNFL: Kickoff is finally here. #WhosGonnaWin? \n\nRT for the @Patriots \nFAV for the @Seahawks \n\n#SB49 http://t.co/hyXN96r3NR", 
+    "created_at": "Sun Feb 01 23:25:51 +0000 2015"
+}{
+    "text": "@PiercingFX  6 #SuperBowl #Suspense Specials http://t.co/sCNrXxICNB #Thriller, #Mystery &amp; #RomanticSuspense #eBook #Deals", 
+    "created_at": "Mon Feb 02 00:37:44 +0000 2015"
+}{
+    "text": "I got : Seattle Seahawks! Which Super Bowl XLIX Team Actually Fits Your Personality? http://t.co/j4DrzJgO8d", 
+    "created_at": "Mon Feb 02 00:44:57 +0000 2015"
+}{
+    "text": "So much time #SuperBowl", 
+    "created_at": "Sun Feb 01 23:58:08 +0000 2015"
+}{
+    "text": "RT @BroLogics: Marshawn Lynch Super Bowl Skittles https://t.co/rAKj2yqW1b", 
+    "created_at": "Mon Feb 02 00:27:43 +0000 2015"
+}{
+    "text": "RT @BleacherReport: The Coin Toss: Then &amp; Now. #SB49 http://t.co/45whH1FXhO", 
+    "created_at": "Sun Feb 01 23:52:18 +0000 2015"
+}{
+    "text": "@comcast @comcastcares How is it possible that 1 of biggest shows #SB49 the broadcast over your wires is pixelating awful? #Ridiculousness", 
+    "created_at": "Mon Feb 02 00:28:50 +0000 2015"
+}{
+    "text": "TD lynch lets go. Got money riding on the Seahawks", 
+    "created_at": "Mon Feb 02 00:33:54 +0000 2015"
+}{
+    "text": "@Seahawks Van a perder que le hacen ala mamada", 
+    "created_at": "Mon Feb 02 00:54:47 +0000 2015"
+}{
+    "text": "I've got the @Patriots winning #SB49! #PatriotsWIN @NFL http://t.co/OkdnDWPh9a", 
+    "created_at": "Mon Feb 02 00:09:17 +0000 2015"
+}{
+    "text": "RT @Ravens: John Harbaugh will join Tony Dungy &amp; Rodney Harrison for tonight's #SuperBowl broadcast. More: http://t.co/0MLTjmWnPI http://t.\u2026", 
+    "created_at": "Sun Feb 01 23:57:08 +0000 2015"
+}{
+    "text": "RT @paddypower: I'm in tears already. My Twinkie is f*cking soaked. #SuperBowl", 
+    "created_at": "Sun Feb 01 23:32:32 +0000 2015"
+}{
+    "text": "#Rihanna's Over The Top Vacation Pics! maybe she should of done the #SUPERBOWL #RT if you agree. \nhttp://t.co/QvrgTWlqFT", 
+    "created_at": "Sun Feb 01 23:50:15 +0000 2015"
+}{
+    "text": "All the girls want the pats to win and all the guys want the Seahawks to win... I wonder why \ud83d\ude02\ud83d\ude02\ud83d\ude02", 
+    "created_at": "Mon Feb 02 00:13:14 +0000 2015"
+}{
+    "text": "Anyone else notice that Brady's look changes from year to year? Remember one year he looked like the fifth Beatle?", 
+    "created_at": "Mon Feb 02 00:21:35 +0000 2015"
+}{
+    "text": "Pqp, faltando 6 segundos pra ir pro intervalo o patriots toma um touchdown \ud83d\ude12 #ESPNtemSuperBowl49", 
+    "created_at": "Mon Feb 02 01:00:13 +0000 2015"
+}{
+    "text": "Fuck you Brady", 
+    "created_at": "Sun Feb 01 23:53:04 +0000 2015"
+}{
+    "text": "RT @mindykaling: Proof I\u2019m not invisible. Just look at how into me he is! @Nationwide #InvisibleMindy #SuperBowl http://t.co/94IdS4PWdY", 
+    "created_at": "Mon Feb 02 00:07:08 +0000 2015"
+}{
+    "text": "Seahawks don't allow touchdowns mofos! \ud83d\udc46\ud83d\udc4f", 
+    "created_at": "Sun Feb 01 23:57:16 +0000 2015"
+}{
+    "text": "I want the Seahawks to win bc Grey's anatomy is in Seattle", 
+    "created_at": "Mon Feb 02 00:59:04 +0000 2015"
+}{
+    "text": "YESSSSS!!!!!!! COME ON PATS! COME OM BRADY!!! \ud83d\ude4c\ud83c\udfc6\ud83c\udfc6\ud83d\ude4c\ud83d\ude4c\ud83d\ude4c\ud83c\udfc6\ud83c\udfc6", 
+    "created_at": "Mon Feb 02 00:51:34 +0000 2015"
+}{
+    "text": "...well, it's about that time - football, feet up and some crownroyal apple in my cup. \ud83c\udfc8\ud83d\ude06\ud83c\udf4e #SB49\u2026 http://t.co/WpuWtjzOzw", 
+    "created_at": "Mon Feb 02 00:43:38 +0000 2015"
+}{
+    "text": "Just Sayin'. :) - #SB49 http://t.co/yyvXwcI97n", 
+    "created_at": "Sun Feb 01 23:29:40 +0000 2015"
+}{
+    "text": "RT @brianstelter: #SuperBowl advertisers \"are on trial,\" says @shariannebrill: http://t.co/8PYdGfo3fq My @CNNMoney story about the Ad Bowl,\u2026", 
+    "created_at": "Mon Feb 02 00:34:19 +0000 2015"
+}{
+    "text": "RT @JoshIwunze: Touchdown Seahawks \ud83d\ude4c\ud83c\udfc8", 
+    "created_at": "Mon Feb 02 00:57:44 +0000 2015"
+}{
+    "text": "RT @SNFonNBC: TOUCHDOWN @Seahawks! #SB49 http://t.co/Fviz4E9hJF", 
+    "created_at": "Mon Feb 02 00:59:18 +0000 2015"
+}{
+    "text": "@Jakemicheal770 Wilson loses 2 yards and that's the end of the first quarter", 
+    "created_at": "Sun Feb 01 23:58:29 +0000 2015"
+}{
+    "text": "katy no #SuperBowl s\u00f3 assim pras migas assistirem futebol americano", 
+    "created_at": "Mon Feb 02 00:18:37 +0000 2015"
+}{
+    "text": "RT @AppPowerGroup: Newcastle Super Bowl commercial 2015: A product-placement frenzy http://t.co/kep2z24vpO\n#Superbowl\n#SuperBowlSunday\n#SB49", 
+    "created_at": "Mon Feb 02 00:08:20 +0000 2015"
+}{
+    "text": "RT @noticel: 7-0, a favor de los @Patriots. Restan 9 minutos y medio al segundo cuarto del partido. #SuperBowlXLIX", 
+    "created_at": "Mon Feb 02 00:17:38 +0000 2015"
+}{
+    "text": "What a drive by Seattle!", 
+    "created_at": "Mon Feb 02 00:36:33 +0000 2015"
+}{
+    "text": "RT @ChrissyChanel__: I thought Kobe was playing tho... \u201c@ovoxoscar: Mayweather's got this \ud83d\udc4f! He's definitely going to win the Superbowl \ud83d\udcaf #\u2026", 
+    "created_at": "Sun Feb 01 23:42:05 +0000 2015"
+}{
+    "text": "Gronk catch. Gronk score. Gronk SMASH!!! #SB49 #PatsNation", 
+    "created_at": "Mon Feb 02 00:50:16 +0000 2015"
+}{
+    "text": "LET'S GO PATRIOTS BRING IT HOME BRADY \ud83d\udc99\u2764\ud83d\udc99\u2764\ud83c\udfc8\ud83d\ude4c", 
+    "created_at": "Sun Feb 01 23:57:45 +0000 2015"
+}{
+    "text": "RT @BenjaminWillsSJ: Seahawks losing 7-0. Or \"doing a Brazil\" as it's known.", 
+    "created_at": "Mon Feb 02 00:22:01 +0000 2015"
+}{
+    "text": "RT @HEELZiggler: My favorite part of #GameofWar is all the boobs\n#SuperBowl", 
+    "created_at": "Sun Feb 01 23:52:54 +0000 2015"
+}{
+    "text": "Jake's pick: 34-31 Seahawks. Ball will explode at least once from over-inflation.", 
+    "created_at": "Sun Feb 01 23:32:28 +0000 2015"
+}{
+    "text": "RT @BuzzFeed: Tom Brady ordering dinner http://t.co/zfAjpZNL8L", 
+    "created_at": "Mon Feb 02 00:06:34 +0000 2015"
+}{
+    "text": "RT @gracehelbig: All I'm asking for is one audible fart from Katy Perry during Roar. #SuperBowl", 
+    "created_at": "Mon Feb 02 01:00:55 +0000 2015"
+}{
+    "text": "That's what I call bend but don't break defense !! #SUPERBOWL", 
+    "created_at": "Sun Feb 01 23:54:57 +0000 2015"
+}{
+    "text": "RT @scohenPI: Bringing back that Chargers game from Week 2: Gronk there looked a lot like Antonio Gates.", 
+    "created_at": "Mon Feb 02 00:54:14 +0000 2015"
+}{
+    "text": "Ahora es cuando! Go Pats! #SuperBowlXLIX http://t.co/oHBdrc78gh", 
+    "created_at": "Sun Feb 01 23:48:38 +0000 2015"
+}{
+    "text": "RT @nflmx: VER: Los #Patriots abren el marcador en el Super Bowl XLIX #SB49 #MiSuperBowl49 https://t.co/Y9vWeovkP9", 
+    "created_at": "Mon Feb 02 00:22:17 +0000 2015"
+}{
+    "text": "RT @ReneeVuitton: Touchdown! Let's go Seahawks \ud83d\udc4f", 
+    "created_at": "Mon Feb 02 00:35:40 +0000 2015"
+}{
+    "text": "RT @SportsNation: Pats fans: http://t.co/AjILWGlT28", 
+    "created_at": "Mon Feb 02 00:14:32 +0000 2015"
+}{}{
+    "text": "RT @JoelTheX: Will Tom Brady score a touchdown in 2 minutes?\nWill Lane come back from his injury?\nFind out the next episode of dragon ball z", 
+    "created_at": "Mon Feb 02 00:37:14 +0000 2015"
+}{
+    "text": "@CrysHannum I think the Seahawks! Have a great gane with your mom &amp; brother!", 
+    "created_at": "Sun Feb 01 23:30:57 +0000 2015"
+}{
+    "text": "RT @MTV: It's almost time for @katyperry... #SuperBowl http://t.co/lVubIw4h7g http://t.co/ytYpofpoN6", 
+    "created_at": "Mon Feb 02 00:20:01 +0000 2015"
+}{
+    "text": "RT @CoachMcArthur6: Seattle, as usual, extra stingy in the red zone. #AskThePackers", 
+    "created_at": "Sun Feb 01 23:55:49 +0000 2015"
+}{
+    "text": "Tom Brady make me proud you damn good looking thing", 
+    "created_at": "Mon Feb 02 00:25:19 +0000 2015"
+}{
+    "text": "RT @iHeartRadio: WE ARE 2 MINUTES AWAY from this lady killing the #SuperBowl halftime show! @katyperry http://t.co/jev6b35PNK", 
+    "created_at": "Mon Feb 02 00:44:03 +0000 2015"
+}{}{
+    "text": "RT @ShelbyKnox: Love seeing differently abled women showcased as beautiful &amp; powerful in a #SuperBowl ad. That is #oneboldchoice. #MediaWeL\u2026", 
+    "created_at": "Sun Feb 01 23:58:04 +0000 2015"
+}{
+    "text": "RT @AndySamuels: Go Seahawks \ud83c\udfc9\ud83c\udfc9\ud83c\udfc9\ud83c\udfc9", 
+    "created_at": "Sun Feb 01 23:48:38 +0000 2015"
+}{
+    "text": "RT @piersmorgan: Tom Brady looks a bit deflated.", 
+    "created_at": "Mon Feb 02 00:03:25 +0000 2015"
+}{
+    "text": "RT @record_mexico: Acarreo de Marshawn Lynch para llegar a la zona de TD. Con el extra, el marcador se pone Patriotas 7-7 Seattle: http://t\u2026", 
+    "created_at": "Mon Feb 02 00:38:43 +0000 2015"
+}{
+    "text": "Let's go Seattle !", 
+    "created_at": "Sun Feb 01 23:57:33 +0000 2015"
+}{
+    "text": "RT @nfl: Kickoff time. #SB49 under way.\n\nLet's do this!!", 
+    "created_at": "Sun Feb 01 23:31:12 +0000 2015"
+}{
+    "text": "RT @cenkuygur: Go Pats! Go TYT! #tytlive #SuperBowl http://t.co/Vtb6kRmAoi", 
+    "created_at": "Mon Feb 02 00:52:00 +0000 2015"
+}{
+    "text": "finally wilson damn", 
+    "created_at": "Mon Feb 02 00:30:34 +0000 2015"
+}{
+    "text": "Aww puppy \ud83d\ude22\ud83d\ude22 #Budweiser #Superbowl", 
+    "created_at": "Mon Feb 02 00:08:54 +0000 2015"
+}{
+    "text": "Marsharwn Lynch is  a battling ram.lol", 
+    "created_at": "Mon Feb 02 00:37:21 +0000 2015"
+}{
+    "text": "RT @FRAnalytics: Entrance to @SuperBowl game sponsors @VerizonWireless @SAP providing sponsors $10,500 value from exposure #24hrsBS49 http:\u2026", 
+    "created_at": "Sun Feb 01 23:36:05 +0000 2015"
+}{
+    "text": "RT @TSBibleWriters: In what Quarter does this bloke come out to blow the field up? #SB49 http://t.co/bYH7JPtd1X", 
+    "created_at": "Mon Feb 02 00:13:37 +0000 2015"
+}{
+    "text": "RT @BuzzFeed: \u201cI\u2019m just here to score touchdowns\u201d\n\n- Marshawn Lynch, probably", 
+    "created_at": "Mon Feb 02 00:34:50 +0000 2015"
+}{
+    "text": "RT @AdamSchefter: Patriots now have gone six straight Super Bowls without a 1st quarter point (for whatever that's worth...)", 
+    "created_at": "Mon Feb 02 00:29:20 +0000 2015"
+}{
+    "text": "I'm gone cry if these seahawks lose and never watch football again . So serious", 
+    "created_at": "Sun Feb 01 23:33:29 +0000 2015"
+}{
+    "text": "Congrats pats, we spotted you a 7-0 lead", 
+    "created_at": "Mon Feb 02 00:16:20 +0000 2015"
+}{
+    "text": "RT @CaptainInsanoo: @HateChrisGreene correct me if I'm wrong but I'm pretty sure if the patriots score more, they'll win.", 
+    "created_at": "Mon Feb 02 00:31:18 +0000 2015"
+}{
+    "text": "\u201c@timothyprince: Photo op with the puppy savior #BestBuds http://t.co/Qe0AixtYex\u201d #sb49", 
+    "created_at": "Mon Feb 02 00:20:06 +0000 2015"
+}{
+    "text": "RT @AdG_Rabid: Let's go Seahawks!!!!", 
+    "created_at": "Sun Feb 01 23:34:02 +0000 2015"
+}{
+    "text": "RT @LizardLover42: I'll give everyone that RTs 50$ if the Seahawks win http://t.co/4e0wemJcbp", 
+    "created_at": "Sun Feb 01 23:55:02 +0000 2015"
+}{
+    "text": "RT @nfl: Kickoff time. #SB49 under way.\n\nLet's do this!!", 
+    "created_at": "Sun Feb 01 23:36:40 +0000 2015"
+}{
+    "text": "RT @mattkalish: Giveaway tonight:\nRT this and for every touchdown by New England or Seattle, I will randomly select someone for a $10 @Draf\u2026", 
+    "created_at": "Mon Feb 02 00:27:25 +0000 2015"
+}{
+    "text": "Never thought I'd see the day I'm hardcore rooting for the Patriots", 
+    "created_at": "Sun Feb 01 23:52:18 +0000 2015"
+}{
+    "text": "My prediction for the superbowl: I take a nap", 
+    "created_at": "Mon Feb 02 00:17:03 +0000 2015"
+}{
+    "text": "@HenrikAndersoon Lynch \u00e4r kung!!!", 
+    "created_at": "Sun Feb 01 23:58:46 +0000 2015"
+}{
+    "text": "RT @madhouseonmads: girls who don't know who to root for just think Seattle Seahawks = Seattle Grace Hospital = McDreamy", 
+    "created_at": "Mon Feb 02 00:07:30 +0000 2015"
+}{
+    "text": "RT @doubleedutchy: Can't believe all the patriots have Ebola and have to miss the rest of the game", 
+    "created_at": "Sun Feb 01 23:37:41 +0000 2015"
+}{
+    "text": "RT @BrianSozzi: Not spotted: any RadioShack #SuperBowl commercials", 
+    "created_at": "Mon Feb 02 00:54:27 +0000 2015"
+}{
+    "text": "I need a pats touchdown for 150 bucks", 
+    "created_at": "Mon Feb 02 00:43:57 +0000 2015"
+}{
+    "text": "Who will win lets go Seahawks #football #ball #sports #seahawks #SuperBowl #nfl http://t.co/h2jNAI0idH", 
+    "created_at": "Sun Feb 01 23:25:13 +0000 2015"
+}{}{
+    "text": "RT @prattprattpratt: Jurassic World trailer that just aired during the #SuperBowl http://t.co/r4LRsRiEFf here we go!!!!!!!!!!!!", 
+    "created_at": "Sun Feb 01 23:32:19 +0000 2015"
+}{
+    "text": "I swear the Seahawks got that quiet confidence", 
+    "created_at": "Sun Feb 01 23:27:13 +0000 2015"
+}{
+    "text": "@MrChrisClarkson @robwardplazy Chris, the Legion of Boom is the Nickname of the guys on the Seattle Defense who made the interception", 
+    "created_at": "Mon Feb 02 00:01:47 +0000 2015"
+}{
+    "text": "Every player overcame something to get to where they are. #BeautyInThestruggle #Superbowl", 
+    "created_at": "Sun Feb 01 23:47:37 +0000 2015"
+}{
+    "text": "RT @WorldStarFunny: Marshawn Lynch and his Skittles lmao https://t.co/8jH9XQqOrU", 
+    "created_at": "Mon Feb 02 00:21:25 +0000 2015"
+}{
+    "text": "Seahawks\ud83d\udc99\ud83d\udc9a\ud83d\udc26(let's pretend that's a Seahawk)", 
+    "created_at": "Sun Feb 01 23:51:03 +0000 2015"
+}{
+    "text": "#bradsyseption boom! #SB49", 
+    "created_at": "Sun Feb 01 23:55:35 +0000 2015"
+}{
+    "text": "As soon as the Patriots made a td my mom asked if they checked the balls \ud83d\ude02\ud83d\ude02\ud83d\ude02", 
+    "created_at": "Mon Feb 02 00:16:58 +0000 2015"
+}{
+    "text": "RT @Things4WhitePpl: Playing WR for the Patriots", 
+    "created_at": "Mon Feb 02 00:43:10 +0000 2015"
+}{
+    "text": "@2Shiro4U Ohh aye lot of people did. Remember Mr Wilson fae English", 
+    "created_at": "Sun Feb 01 23:31:13 +0000 2015"
+}{
+    "text": "Let's get this money Seattle I needs my bread son", 
+    "created_at": "Sun Feb 01 23:29:18 +0000 2015"
+}{
+    "text": "RT @LilCamo_: What That Was Like A 10 Sec Drive?\ud83d\ude02\ud83d\ude02 ...Back To Brady", 
+    "created_at": "Sun Feb 01 23:44:44 +0000 2015"
+}{
+    "text": "Wenn die Patriots so stark in der Defense bleiben holen die das Ding. #ranNFL", 
+    "created_at": "Mon Feb 02 00:03:52 +0000 2015"
+}{
+    "text": "Is there a reason premier league keepers don't get a go at being an #NFL kicker towards the end of their career? #soccer #EPL #SuperBowl", 
+    "created_at": "Mon Feb 02 01:00:15 +0000 2015"
+}{
+    "text": "RT @_joshuahall_: \u201c@Katelynle_: Russell Wilson has yet to complete a pass. \ud83d\udc38\u2615\ufe0f\u201d but he threw four picks last game and still came back...o \u2026", 
+    "created_at": "Mon Feb 02 00:31:01 +0000 2015"
+}{
+    "text": "RT @kingsthings: My pick today... the @Seahawks, on a hunch, which is all anybody can have for today\u2019s game, a hunch. #SB49", 
+    "created_at": "Sun Feb 01 23:40:02 +0000 2015"
+}{
+    "text": "Vive les Expos \u201c@mental_floss: Tom Brady was drafted as a catcher by the Montreal Expos in 1995. http://t.co/legLqOYgKK\u201d", 
+    "created_at": "Mon Feb 02 00:27:39 +0000 2015"
+}{
+    "text": "RT @camdejueoficial: \u00bfLa Champions o el #SB49?\n\n#RT: @ChampionsLeague \n#FAV: @SuperBowl http://t.co/FnzmpKdbF4", 
+    "created_at": "Sun Feb 01 23:27:04 +0000 2015"
+}{
+    "text": "RT @nfl: You just scored the first TD of #SB49, Brandon Lafell.\n\nYou get to dance. #WindIt #WindIt #SB49 http://t.co/2FS1JukP18", 
+    "created_at": "Mon Feb 02 00:43:46 +0000 2015"
+}{
+    "text": "Carnival Cruise - loved the voiceover. The ad brought me back to the #j335 press conference too. #SB49", 
+    "created_at": "Sun Feb 01 23:59:55 +0000 2015"
+}{
+    "text": "EN SERIO? CUANTOS NUEVOS GRINGOS HAY PARA QUE #SuperBowl ESTE SOBRE LA ETIQUETA #PatriciaJaniotFascista?", 
+    "created_at": "Sun Feb 01 23:38:54 +0000 2015"
+}{
+    "text": "GET THE FUCK IN @prattprattpratt: Jurassic World trailer that just aired during the #SuperBowl http://t.co/5gDh4M8HhU here we go!!!!!!!!!!!!", 
+    "created_at": "Sun Feb 01 23:38:25 +0000 2015"
+}{
+    "text": "sEaHaWkS aRe GoNnA wIn\ud83d\udc99\ud83d\udc9a", 
+    "created_at": "Sun Feb 01 23:35:45 +0000 2015"
+}{
+    "text": "RT @chucknicecomic: I did not know that Jeff Bridges was a digeridoo! #SuperBowl", 
+    "created_at": "Mon Feb 02 00:54:03 +0000 2015"
+}{
+    "text": "I need a FIAT!!!!!! #SB49 #BrandBowl", 
+    "created_at": "Mon Feb 02 00:40:32 +0000 2015"
+}{
+    "text": "The first #commercial of the super bowl sucked. The #CapitalOne commercial was excellent. #SuperBowlSunday #SB49 #SuperBowl", 
+    "created_at": "Sun Feb 01 23:48:56 +0000 2015"
+}{
+    "text": "Gooo seahawks", 
+    "created_at": "Sun Feb 01 23:26:02 +0000 2015"
+}{
+    "text": "RT @MikeKlis: I told you Tim Tebow could have been a Super Bowl quarterback. Russell Wilson: 0 of 0, 0 yards, end of 1rst.", 
+    "created_at": "Mon Feb 02 00:01:25 +0000 2015"
+}{
+    "text": "#SuperBowl #football #bjs #friends #fun #seahawks #patriots @ BJ's Restaurant &amp; Brewhouse - Century City http://t.co/TGJ2lOLKLo", 
+    "created_at": "Mon Feb 02 00:35:55 +0000 2015"
+}{
+    "text": "@CashNastyGaming cash this is the game where we find out whether Sherman can back up all that talk about being the best cb", 
+    "created_at": "Sun Feb 01 23:37:49 +0000 2015"
+}{
+    "text": "RT @iauraB: Que bueno esta el SuperBowl RT si te esta gustando http://t.co/GHd9evGT8u", 
+    "created_at": "Mon Feb 02 00:45:59 +0000 2015"
+}{
+    "text": "Excited to watch the first heat of the 50 free. Brady vs. Wilson", 
+    "created_at": "Mon Feb 02 00:24:39 +0000 2015"
+}{
+    "text": "Seahawks \ud83d\udc9a\ud83d\udc99", 
+    "created_at": "Sun Feb 01 23:36:01 +0000 2015"
+}{
+    "text": "RT @FreeTopher: Seattle Defense is lost nigga", 
+    "created_at": "Sun Feb 01 23:54:10 +0000 2015"
+}{
+    "text": "RT @FemalesText: win or lose tonight, Tom Brady is still winning http://t.co/dEphfgEQ0L", 
+    "created_at": "Mon Feb 02 00:55:19 +0000 2015"
+}{
+    "text": "RT @juliancamarena: If you're a Patriots fan I'm sure you're super happy right now! #SuperBowlXLIX \ud83c\udfc8", 
+    "created_at": "Mon Feb 02 00:38:06 +0000 2015"
+}{
+    "text": "[CBS Sports: Eye on Football] - LOOK: Tom Brady throws a terrible Super Bowl INT in the end z.. http://t.co/hDWXQlFpvV #Patriots #NFL", 
+    "created_at": "Mon Feb 02 00:27:24 +0000 2015"
+}{
+    "text": "who knew there were so many patriots fans in salinas?", 
+    "created_at": "Sun Feb 01 23:39:46 +0000 2015"
+}
