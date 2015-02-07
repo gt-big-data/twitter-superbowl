@@ -8,9 +8,10 @@ with open('tweets.json') as t:
     for line in t:
         tweet = json.loads(line)
         simpler_tweet = {}
-        if "created_at" in tweet.keys():
+        listOfKeys = tweet.keys()
+        if "created_at" in listOfKeys:
             simpler_tweet["created_at"] = tweet["created_at"]
-        if "text" in tweet.keys():
+        if "text" in listOfKeys:
             simpler_tweet["text"] = tweet["text"]
         if count < 1000:
             result.append(simpler_tweet)
@@ -24,4 +25,3 @@ with open('tweets.json') as t:
 with open("sample_tweets.txt", "w") as f:
     for i in result:
         json.dump(i, f, indent=4)
-
