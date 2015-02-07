@@ -1,15 +1,7 @@
 import json
 import random
-# import pymongo
-
-# m = pymongo.MongoClient(host="localhost", port=27017)
-# db = m.superbowl
 
 result = []
-
-# tweetCursor = db.tweets.find()
-# for tweet in tweetCursor:
-#     tweets.append(tweet)
 
 with open('tweets.json') as t:
     count = 0
